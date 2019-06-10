@@ -1,0 +1,4425 @@
+name,value,year,lastValue,rank
+"Depression",1.0,1938.0,0,1
+"Depression",2.0,1944.0,1.0,1
+"Dementia",1.0,1944.0,0,2
+"Alcoholism",24.0,1945.0,0,1
+"Schizophrenia",20.0,1945.0,0,2
+"Pellagra",17.0,1945.0,0,3
+"Depression",14.0,1945.0,2.0,4
+"Neurocirculatory Asthenia",9.0,1945.0,0,5
+"Conversion Disorder",9.0,1945.0,0,6
+"Bipolar Disorder",5.0,1945.0,0,7
+"Delirium",3.0,1945.0,0,8
+"Conduct Disorder",3.0,1945.0,0,9
+"Aphasia",3.0,1945.0,0,10
+"Morphine Dependence",3.0,1945.0,0,11
+"Psychoses Substance-Induced",2.0,1945.0,0,12
+"Alzheimer Disease",2.0,1945.0,0,13
+"Dementia",2.0,1945.0,1.0,14
+"Sexual Dysfunctions",2.0,1945.0,0,15
+"Amnesia",2.0,1945.0,0,16
+"Stuttering",2.0,1945.0,0,17
+"Mutism",2.0,1945.0,0,18
+"Post-Traumatic Stress Disorder",2.0,1945.0,0,19
+"Anorexia Nervosa",1.0,1945.0,0,20
+"Agnosia",1.0,1945.0,0,21
+"Tay-Sachs Disease",1.0,1945.0,0,22
+"Alcoholism",89.0,1946.0,24.0,1
+"Depression",73.0,1946.0,14.0,2
+"Schizophrenia",63.0,1946.0,20.0,3
+"Aphasia",27.0,1946.0,3.0,4
+"Pellagra",26.0,1946.0,17.0,5
+"Bipolar Disorder",23.0,1946.0,5.0,6
+"Conversion Disorder",18.0,1946.0,9.0,7
+"Neurocirculatory Asthenia",17.0,1946.0,9.0,8
+"Delirium",15.0,1946.0,3.0,9
+"Dementia",13.0,1946.0,2.0,10
+"Stuttering",13.0,1946.0,2.0,11
+"Post-Traumatic Stress Disorder",9.0,1946.0,2.0,12
+"Amnesia",9.0,1946.0,2.0,13
+"Conduct Disorder",7.0,1946.0,3.0,14
+"Alzheimer Disease",7.0,1946.0,2.0,15
+"Morphine Dependence",6.0,1946.0,3.0,16
+"Agnosia",4.0,1946.0,1.0,17
+"Mutism",4.0,1946.0,2.0,18
+"Apraxias",4.0,1946.0,0,19
+"Anorexia Nervosa",3.0,1946.0,1.0,20
+"Psychoses Substance-Induced",3.0,1946.0,2.0,21
+"Firesetting Behavior",3.0,1946.0,0,22
+"Sexual Dysfunctions",3.0,1946.0,2.0,23
+"Dyslexia",3.0,1946.0,0,24
+"Trichotillomania",2.0,1946.0,0,25
+"Obsessive-Compulsive Disorder",2.0,1946.0,0,26
+"Tay-Sachs Disease",2.0,1946.0,1.0,27
+"Depersonalization",2.0,1946.0,0,28
+"Masochism",2.0,1946.0,0,29
+"Exhibitionism",2.0,1946.0,0,30
+"Disorders of Excessive Somnolence",1.0,1946.0,0,31
+"Dyscalculia",1.0,1946.0,0,32
+"Autistic Disorder",1.0,1946.0,0,33
+"Pica",1.0,1946.0,0,34
+"Kleine-Levin Syndrome",1.0,1946.0,0,35
+"Gerstmann Syndrome",1.0,1946.0,0,36
+"Creutzfeldt-Jakob Syndrome",1.0,1946.0,0,37
+"Premature Ejaculation",1.0,1946.0,0,38
+"Stereotypic Movement Disorder",1.0,1946.0,0,39
+"Hypochondriasis",1.0,1946.0,0,40
+"Anomia",1.0,1946.0,0,41
+"Fetishism (Psychiatric)",1.0,1946.0,0,42
+"Alcoholism",92.0,1947.0,89.0,1
+"Schizophrenia",76.0,1947.0,63.0,2
+"Depression",71.0,1947.0,73.0,3
+"Pellagra",31.0,1947.0,26.0,4
+"Conversion Disorder",24.0,1947.0,18.0,5
+"Aphasia",21.0,1947.0,27.0,6
+"Bipolar Disorder",13.0,1947.0,23.0,7
+"Stuttering",12.0,1947.0,13.0,8
+"Neurocirculatory Asthenia",10.0,1947.0,17.0,9
+"Conduct Disorder",7.0,1947.0,7.0,10
+"Amnesia",6.0,1947.0,9.0,11
+"Dementia",6.0,1947.0,13.0,12
+"Sexual Dysfunctions",6.0,1947.0,3.0,13
+"Morphine Dependence",6.0,1947.0,6.0,14
+"Alzheimer Disease",5.0,1947.0,7.0,15
+"Post-Traumatic Stress Disorder",5.0,1947.0,9.0,16
+"Exhibitionism",5.0,1947.0,2.0,17
+"Masochism",4.0,1947.0,2.0,18
+"Depersonalization",4.0,1947.0,2.0,19
+"Delirium",4.0,1947.0,15.0,20
+"Apraxias",3.0,1947.0,4.0,21
+"Obsessive-Compulsive Disorder",3.0,1947.0,2.0,22
+"Agnosia",3.0,1947.0,4.0,23
+"Stereotypic Movement Disorder",3.0,1947.0,1.0,24
+"Tay-Sachs Disease",3.0,1947.0,2.0,25
+"Fetishism (Psychiatric)",2.0,1947.0,1.0,26
+"Firesetting Behavior",2.0,1947.0,3.0,27
+"Gambling",2.0,1947.0,0,28
+"Anorexia Nervosa",2.0,1947.0,3.0,29
+"Dyslexia",2.0,1947.0,3.0,30
+"Autistic Disorder",2.0,1947.0,1.0,31
+"Gerstmann Syndrome",2.0,1947.0,1.0,32
+"Psychoses Substance-Induced",1.0,1947.0,3.0,33
+"Transvestism",1.0,1947.0,0,34
+"Histrionic Personality Disorder",1.0,1947.0,0,35
+"Trichotillomania",1.0,1947.0,2.0,36
+"Hypochondriasis",1.0,1947.0,1.0,37
+"Schizotypal Personality Disorder",1.0,1947.0,0,38
+"Psychoses Alcoholic",1.0,1947.0,0,39
+"Mutism",1.0,1947.0,4.0,40
+"Alcoholism",100.0,1948.0,92.0,1
+"Schizophrenia",91.0,1948.0,76.0,2
+"Depression",50.0,1948.0,71.0,3
+"Conversion Disorder",23.0,1948.0,24.0,4
+"Pellagra",23.0,1948.0,31.0,5
+"Stuttering",19.0,1948.0,12.0,6
+"Aphasia",19.0,1948.0,21.0,7
+"Anorexia Nervosa",9.0,1948.0,2.0,8
+"Dementia",9.0,1948.0,6.0,9
+"Delirium",8.0,1948.0,4.0,10
+"Neurocirculatory Asthenia",8.0,1948.0,10.0,11
+"Amnesia",7.0,1948.0,6.0,12
+"Conduct Disorder",7.0,1948.0,7.0,13
+"Alzheimer Disease",6.0,1948.0,5.0,14
+"Agnosia",6.0,1948.0,3.0,15
+"Post-Traumatic Stress Disorder",5.0,1948.0,5.0,16
+"Dyslexia",5.0,1948.0,2.0,17
+"Morphine Dependence",5.0,1948.0,6.0,18
+"Psychoses Substance-Induced",4.0,1948.0,1.0,19
+"Hypochondriasis",4.0,1948.0,1.0,20
+"Exhibitionism",4.0,1948.0,5.0,21
+"Bipolar Disorder",4.0,1948.0,13.0,22
+"Mutism",3.0,1948.0,1.0,23
+"Gerstmann Syndrome",2.0,1948.0,2.0,24
+"Apraxias",2.0,1948.0,3.0,25
+"Tay-Sachs Disease",2.0,1948.0,3.0,26
+"Agraphia",2.0,1948.0,0,27
+"Dyscalculia",2.0,1948.0,1.0,28
+"Masochism",2.0,1948.0,4.0,29
+"Depersonalization",2.0,1948.0,4.0,30
+"Obsessive-Compulsive Disorder",1.0,1948.0,3.0,31
+"Cyclothymic Disorder",1.0,1948.0,0,32
+"Autistic Disorder",1.0,1948.0,2.0,33
+"Anomia",1.0,1948.0,1.0,34
+"Sexual Dysfunctions",1.0,1948.0,6.0,35
+"Marijuana Abuse",1.0,1948.0,0,36
+"Fetishism (Psychiatric)",1.0,1948.0,2.0,37
+"Pica",1.0,1948.0,1.0,38
+"Histrionic Personality Disorder",1.0,1948.0,1.0,39
+"Gambling",1.0,1948.0,2.0,40
+"Trichotillomania",1.0,1948.0,1.0,41
+"Schizophrenia",114.0,1949.0,91.0,1
+"Alcoholism",110.0,1949.0,100.0,2
+"Depression",48.0,1949.0,50.0,3
+"Aphasia",24.0,1949.0,19.0,4
+"Conversion Disorder",16.0,1949.0,23.0,5
+"Pellagra",14.0,1949.0,23.0,6
+"Stuttering",13.0,1949.0,19.0,7
+"Bipolar Disorder",11.0,1949.0,4.0,8
+"Delirium",9.0,1949.0,8.0,9
+"Neurocirculatory Asthenia",8.0,1949.0,8.0,10
+"Amnesia",7.0,1949.0,7.0,11
+"Dyslexia",7.0,1949.0,5.0,12
+"Dementia",7.0,1949.0,9.0,13
+"Alzheimer Disease",7.0,1949.0,6.0,14
+"Obsessive-Compulsive Disorder",6.0,1949.0,1.0,15
+"Anorexia Nervosa",6.0,1949.0,9.0,16
+"Apraxias",4.0,1949.0,2.0,17
+"Sexual Dysfunctions",4.0,1949.0,1.0,18
+"Morphine Dependence",3.0,1949.0,5.0,19
+"Hypochondriasis",3.0,1949.0,4.0,20
+"Depersonalization",2.0,1949.0,2.0,21
+"Fetishism (Psychiatric)",2.0,1949.0,1.0,22
+"Stereotypic Movement Disorder",2.0,1949.0,3.0,23
+"Mutism",2.0,1949.0,3.0,24
+"Agraphia",2.0,1949.0,2.0,25
+"Post-Traumatic Stress Disorder",2.0,1949.0,5.0,26
+"Postpartum Depression",1.0,1949.0,0,27
+"Autistic Disorder",1.0,1949.0,1.0,28
+"Dissociative Identity Disorder",1.0,1949.0,0,29
+"Gambling",1.0,1949.0,1.0,30
+"Conduct Disorder",1.0,1949.0,7.0,31
+"Psychoses Alcoholic",1.0,1949.0,1.0,32
+"Psychoses Substance-Induced",1.0,1949.0,4.0,33
+"Exhibitionism",1.0,1949.0,4.0,34
+"Premature Ejaculation",1.0,1949.0,1.0,35
+"Sleep Apnea",1.0,1949.0,0,36
+"Echolalia",1.0,1949.0,0,37
+"Sadism",1.0,1949.0,0,38
+"Bruxism",1.0,1949.0,0,39
+"Bulimia",1.0,1949.0,0,40
+"Alcoholism",169.0,1950.0,110.0,1
+"Schizophrenia",168.0,1950.0,114.0,2
+"Depression",89.0,1950.0,48.0,3
+"Bipolar Disorder",41.0,1950.0,11.0,4
+"Aphasia",35.0,1950.0,24.0,5
+"Conversion Disorder",24.0,1950.0,16.0,6
+"Pellagra",22.0,1950.0,14.0,7
+"Dementia",22.0,1950.0,7.0,8
+"Delirium",19.0,1950.0,9.0,9
+"Obsessive-Compulsive Disorder",17.0,1950.0,6.0,10
+"Psychoses Substance-Induced",16.0,1950.0,1.0,11
+"Neurocirculatory Asthenia",15.0,1950.0,8.0,12
+"Amnesia",14.0,1950.0,7.0,13
+"Stuttering",14.0,1950.0,13.0,14
+"Sexual Dysfunctions",10.0,1950.0,4.0,15
+"Agnosia",8.0,1950.0,6.0,16
+"Hypochondriasis",8.0,1950.0,3.0,17
+"Anorexia Nervosa",7.0,1950.0,6.0,18
+"Dyslexia",6.0,1950.0,7.0,19
+"Alzheimer Disease",6.0,1950.0,7.0,20
+"Apraxias",5.0,1950.0,4.0,21
+"Tay-Sachs Disease",5.0,1950.0,2.0,22
+"Conduct Disorder",5.0,1950.0,1.0,23
+"Agraphia",4.0,1950.0,2.0,24
+"Bulimia",3.0,1950.0,1.0,25
+"Bruxism",3.0,1950.0,1.0,26
+"Stereotypic Movement Disorder",3.0,1950.0,2.0,27
+"Schizotypal Personality Disorder",3.0,1950.0,1.0,28
+"Post-Traumatic Stress Disorder",2.0,1950.0,2.0,29
+"Exhibitionism",2.0,1950.0,1.0,30
+"Tobacco Use Disorder",2.0,1950.0,0,31
+"Cyclothymic Disorder",2.0,1950.0,1.0,32
+"Mutism",2.0,1950.0,2.0,33
+"Autistic Disorder",2.0,1950.0,1.0,34
+"Trichotillomania",2.0,1950.0,1.0,35
+"Gambling",2.0,1950.0,1.0,36
+"Histrionic Personality Disorder",1.0,1950.0,1.0,37
+"Premature Ejaculation",1.0,1950.0,1.0,38
+"Depersonalization",1.0,1950.0,2.0,39
+"Sadism",1.0,1950.0,1.0,40
+"Dyscalculia",1.0,1950.0,2.0,41
+"Creutzfeldt-Jakob Syndrome",1.0,1950.0,1.0,42
+"Marijuana Abuse",1.0,1950.0,1.0,43
+"Dissociative Identity Disorder",1.0,1950.0,1.0,44
+"Masochism",1.0,1950.0,2.0,45
+"Disorders of Excessive Somnolence",1.0,1950.0,1.0,46
+"Postpartum Depression",1.0,1950.0,1.0,47
+"Psychoses Alcoholic",1.0,1950.0,1.0,48
+"Gerstmann Syndrome",1.0,1950.0,2.0,49
+"Pedophilia",1.0,1950.0,0,50
+"Schizophrenia",228.0,1951.0,168.0,1
+"Alcoholism",207.0,1951.0,169.0,2
+"Depression",95.0,1951.0,89.0,3
+"Aphasia",38.0,1951.0,35.0,4
+"Bipolar Disorder",38.0,1951.0,41.0,5
+"Dementia",33.0,1951.0,22.0,6
+"Conversion Disorder",31.0,1951.0,24.0,7
+"Pellagra",27.0,1951.0,22.0,8
+"Obsessive-Compulsive Disorder",25.0,1951.0,17.0,9
+"Neurocirculatory Asthenia",25.0,1951.0,15.0,10
+"Stuttering",18.0,1951.0,14.0,11
+"Amnesia",17.0,1951.0,14.0,12
+"Agnosia",17.0,1951.0,8.0,13
+"Alzheimer Disease",17.0,1951.0,6.0,14
+"Dyslexia",14.0,1951.0,6.0,15
+"Delirium",14.0,1951.0,19.0,16
+"Psychoses Substance-Induced",13.0,1951.0,16.0,17
+"Exhibitionism",11.0,1951.0,2.0,18
+"Conduct Disorder",10.0,1951.0,5.0,19
+"Sexual Dysfunctions",9.0,1951.0,10.0,20
+"Anorexia Nervosa",8.0,1951.0,7.0,21
+"Apraxias",7.0,1951.0,5.0,22
+"Tay-Sachs Disease",7.0,1951.0,5.0,23
+"Hypochondriasis",6.0,1951.0,8.0,24
+"Psychoses Alcoholic",5.0,1951.0,1.0,25
+"Depersonalization",5.0,1951.0,1.0,26
+"Agraphia",5.0,1951.0,4.0,27
+"Autistic Disorder",5.0,1951.0,2.0,28
+"Post-Traumatic Stress Disorder",5.0,1951.0,2.0,29
+"Mutism",4.0,1951.0,2.0,30
+"Masochism",3.0,1951.0,1.0,31
+"Kleine-Levin Syndrome",3.0,1951.0,1.0,32
+"Fetishism (Psychiatric)",2.0,1951.0,2.0,33
+"Gambling",2.0,1951.0,2.0,34
+"Agoraphobia",2.0,1951.0,0,35
+"Transvestism",2.0,1951.0,1.0,36
+"Echolalia",2.0,1951.0,1.0,37
+"Pica",2.0,1951.0,1.0,38
+"Morphine Dependence",2.0,1951.0,3.0,39
+"Gerstmann Syndrome",1.0,1951.0,1.0,40
+"Tobacco Use Disorder",1.0,1951.0,2.0,41
+"Stereotypic Movement Disorder",1.0,1951.0,3.0,42
+"Sleep Apnea",1.0,1951.0,1.0,43
+"Akinetic Mutism",1.0,1951.0,0,44
+"Trichotillomania",1.0,1951.0,2.0,45
+"Cyclothymic Disorder",1.0,1951.0,2.0,46
+"Heroin Dependence",1.0,1951.0,0,47
+"Frontotemporal Dementia",1.0,1951.0,0,48
+"Schizophrenia",266.0,1952.0,228.0,1
+"Alcoholism",225.0,1952.0,207.0,2
+"Depression",161.0,1952.0,95.0,3
+"Bipolar Disorder",48.0,1952.0,38.0,4
+"Dementia",43.0,1952.0,33.0,5
+"Aphasia",40.0,1952.0,38.0,6
+"Conversion Disorder",37.0,1952.0,31.0,7
+"Obsessive-Compulsive Disorder",36.0,1952.0,25.0,8
+"Psychoses Substance-Induced",35.0,1952.0,13.0,9
+"Pellagra",28.0,1952.0,27.0,10
+"Agnosia",26.0,1952.0,17.0,11
+"Stuttering",23.0,1952.0,18.0,12
+"Delirium",21.0,1952.0,14.0,13
+"Psychoses Alcoholic",20.0,1952.0,5.0,14
+"Conduct Disorder",19.0,1952.0,10.0,15
+"Amnesia",16.0,1952.0,17.0,16
+"Neurocirculatory Asthenia",15.0,1952.0,25.0,17
+"Morphine Dependence",14.0,1952.0,2.0,18
+"Tay-Sachs Disease",11.0,1952.0,7.0,19
+"Alzheimer Disease",10.0,1952.0,17.0,20
+"Dyslexia",10.0,1952.0,14.0,21
+"Bruxism",9.0,1952.0,3.0,22
+"Anorexia Nervosa",9.0,1952.0,8.0,23
+"Exhibitionism",8.0,1952.0,11.0,24
+"Sexual Dysfunctions",8.0,1952.0,9.0,25
+"Hypochondriasis",7.0,1952.0,6.0,26
+"Apraxias",7.0,1952.0,7.0,27
+"Depersonalization",5.0,1952.0,5.0,28
+"Agraphia",5.0,1952.0,5.0,29
+"Stereotypic Movement Disorder",5.0,1952.0,1.0,30
+"Post-Traumatic Stress Disorder",5.0,1952.0,5.0,31
+"Autistic Disorder",4.0,1952.0,5.0,32
+"Schizotypal Personality Disorder",3.0,1952.0,3.0,33
+"Mutism",3.0,1952.0,4.0,34
+"Bulimia",3.0,1952.0,3.0,35
+"Masochism",3.0,1952.0,3.0,36
+"Gambling",2.0,1952.0,2.0,37
+"Fetishism (Psychiatric)",2.0,1952.0,2.0,38
+"Marijuana Abuse",2.0,1952.0,1.0,39
+"Gerstmann Syndrome",2.0,1952.0,1.0,40
+"Attention Deficit Disorder with Hyperactivity",2.0,1952.0,0,41
+"Transvestism",1.0,1952.0,2.0,42
+"Trichotillomania",1.0,1952.0,1.0,43
+"Dyscalculia",1.0,1952.0,1.0,44
+"Tobacco Use Disorder",1.0,1952.0,1.0,45
+"Schizoid Personality Disorder",1.0,1952.0,0,46
+"Cyclothymic Disorder",1.0,1952.0,1.0,47
+"Schizophrenia",287.0,1953.0,266.0,1
+"Alcoholism",225.0,1953.0,225.0,2
+"Depression",136.0,1953.0,161.0,3
+"Conversion Disorder",50.0,1953.0,37.0,4
+"Dementia",50.0,1953.0,43.0,5
+"Obsessive-Compulsive Disorder",45.0,1953.0,36.0,6
+"Bipolar Disorder",41.0,1953.0,48.0,7
+"Aphasia",38.0,1953.0,40.0,8
+"Psychoses Alcoholic",33.0,1953.0,20.0,9
+"Psychoses Substance-Induced",32.0,1953.0,35.0,10
+"Agnosia",23.0,1953.0,26.0,11
+"Conduct Disorder",21.0,1953.0,19.0,12
+"Stuttering",20.0,1953.0,23.0,13
+"Neurocirculatory Asthenia",19.0,1953.0,15.0,14
+"Pellagra",19.0,1953.0,28.0,15
+"Alzheimer Disease",16.0,1953.0,10.0,16
+"Delirium",15.0,1953.0,21.0,17
+"Amnesia",13.0,1953.0,16.0,18
+"Dyslexia",12.0,1953.0,10.0,19
+"Sexual Dysfunctions",11.0,1953.0,8.0,20
+"Tay-Sachs Disease",10.0,1953.0,11.0,21
+"Anorexia Nervosa",9.0,1953.0,9.0,22
+"Apraxias",9.0,1953.0,7.0,23
+"Morphine Dependence",7.0,1953.0,14.0,24
+"Hypochondriasis",7.0,1953.0,7.0,25
+"Exhibitionism",6.0,1953.0,8.0,26
+"Stereotypic Movement Disorder",5.0,1953.0,5.0,27
+"Depersonalization",5.0,1953.0,5.0,28
+"Masochism",5.0,1953.0,3.0,29
+"Transvestism",4.0,1953.0,1.0,30
+"Fetishism (Psychiatric)",4.0,1953.0,2.0,31
+"Post-Traumatic Stress Disorder",4.0,1953.0,5.0,32
+"Agraphia",3.0,1953.0,5.0,33
+"Autistic Disorder",3.0,1953.0,4.0,34
+"Anomia",3.0,1953.0,1.0,35
+"Pica",2.0,1953.0,2.0,36
+"Gambling",2.0,1953.0,2.0,37
+"Dyscalculia",2.0,1953.0,1.0,38
+"Disorders of Excessive Somnolence",2.0,1953.0,1.0,39
+"Tobacco Use Disorder",1.0,1953.0,1.0,40
+"Sadism",1.0,1953.0,1.0,41
+"Bulimia",1.0,1953.0,3.0,42
+"Premature Ejaculation",1.0,1953.0,1.0,43
+"Creutzfeldt-Jakob Syndrome",1.0,1953.0,1.0,44
+"Schizotypal Personality Disorder",1.0,1953.0,3.0,45
+"Agoraphobia",1.0,1953.0,2.0,46
+"Histrionic Personality Disorder",1.0,1953.0,1.0,47
+"Mutism",1.0,1953.0,3.0,48
+"Compulsive Personality Disorder",1.0,1953.0,0,49
+"Firesetting Behavior",1.0,1953.0,2.0,50
+"Gerstmann Syndrome",1.0,1953.0,2.0,51
+"Dissociative Identity Disorder",1.0,1953.0,1.0,52
+"Attention Deficit Disorder with Hyperactivity",1.0,1953.0,2.0,53
+"Schizophrenia",315.0,1954.0,287.0,1
+"Alcoholism",204.0,1954.0,225.0,2
+"Depression",185.0,1954.0,136.0,3
+"Dementia",50.0,1954.0,50.0,4
+"Aphasia",47.0,1954.0,38.0,5
+"Bipolar Disorder",45.0,1954.0,41.0,6
+"Obsessive-Compulsive Disorder",42.0,1954.0,45.0,7
+"Psychoses Substance-Induced",39.0,1954.0,32.0,8
+"Psychoses Alcoholic",30.0,1954.0,33.0,9
+"Stuttering",22.0,1954.0,20.0,10
+"Neurocirculatory Asthenia",21.0,1954.0,19.0,11
+"Agnosia",20.0,1954.0,23.0,12
+"Conversion Disorder",19.0,1954.0,50.0,13
+"Alzheimer Disease",18.0,1954.0,16.0,14
+"Delirium",17.0,1954.0,15.0,15
+"Pellagra",16.0,1954.0,19.0,16
+"Tay-Sachs Disease",14.0,1954.0,10.0,17
+"Morphine Dependence",10.0,1954.0,7.0,18
+"Hypochondriasis",9.0,1954.0,7.0,19
+"Dyslexia",8.0,1954.0,12.0,20
+"Anorexia Nervosa",8.0,1954.0,9.0,21
+"Conduct Disorder",7.0,1954.0,21.0,22
+"Sexual Dysfunctions",7.0,1954.0,11.0,23
+"Depersonalization",6.0,1954.0,5.0,24
+"Transvestism",6.0,1954.0,4.0,25
+"Post-Traumatic Stress Disorder",6.0,1954.0,4.0,26
+"Amnesia",6.0,1954.0,13.0,27
+"Mutism",5.0,1954.0,1.0,28
+"Autistic Disorder",5.0,1954.0,3.0,29
+"Exhibitionism",5.0,1954.0,6.0,30
+"Apraxias",4.0,1954.0,9.0,31
+"Gambling",3.0,1954.0,2.0,32
+"Fetishism (Psychiatric)",3.0,1954.0,4.0,33
+"Disorders of Excessive Somnolence",3.0,1954.0,2.0,34
+"Marijuana Abuse",2.0,1954.0,2.0,35
+"Masochism",2.0,1954.0,5.0,36
+"Transsexualism",2.0,1954.0,0,37
+"Dissociative Identity Disorder",2.0,1954.0,1.0,38
+"Heroin Dependence",2.0,1954.0,1.0,39
+"Agraphia",2.0,1954.0,3.0,40
+"Gerstmann Syndrome",2.0,1954.0,1.0,41
+"Stereotypic Movement Disorder",1.0,1954.0,5.0,42
+"Histrionic Personality Disorder",1.0,1954.0,1.0,43
+"Firesetting Behavior",1.0,1954.0,1.0,44
+"Schizotypal Personality Disorder",1.0,1954.0,1.0,45
+"Tobacco Use Disorder",1.0,1954.0,1.0,46
+"Bruxism",1.0,1954.0,9.0,47
+"Pica",1.0,1954.0,2.0,48
+"Attention Deficit Disorder with Hyperactivity",1.0,1954.0,1.0,49
+"Anomia",1.0,1954.0,3.0,50
+"Acquired Dyslexia",1.0,1954.0,0,51
+"Dyscalculia",1.0,1954.0,2.0,52
+"Bulimia",1.0,1954.0,1.0,53
+"Compulsive Personality Disorder",1.0,1954.0,1.0,54
+"Schizophrenia",327.0,1955.0,315.0,1
+"Alcoholism",202.0,1955.0,204.0,2
+"Depression",201.0,1955.0,185.0,3
+"Dementia",52.0,1955.0,50.0,4
+"Aphasia",50.0,1955.0,47.0,5
+"Psychoses Substance-Induced",40.0,1955.0,39.0,6
+"Bipolar Disorder",38.0,1955.0,45.0,7
+"Conversion Disorder",38.0,1955.0,19.0,8
+"Psychoses Alcoholic",36.0,1955.0,30.0,9
+"Obsessive-Compulsive Disorder",35.0,1955.0,42.0,10
+"Pellagra",33.0,1955.0,16.0,11
+"Stuttering",27.0,1955.0,22.0,12
+"Agnosia",20.0,1955.0,20.0,13
+"Delirium",19.0,1955.0,17.0,14
+"Alzheimer Disease",17.0,1955.0,18.0,15
+"Neurocirculatory Asthenia",16.0,1955.0,21.0,16
+"Tay-Sachs Disease",11.0,1955.0,14.0,17
+"Anorexia Nervosa",11.0,1955.0,8.0,18
+"Conduct Disorder",11.0,1955.0,7.0,19
+"Apraxias",8.0,1955.0,4.0,20
+"Sexual Dysfunctions",8.0,1955.0,7.0,21
+"Dyslexia",7.0,1955.0,8.0,22
+"Amnesia",6.0,1955.0,6.0,23
+"Transvestism",4.0,1955.0,6.0,24
+"Firesetting Behavior",4.0,1955.0,1.0,25
+"Masochism",4.0,1955.0,2.0,26
+"Mutism",3.0,1955.0,5.0,27
+"Morphine Dependence",3.0,1955.0,10.0,28
+"Stereotypic Movement Disorder",3.0,1955.0,1.0,29
+"Heroin Dependence",3.0,1955.0,2.0,30
+"Schizotypal Personality Disorder",3.0,1955.0,1.0,31
+"Bruxism",3.0,1955.0,1.0,32
+"Depersonalization",3.0,1955.0,6.0,33
+"Exhibitionism",2.0,1955.0,5.0,34
+"Post-Traumatic Stress Disorder",2.0,1955.0,6.0,35
+"Gambling",2.0,1955.0,3.0,36
+"Agraphia",2.0,1955.0,2.0,37
+"Akinetic Mutism",1.0,1955.0,1.0,38
+"Fetishism (Psychiatric)",1.0,1955.0,3.0,39
+"Postpartum Depression",1.0,1955.0,1.0,40
+"Attention Deficit Disorder with Hyperactivity",1.0,1955.0,1.0,41
+"Hypochondriasis",1.0,1955.0,9.0,42
+"Sadism",1.0,1955.0,1.0,43
+"Pica",1.0,1955.0,1.0,44
+"Autistic Disorder",1.0,1955.0,5.0,45
+"Transsexualism",1.0,1955.0,2.0,46
+"Sleep Apnea",1.0,1955.0,1.0,47
+"Marijuana Abuse",1.0,1955.0,2.0,48
+"Frontotemporal Dementia",1.0,1955.0,1.0,49
+"Schizophrenia",343.0,1956.0,327.0,1
+"Alcoholism",227.0,1956.0,202.0,2
+"Depression",220.0,1956.0,201.0,3
+"Dementia",60.0,1956.0,52.0,4
+"Psychoses Alcoholic",48.0,1956.0,36.0,5
+"Bipolar Disorder",47.0,1956.0,38.0,6
+"Psychoses Substance-Induced",36.0,1956.0,40.0,7
+"Obsessive-Compulsive Disorder",36.0,1956.0,35.0,8
+"Aphasia",36.0,1956.0,50.0,9
+"Stuttering",32.0,1956.0,27.0,10
+"Neurocirculatory Asthenia",23.0,1956.0,16.0,11
+"Delirium",21.0,1956.0,19.0,12
+"Conversion Disorder",20.0,1956.0,38.0,13
+"Pellagra",18.0,1956.0,33.0,14
+"Agnosia",18.0,1956.0,20.0,15
+"Conduct Disorder",16.0,1956.0,11.0,16
+"Anorexia Nervosa",11.0,1956.0,11.0,17
+"Amnesia",11.0,1956.0,6.0,18
+"Tay-Sachs Disease",11.0,1956.0,11.0,19
+"Alzheimer Disease",10.0,1956.0,17.0,20
+"Depersonalization",9.0,1956.0,3.0,21
+"Apraxias",8.0,1956.0,8.0,22
+"Sexual Dysfunctions",7.0,1956.0,8.0,23
+"Hypochondriasis",7.0,1956.0,1.0,24
+"Morphine Dependence",7.0,1956.0,3.0,25
+"Dyslexia",7.0,1956.0,7.0,26
+"Transvestism",6.0,1956.0,4.0,27
+"Fetishism (Psychiatric)",5.0,1956.0,1.0,28
+"Autistic Disorder",5.0,1956.0,1.0,29
+"Mutism",5.0,1956.0,3.0,30
+"Stereotypic Movement Disorder",5.0,1956.0,3.0,31
+"Exhibitionism",4.0,1956.0,2.0,32
+"Masochism",4.0,1956.0,4.0,33
+"Gerstmann Syndrome",3.0,1956.0,2.0,34
+"Post-Traumatic Stress Disorder",3.0,1956.0,2.0,35
+"Trichotillomania",2.0,1956.0,1.0,36
+"Akinetic Mutism",2.0,1956.0,1.0,37
+"Premature Ejaculation",2.0,1956.0,1.0,38
+"Agraphia",2.0,1956.0,2.0,39
+"Heroin Dependence",2.0,1956.0,3.0,40
+"Pica",2.0,1956.0,1.0,41
+"Cyclothymic Disorder",1.0,1956.0,1.0,42
+"Borderline Personality Disorder",1.0,1956.0,0,43
+"Attention Deficit Disorder with Hyperactivity",1.0,1956.0,1.0,44
+"Schizoid Personality Disorder",1.0,1956.0,1.0,45
+"Marijuana Abuse",1.0,1956.0,1.0,46
+"Pedophilia",1.0,1956.0,1.0,47
+"Gambling",1.0,1956.0,2.0,48
+"Dyscalculia",1.0,1956.0,1.0,49
+"Transsexualism",1.0,1956.0,1.0,50
+"Dissociative Identity Disorder",1.0,1956.0,2.0,51
+"Anomia",1.0,1956.0,1.0,52
+"Schizophrenia",418.0,1957.0,343.0,1
+"Alcoholism",231.0,1957.0,227.0,2
+"Depression",209.0,1957.0,220.0,3
+"Dementia",69.0,1957.0,60.0,4
+"Aphasia",55.0,1957.0,36.0,5
+"Obsessive-Compulsive Disorder",55.0,1957.0,36.0,6
+"Bipolar Disorder",48.0,1957.0,47.0,7
+"Psychoses Substance-Induced",38.0,1957.0,36.0,8
+"Psychoses Alcoholic",37.0,1957.0,48.0,9
+"Stuttering",29.0,1957.0,32.0,10
+"Neurocirculatory Asthenia",28.0,1957.0,23.0,11
+"Agnosia",20.0,1957.0,18.0,12
+"Pellagra",17.0,1957.0,18.0,13
+"Conversion Disorder",17.0,1957.0,20.0,14
+"Tay-Sachs Disease",15.0,1957.0,11.0,15
+"Conduct Disorder",13.0,1957.0,16.0,16
+"Amnesia",11.0,1957.0,11.0,17
+"Anorexia Nervosa",10.0,1957.0,11.0,18
+"Autistic Disorder",10.0,1957.0,5.0,19
+"Alzheimer Disease",10.0,1957.0,10.0,20
+"Dyslexia",9.0,1957.0,7.0,21
+"Transvestism",9.0,1957.0,6.0,22
+"Morphine Dependence",8.0,1957.0,7.0,23
+"Sexual Dysfunctions",8.0,1957.0,7.0,24
+"Delirium",7.0,1957.0,21.0,25
+"Stereotypic Movement Disorder",6.0,1957.0,5.0,26
+"Mutism",5.0,1957.0,5.0,27
+"Hypochondriasis",5.0,1957.0,7.0,28
+"Post-Traumatic Stress Disorder",5.0,1957.0,3.0,29
+"Apraxias",5.0,1957.0,8.0,30
+"Exhibitionism",4.0,1957.0,4.0,31
+"Masochism",4.0,1957.0,4.0,32
+"Pica",3.0,1957.0,2.0,33
+"Gerstmann Syndrome",3.0,1957.0,3.0,34
+"Depersonalization",3.0,1957.0,9.0,35
+"Firesetting Behavior",2.0,1957.0,4.0,36
+"Fetishism (Psychiatric)",2.0,1957.0,5.0,37
+"Schizotypal Personality Disorder",2.0,1957.0,3.0,38
+"Agoraphobia",2.0,1957.0,1.0,39
+"Gambling",2.0,1957.0,1.0,40
+"Cyclothymic Disorder",2.0,1957.0,1.0,41
+"Disorders of Excessive Somnolence",2.0,1957.0,3.0,42
+"Dissociative Identity Disorder",1.0,1957.0,1.0,43
+"Attention Deficit Disorder with Hyperactivity",1.0,1957.0,1.0,44
+"Bruxism",1.0,1957.0,3.0,45
+"Dyscalculia",1.0,1957.0,1.0,46
+"Echolalia",1.0,1957.0,2.0,47
+"Marijuana Abuse",1.0,1957.0,1.0,48
+"Tobacco Use Disorder",1.0,1957.0,1.0,49
+"Schizoid Personality Disorder",1.0,1957.0,1.0,50
+"Anomia",1.0,1957.0,1.0,51
+"Transsexualism",1.0,1957.0,1.0,52
+"Creutzfeldt-Jakob Syndrome",1.0,1957.0,1.0,53
+"Sleep Apnea",1.0,1957.0,1.0,54
+"Sadism",1.0,1957.0,1.0,55
+"Schizophrenia",498.0,1958.0,418.0,1
+"Depression",251.0,1958.0,209.0,2
+"Alcoholism",224.0,1958.0,231.0,3
+"Dementia",74.0,1958.0,69.0,4
+"Psychoses Alcoholic",42.0,1958.0,37.0,5
+"Aphasia",41.0,1958.0,55.0,6
+"Bipolar Disorder",38.0,1958.0,48.0,7
+"Psychoses Substance-Induced",38.0,1958.0,38.0,8
+"Obsessive-Compulsive Disorder",32.0,1958.0,55.0,9
+"Conversion Disorder",28.0,1958.0,17.0,10
+"Stuttering",27.0,1958.0,29.0,11
+"Neurocirculatory Asthenia",24.0,1958.0,28.0,12
+"Tay-Sachs Disease",22.0,1958.0,15.0,13
+"Agnosia",21.0,1958.0,20.0,14
+"Pellagra",20.0,1958.0,17.0,15
+"Alzheimer Disease",20.0,1958.0,10.0,16
+"Conduct Disorder",19.0,1958.0,13.0,17
+"Anorexia Nervosa",16.0,1958.0,10.0,18
+"Dyslexia",16.0,1958.0,9.0,19
+"Delirium",15.0,1958.0,7.0,20
+"Apraxias",12.0,1958.0,5.0,21
+"Amnesia",11.0,1958.0,11.0,22
+"Autistic Disorder",10.0,1958.0,10.0,23
+"Hypochondriasis",10.0,1958.0,5.0,24
+"Stereotypic Movement Disorder",8.0,1958.0,6.0,25
+"Sexual Dysfunctions",6.0,1958.0,8.0,26
+"Masochism",5.0,1958.0,4.0,27
+"Exhibitionism",4.0,1958.0,4.0,28
+"Transvestism",4.0,1958.0,9.0,29
+"Heroin Dependence",3.0,1958.0,2.0,30
+"Pica",3.0,1958.0,3.0,31
+"Akinetic Mutism",3.0,1958.0,2.0,32
+"Mutism",3.0,1958.0,5.0,33
+"Morphine Dependence",3.0,1958.0,8.0,34
+"Trichotillomania",3.0,1958.0,2.0,35
+"Disorders of Excessive Somnolence",2.0,1958.0,2.0,36
+"Gambling",2.0,1958.0,2.0,37
+"Compulsive Personality Disorder",2.0,1958.0,1.0,38
+"Depersonalization",2.0,1958.0,3.0,39
+"Post-Traumatic Stress Disorder",2.0,1958.0,5.0,40
+"Sadism",1.0,1958.0,1.0,41
+"Tobacco Use Disorder",1.0,1958.0,1.0,42
+"Agraphia",1.0,1958.0,2.0,43
+"Anomia",1.0,1958.0,1.0,44
+"Schizoid Personality Disorder",1.0,1958.0,1.0,45
+"Premature Ejaculation",1.0,1958.0,2.0,46
+"Histrionic Personality Disorder",1.0,1958.0,1.0,47
+"Schizotypal Personality Disorder",1.0,1958.0,2.0,48
+"Gerstmann Syndrome",1.0,1958.0,3.0,49
+"Sleep Apnea",1.0,1958.0,1.0,50
+"Depression",505.0,1959.0,251.0,1
+"Schizophrenia",426.0,1959.0,498.0,2
+"Alcoholism",250.0,1959.0,224.0,3
+"Dementia",82.0,1959.0,74.0,4
+"Bipolar Disorder",48.0,1959.0,38.0,5
+"Obsessive-Compulsive Disorder",47.0,1959.0,32.0,6
+"Aphasia",39.0,1959.0,41.0,7
+"Psychoses Alcoholic",29.0,1959.0,42.0,8
+"Psychoses Substance-Induced",27.0,1959.0,38.0,9
+"Conversion Disorder",25.0,1959.0,28.0,10
+"Anorexia Nervosa",25.0,1959.0,16.0,11
+"Neurocirculatory Asthenia",24.0,1959.0,24.0,12
+"Hypochondriasis",20.0,1959.0,10.0,13
+"Stuttering",20.0,1959.0,27.0,14
+"Conduct Disorder",16.0,1959.0,19.0,15
+"Alzheimer Disease",16.0,1959.0,20.0,16
+"Tay-Sachs Disease",15.0,1959.0,22.0,17
+"Delirium",14.0,1959.0,15.0,18
+"Agnosia",14.0,1959.0,21.0,19
+"Sexual Dysfunctions",13.0,1959.0,6.0,20
+"Amnesia",13.0,1959.0,11.0,21
+"Pellagra",11.0,1959.0,20.0,22
+"Apraxias",11.0,1959.0,12.0,23
+"Dyslexia",10.0,1959.0,16.0,24
+"Masochism",7.0,1959.0,5.0,25
+"Mutism",6.0,1959.0,3.0,26
+"Transvestism",6.0,1959.0,4.0,27
+"Depersonalization",5.0,1959.0,2.0,28
+"Autistic Disorder",4.0,1959.0,10.0,29
+"Post-Traumatic Stress Disorder",4.0,1959.0,2.0,30
+"Pica",4.0,1959.0,3.0,31
+"Exhibitionism",3.0,1959.0,4.0,32
+"Schizotypal Personality Disorder",3.0,1959.0,1.0,33
+"Morphine Dependence",3.0,1959.0,3.0,34
+"Agraphia",3.0,1959.0,1.0,35
+"Trichotillomania",2.0,1959.0,3.0,36
+"Postpartum Depression",2.0,1959.0,1.0,37
+"Stereotypic Movement Disorder",2.0,1959.0,8.0,38
+"Attention Deficit Disorder with Hyperactivity",2.0,1959.0,1.0,39
+"Akinetic Mutism",2.0,1959.0,3.0,40
+"Sleep Apnea",2.0,1959.0,1.0,41
+"Transsexualism",2.0,1959.0,1.0,42
+"Sadism",2.0,1959.0,1.0,43
+"Cyclothymic Disorder",2.0,1959.0,2.0,44
+"Gambling",2.0,1959.0,2.0,45
+"Bruxism",2.0,1959.0,1.0,46
+"Dyscalculia",2.0,1959.0,1.0,47
+"Firesetting Behavior",1.0,1959.0,2.0,48
+"Kleine-Levin Syndrome",1.0,1959.0,3.0,49
+"Anomia",1.0,1959.0,1.0,50
+"Leukoencephalopathy",1.0,1959.0,0,51
+"Histrionic Personality Disorder",1.0,1959.0,1.0,52
+"Creutzfeldt-Jakob Syndrome",1.0,1959.0,1.0,53
+"Disorders of Excessive Somnolence",1.0,1959.0,2.0,54
+"Heroin Dependence",1.0,1959.0,3.0,55
+"Tobacco Use Disorder",1.0,1959.0,1.0,56
+"Premature Ejaculation",1.0,1959.0,1.0,57
+"Depression",554.0,1960.0,505.0,1
+"Schizophrenia",426.0,1960.0,426.0,2
+"Alcoholism",247.0,1960.0,250.0,3
+"Dementia",71.0,1960.0,82.0,4
+"Obsessive-Compulsive Disorder",52.0,1960.0,47.0,5
+"Bipolar Disorder",38.0,1960.0,48.0,6
+"Aphasia",37.0,1960.0,39.0,7
+"Psychoses Substance-Induced",31.0,1960.0,27.0,8
+"Psychoses Alcoholic",30.0,1960.0,29.0,9
+"Anorexia Nervosa",23.0,1960.0,25.0,10
+"Apraxias",22.0,1960.0,11.0,11
+"Stuttering",21.0,1960.0,20.0,12
+"Conversion Disorder",18.0,1960.0,25.0,13
+"Agnosia",16.0,1960.0,14.0,14
+"Pellagra",16.0,1960.0,11.0,15
+"Tay-Sachs Disease",15.0,1960.0,15.0,16
+"Conduct Disorder",15.0,1960.0,16.0,17
+"Amnesia",13.0,1960.0,13.0,18
+"Alzheimer Disease",13.0,1960.0,16.0,19
+"Dyslexia",13.0,1960.0,10.0,20
+"Exhibitionism",12.0,1960.0,3.0,21
+"Neurocirculatory Asthenia",11.0,1960.0,24.0,22
+"Hypochondriasis",11.0,1960.0,20.0,23
+"Delirium",10.0,1960.0,14.0,24
+"Transvestism",9.0,1960.0,6.0,25
+"Depersonalization",6.0,1960.0,5.0,26
+"Sexual Dysfunctions",6.0,1960.0,13.0,27
+"Autistic Disorder",5.0,1960.0,4.0,28
+"Fetishism (Psychiatric)",5.0,1960.0,2.0,29
+"Bruxism",4.0,1960.0,2.0,30
+"Agraphia",4.0,1960.0,3.0,31
+"Masochism",4.0,1960.0,7.0,32
+"Post-Traumatic Stress Disorder",4.0,1960.0,4.0,33
+"Stereotypic Movement Disorder",3.0,1960.0,2.0,34
+"Heroin Dependence",3.0,1960.0,1.0,35
+"Akinetic Mutism",3.0,1960.0,2.0,36
+"Mutism",3.0,1960.0,6.0,37
+"Transsexualism",3.0,1960.0,2.0,38
+"Pica",3.0,1960.0,4.0,39
+"Creutzfeldt-Jakob Syndrome",2.0,1960.0,1.0,40
+"Tobacco Use Disorder",2.0,1960.0,1.0,41
+"Compulsive Personality Disorder",2.0,1960.0,2.0,42
+"Attention Deficit Disorder with Hyperactivity",2.0,1960.0,2.0,43
+"Trichotillomania",2.0,1960.0,2.0,44
+"Cyclothymic Disorder",2.0,1960.0,2.0,45
+"Disorders of Excessive Somnolence",2.0,1960.0,1.0,46
+"Schizoid Personality Disorder",1.0,1960.0,1.0,47
+"Pedophilia",1.0,1960.0,1.0,48
+"Sadism",1.0,1960.0,2.0,49
+"Dyscalculia",1.0,1960.0,2.0,50
+"Sleep Apnea",1.0,1960.0,2.0,51
+"Premature Ejaculation",1.0,1960.0,1.0,52
+"Schizotypal Personality Disorder",1.0,1960.0,3.0,53
+"Gambling",1.0,1960.0,2.0,54
+"Depression",622.0,1961.0,554.0,1
+"Schizophrenia",437.0,1961.0,426.0,2
+"Alcoholism",248.0,1961.0,247.0,3
+"Obsessive-Compulsive Disorder",70.0,1961.0,52.0,4
+"Dementia",69.0,1961.0,71.0,5
+"Bipolar Disorder",67.0,1961.0,38.0,6
+"Aphasia",44.0,1961.0,37.0,7
+"Psychoses Alcoholic",34.0,1961.0,30.0,8
+"Stuttering",29.0,1961.0,21.0,9
+"Conversion Disorder",28.0,1961.0,18.0,10
+"Agnosia",23.0,1961.0,16.0,11
+"Conduct Disorder",23.0,1961.0,15.0,12
+"Anorexia Nervosa",20.0,1961.0,23.0,13
+"Amnesia",20.0,1961.0,13.0,14
+"Delirium",19.0,1961.0,10.0,15
+"Tay-Sachs Disease",17.0,1961.0,15.0,16
+"Psychoses Substance-Induced",17.0,1961.0,31.0,17
+"Dyslexia",15.0,1961.0,13.0,18
+"Autistic Disorder",13.0,1961.0,5.0,19
+"Alzheimer Disease",13.0,1961.0,13.0,20
+"Apraxias",12.0,1961.0,22.0,21
+"Neurocirculatory Asthenia",10.0,1961.0,11.0,22
+"Pellagra",8.0,1961.0,16.0,23
+"Hypochondriasis",7.0,1961.0,11.0,24
+"Depersonalization",7.0,1961.0,6.0,25
+"Morphine Dependence",6.0,1961.0,3.0,26
+"Transvestism",6.0,1961.0,9.0,27
+"Sexual Dysfunctions",6.0,1961.0,6.0,28
+"Stereotypic Movement Disorder",5.0,1961.0,3.0,29
+"Post-Traumatic Stress Disorder",4.0,1961.0,4.0,30
+"Tobacco Use Disorder",4.0,1961.0,2.0,31
+"Cyclothymic Disorder",4.0,1961.0,2.0,32
+"Bruxism",3.0,1961.0,4.0,33
+"Trichotillomania",3.0,1961.0,2.0,34
+"Creutzfeldt-Jakob Syndrome",3.0,1961.0,2.0,35
+"Schizotypal Personality Disorder",3.0,1961.0,1.0,36
+"Gambling",2.0,1961.0,1.0,37
+"Sadism",2.0,1961.0,1.0,38
+"Mutism",2.0,1961.0,3.0,39
+"Anomia",2.0,1961.0,1.0,40
+"Dyscalculia",2.0,1961.0,1.0,41
+"Agraphia",2.0,1961.0,4.0,42
+"Exhibitionism",2.0,1961.0,12.0,43
+"Attention Deficit Disorder with Hyperactivity",2.0,1961.0,2.0,44
+"Pica",1.0,1961.0,3.0,45
+"Heroin Dependence",1.0,1961.0,3.0,46
+"Masochism",1.0,1961.0,4.0,47
+"Fetishism (Psychiatric)",1.0,1961.0,5.0,48
+"Sleep Apnea",1.0,1961.0,1.0,49
+"Akinetic Mutism",1.0,1961.0,3.0,50
+"Disorders of Excessive Somnolence",1.0,1961.0,2.0,51
+"Bulimia",1.0,1961.0,1.0,52
+"Firesetting Behavior",1.0,1961.0,1.0,53
+"Postpartum Depression",1.0,1961.0,2.0,54
+"Dissociative Identity Disorder",1.0,1961.0,1.0,55
+"Agoraphobia",1.0,1961.0,2.0,56
+"Transsexualism",1.0,1961.0,3.0,57
+"Leukoencephalopathy",1.0,1961.0,1.0,58
+"Depression",566.0,1962.0,622.0,1
+"Schizophrenia",505.0,1962.0,437.0,2
+"Alcoholism",245.0,1962.0,248.0,3
+"Bipolar Disorder",82.0,1962.0,67.0,4
+"Dementia",81.0,1962.0,69.0,5
+"Obsessive-Compulsive Disorder",57.0,1962.0,70.0,6
+"Aphasia",51.0,1962.0,44.0,7
+"Psychoses Substance-Induced",41.0,1962.0,17.0,8
+"Stuttering",33.0,1962.0,29.0,9
+"Psychoses Alcoholic",30.0,1962.0,34.0,10
+"Conversion Disorder",29.0,1962.0,28.0,11
+"Agnosia",26.0,1962.0,23.0,12
+"Tay-Sachs Disease",25.0,1962.0,17.0,13
+"Anorexia Nervosa",23.0,1962.0,20.0,14
+"Conduct Disorder",21.0,1962.0,23.0,15
+"Pellagra",19.0,1962.0,8.0,16
+"Dyslexia",15.0,1962.0,15.0,17
+"Alzheimer Disease",15.0,1962.0,13.0,18
+"Neurocirculatory Asthenia",14.0,1962.0,10.0,19
+"Delirium",13.0,1962.0,19.0,20
+"Amnesia",13.0,1962.0,20.0,21
+"Apraxias",10.0,1962.0,12.0,22
+"Hypochondriasis",10.0,1962.0,7.0,23
+"Depersonalization",9.0,1962.0,7.0,24
+"Autistic Disorder",8.0,1962.0,13.0,25
+"Gerstmann Syndrome",7.0,1962.0,1.0,26
+"Morphine Dependence",6.0,1962.0,6.0,27
+"Stereotypic Movement Disorder",6.0,1962.0,5.0,28
+"Mutism",5.0,1962.0,2.0,29
+"Masochism",5.0,1962.0,1.0,30
+"Sexual Dysfunctions",5.0,1962.0,6.0,31
+"Schizotypal Personality Disorder",4.0,1962.0,3.0,32
+"Attention Deficit Disorder with Hyperactivity",4.0,1962.0,2.0,33
+"Akinetic Mutism",4.0,1962.0,1.0,34
+"Gambling",4.0,1962.0,2.0,35
+"Post-Traumatic Stress Disorder",3.0,1962.0,4.0,36
+"Pica",3.0,1962.0,1.0,37
+"Bulimia",3.0,1962.0,1.0,38
+"Transvestism",3.0,1962.0,6.0,39
+"Kleine-Levin Syndrome",3.0,1962.0,1.0,40
+"Cyclothymic Disorder",2.0,1962.0,4.0,41
+"Leukoencephalopathy",2.0,1962.0,1.0,42
+"Creutzfeldt-Jakob Syndrome",2.0,1962.0,3.0,43
+"Disorders of Excessive Somnolence",2.0,1962.0,1.0,44
+"Sadism",2.0,1962.0,2.0,45
+"Postpartum Depression",1.0,1962.0,1.0,46
+"Agraphia",1.0,1962.0,2.0,47
+"Exhibitionism",1.0,1962.0,2.0,48
+"Anomia",1.0,1962.0,2.0,49
+"Asperger Syndrome",1.0,1962.0,0,50
+"Trichotillomania",1.0,1962.0,3.0,51
+"Dissociative Identity Disorder",1.0,1962.0,1.0,52
+"Agoraphobia",1.0,1962.0,1.0,53
+"Heroin Dependence",1.0,1962.0,1.0,54
+"Pedophilia",1.0,1962.0,1.0,55
+"Depression",813.0,1963.0,566.0,1
+"Schizophrenia",655.0,1963.0,505.0,2
+"Alcoholism",417.0,1963.0,245.0,3
+"Bipolar Disorder",189.0,1963.0,82.0,4
+"Dementia",115.0,1963.0,81.0,5
+"Obsessive-Compulsive Disorder",83.0,1963.0,57.0,6
+"Aphasia",63.0,1963.0,51.0,7
+"Psychoses Substance-Induced",63.0,1963.0,41.0,8
+"Psychoses Alcoholic",62.0,1963.0,30.0,9
+"Anorexia Nervosa",56.0,1963.0,23.0,10
+"Tay-Sachs Disease",50.0,1963.0,25.0,11
+"Conversion Disorder",46.0,1963.0,29.0,12
+"Stuttering",44.0,1963.0,33.0,13
+"Amnesia",34.0,1963.0,13.0,14
+"Pellagra",33.0,1963.0,19.0,15
+"Dyslexia",26.0,1963.0,15.0,16
+"Conduct Disorder",25.0,1963.0,21.0,17
+"Neurocirculatory Asthenia",25.0,1963.0,14.0,18
+"Hypochondriasis",23.0,1963.0,10.0,19
+"Morphine Dependence",21.0,1963.0,6.0,20
+"Delirium",20.0,1963.0,13.0,21
+"Autistic Disorder",20.0,1963.0,8.0,22
+"Alzheimer Disease",19.0,1963.0,15.0,23
+"Post-Traumatic Stress Disorder",15.0,1963.0,3.0,24
+"Agnosia",13.0,1963.0,26.0,25
+"Apraxias",13.0,1963.0,10.0,26
+"Depersonalization",12.0,1963.0,9.0,27
+"Transvestism",10.0,1963.0,3.0,28
+"Creutzfeldt-Jakob Syndrome",9.0,1963.0,2.0,29
+"Sexual Dysfunctions",8.0,1963.0,5.0,30
+"Fetishism (Psychiatric)",7.0,1963.0,1.0,31
+"Masochism",6.0,1963.0,5.0,32
+"Disorders of Excessive Somnolence",6.0,1963.0,2.0,33
+"Stereotypic Movement Disorder",6.0,1963.0,6.0,34
+"Agraphia",6.0,1963.0,1.0,35
+"Pica",4.0,1963.0,3.0,36
+"Mutism",4.0,1963.0,5.0,37
+"Attention Deficit Disorder with Hyperactivity",4.0,1963.0,4.0,38
+"Akinetic Mutism",4.0,1963.0,4.0,39
+"Gerstmann Syndrome",4.0,1963.0,7.0,40
+"Leukoencephalopathy",3.0,1963.0,2.0,41
+"Trichotillomania",3.0,1963.0,1.0,42
+"Premature Ejaculation",3.0,1963.0,1.0,43
+"Sleep Apnea",3.0,1963.0,1.0,44
+"Exhibitionism",2.0,1963.0,1.0,45
+"Bulimia",2.0,1963.0,3.0,46
+"Sadism",2.0,1963.0,2.0,47
+"Tobacco Use Disorder",2.0,1963.0,4.0,48
+"Schizotypal Personality Disorder",2.0,1963.0,4.0,49
+"Transsexualism",2.0,1963.0,1.0,50
+"Agoraphobia",2.0,1963.0,1.0,51
+"Postpartum Depression",1.0,1963.0,1.0,52
+"Gambling",1.0,1963.0,4.0,53
+"Firesetting Behavior",1.0,1963.0,1.0,54
+"Bruxism",1.0,1963.0,3.0,55
+"Dissociative Identity Disorder",1.0,1963.0,1.0,56
+"Anomia",1.0,1963.0,1.0,57
+"Asperger Syndrome",1.0,1963.0,1.0,58
+"Dyscalculia",1.0,1963.0,2.0,59
+"Marijuana Abuse",1.0,1963.0,1.0,60
+"Depression",1065.0,1964.0,813.0,1
+"Schizophrenia",972.0,1964.0,655.0,2
+"Alcoholism",555.0,1964.0,417.0,3
+"Bipolar Disorder",269.0,1964.0,189.0,4
+"Dementia",171.0,1964.0,115.0,5
+"Obsessive-Compulsive Disorder",124.0,1964.0,83.0,6
+"Aphasia",97.0,1964.0,63.0,7
+"Psychoses Substance-Induced",91.0,1964.0,63.0,8
+"Psychoses Alcoholic",75.0,1964.0,62.0,9
+"Conversion Disorder",61.0,1964.0,46.0,10
+"Autistic Disorder",54.0,1964.0,20.0,11
+"Tay-Sachs Disease",51.0,1964.0,50.0,12
+"Anorexia Nervosa",50.0,1964.0,56.0,13
+"Amnesia",47.0,1964.0,34.0,14
+"Neurocirculatory Asthenia",45.0,1964.0,25.0,15
+"Stuttering",44.0,1964.0,44.0,16
+"Hypochondriasis",43.0,1964.0,23.0,17
+"Delirium",40.0,1964.0,20.0,18
+"Dyslexia",36.0,1964.0,26.0,19
+"Post-Traumatic Stress Disorder",35.0,1964.0,15.0,20
+"Pellagra",33.0,1964.0,33.0,21
+"Depersonalization",27.0,1964.0,12.0,22
+"Morphine Dependence",26.0,1964.0,21.0,23
+"Agnosia",22.0,1964.0,13.0,24
+"Alzheimer Disease",22.0,1964.0,19.0,25
+"Transvestism",21.0,1964.0,10.0,26
+"Apraxias",18.0,1964.0,13.0,27
+"Sexual Dysfunctions",16.0,1964.0,8.0,28
+"Conduct Disorder",16.0,1964.0,25.0,29
+"Masochism",13.0,1964.0,6.0,30
+"Pica",7.0,1964.0,4.0,31
+"Mutism",6.0,1964.0,4.0,32
+"Gerstmann Syndrome",5.0,1964.0,4.0,33
+"Echolalia",5.0,1964.0,1.0,34
+"Creutzfeldt-Jakob Syndrome",5.0,1964.0,9.0,35
+"Sadism",5.0,1964.0,2.0,36
+"Gambling",4.0,1964.0,1.0,37
+"Cyclothymic Disorder",4.0,1964.0,2.0,38
+"Trichotillomania",3.0,1964.0,3.0,39
+"Bruxism",3.0,1964.0,1.0,40
+"Heroin Dependence",3.0,1964.0,1.0,41
+"Agraphia",3.0,1964.0,6.0,42
+"Sleep Apnea",3.0,1964.0,3.0,43
+"Transsexualism",3.0,1964.0,2.0,44
+"Exhibitionism",3.0,1964.0,2.0,45
+"Postpartum Depression",2.0,1964.0,1.0,46
+"Tobacco Use Disorder",2.0,1964.0,2.0,47
+"Premature Ejaculation",2.0,1964.0,3.0,48
+"Attention Deficit Disorder with Hyperactivity",2.0,1964.0,4.0,49
+"Dissociative Identity Disorder",2.0,1964.0,1.0,50
+"Acquired Dyslexia",2.0,1964.0,1.0,51
+"Stereotypic Movement Disorder",2.0,1964.0,6.0,52
+"Fetishism (Psychiatric)",1.0,1964.0,7.0,53
+"Borderline Personality Disorder",1.0,1964.0,1.0,54
+"Schizotypal Personality Disorder",1.0,1964.0,2.0,55
+"Bulimia",1.0,1964.0,2.0,56
+"Kleine-Levin Syndrome",1.0,1964.0,3.0,57
+"Leukoencephalopathy",1.0,1964.0,3.0,58
+"Compulsive Personality Disorder",1.0,1964.0,2.0,59
+"Akinetic Mutism",1.0,1964.0,4.0,60
+"Schizophrenia",711.0,1965.0,972.0,1
+"Depression",638.0,1965.0,1065.0,2
+"Alcoholism",483.0,1965.0,555.0,3
+"Bipolar Disorder",135.0,1965.0,269.0,4
+"Dementia",114.0,1965.0,171.0,5
+"Obsessive-Compulsive Disorder",87.0,1965.0,124.0,6
+"Aphasia",77.0,1965.0,97.0,7
+"Psychoses Substance-Induced",68.0,1965.0,91.0,8
+"Psychoses Alcoholic",57.0,1965.0,75.0,9
+"Stuttering",51.0,1965.0,44.0,10
+"Dyslexia",47.0,1965.0,36.0,11
+"Amnesia",37.0,1965.0,47.0,12
+"Hypochondriasis",37.0,1965.0,43.0,13
+"Anorexia Nervosa",35.0,1965.0,50.0,14
+"Autistic Disorder",34.0,1965.0,54.0,15
+"Agnosia",31.0,1965.0,22.0,16
+"Neurocirculatory Asthenia",26.0,1965.0,45.0,17
+"Apraxias",26.0,1965.0,18.0,18
+"Tay-Sachs Disease",25.0,1965.0,51.0,19
+"Conversion Disorder",24.0,1965.0,61.0,20
+"Delirium",21.0,1965.0,40.0,21
+"Bruxism",19.0,1965.0,3.0,22
+"Transvestism",19.0,1965.0,21.0,23
+"Pellagra",18.0,1965.0,33.0,24
+"Depersonalization",16.0,1965.0,27.0,25
+"Morphine Dependence",16.0,1965.0,26.0,26
+"Alzheimer Disease",12.0,1965.0,22.0,27
+"Post-Traumatic Stress Disorder",12.0,1965.0,35.0,28
+"Agraphia",10.0,1965.0,3.0,29
+"Conduct Disorder",8.0,1965.0,16.0,30
+"Masochism",8.0,1965.0,13.0,31
+"Mutism",6.0,1965.0,6.0,32
+"Leukoencephalopathy",6.0,1965.0,1.0,33
+"Exhibitionism",5.0,1965.0,3.0,34
+"Acquired Dyslexia",4.0,1965.0,2.0,35
+"Sadism",4.0,1965.0,5.0,36
+"Trichotillomania",3.0,1965.0,3.0,37
+"Fetishism (Psychiatric)",3.0,1965.0,1.0,38
+"Echolalia",2.0,1965.0,5.0,39
+"Transsexualism",2.0,1965.0,3.0,40
+"Attention Deficit Disorder with Hyperactivity",2.0,1965.0,2.0,41
+"Sexual Dysfunctions",2.0,1965.0,16.0,42
+"Creutzfeldt-Jakob Syndrome",2.0,1965.0,5.0,43
+"Pica",2.0,1965.0,7.0,44
+"Histrionic Personality Disorder",1.0,1965.0,1.0,45
+"Cyclothymic Disorder",1.0,1965.0,4.0,46
+"Premature Ejaculation",1.0,1965.0,2.0,47
+"Gambling",1.0,1965.0,4.0,48
+"Dissociative Identity Disorder",1.0,1965.0,2.0,49
+"Gerstmann Syndrome",1.0,1965.0,5.0,50
+"Postpartum Depression",1.0,1965.0,2.0,51
+"Stereotypic Movement Disorder",1.0,1965.0,2.0,52
+"Schizotypal Personality Disorder",1.0,1965.0,1.0,53
+"Kleine-Levin Syndrome",1.0,1965.0,1.0,54
+"Schizophrenia",767.0,1966.0,711.0,1
+"Alcoholism",551.0,1966.0,483.0,2
+"Depression",479.0,1966.0,638.0,3
+"Bipolar Disorder",174.0,1966.0,135.0,4
+"Dementia",109.0,1966.0,114.0,5
+"Obsessive-Compulsive Disorder",107.0,1966.0,87.0,6
+"Aphasia",70.0,1966.0,77.0,7
+"Psychoses Alcoholic",64.0,1966.0,57.0,8
+"Amnesia",54.0,1966.0,37.0,9
+"Psychoses Substance-Induced",54.0,1966.0,68.0,10
+"Anorexia Nervosa",51.0,1966.0,35.0,11
+"Delirium",44.0,1966.0,21.0,12
+"Dyslexia",39.0,1966.0,47.0,13
+"Autistic Disorder",38.0,1966.0,34.0,14
+"Stuttering",37.0,1966.0,51.0,15
+"Neurocirculatory Asthenia",32.0,1966.0,26.0,16
+"Hypochondriasis",28.0,1966.0,37.0,17
+"Depersonalization",21.0,1966.0,16.0,18
+"Post-Traumatic Stress Disorder",21.0,1966.0,12.0,19
+"Bruxism",18.0,1966.0,19.0,20
+"Masochism",15.0,1966.0,8.0,21
+"Agnosia",15.0,1966.0,31.0,22
+"Morphine Dependence",14.0,1966.0,16.0,23
+"Apraxias",14.0,1966.0,26.0,24
+"Pellagra",13.0,1966.0,18.0,25
+"Transvestism",11.0,1966.0,19.0,26
+"Sexual Dysfunctions",10.0,1966.0,2.0,27
+"Acquired Dyslexia",9.0,1966.0,4.0,28
+"Agraphia",7.0,1966.0,10.0,29
+"Sadism",6.0,1966.0,4.0,30
+"Mutism",6.0,1966.0,6.0,31
+"Alzheimer Disease",1.0,1966.0,12.0,32
+"Echolalia",1.0,1966.0,2.0,33
+"Gerstmann Syndrome",1.0,1966.0,1.0,34
+"Attention Deficit Disorder with Hyperactivity",1.0,1966.0,2.0,35
+"Gambling",1.0,1966.0,1.0,36
+"Transsexualism",1.0,1966.0,2.0,37
+"Disorders of Excessive Somnolence",1.0,1966.0,6.0,38
+"Schizophrenia",805.0,1967.0,767.0,1
+"Alcoholism",705.0,1967.0,551.0,2
+"Depression",633.0,1967.0,479.0,3
+"Bipolar Disorder",172.0,1967.0,174.0,4
+"Dementia",154.0,1967.0,109.0,5
+"Obsessive-Compulsive Disorder",113.0,1967.0,107.0,6
+"Aphasia",99.0,1967.0,70.0,7
+"Psychoses Substance-Induced",79.0,1967.0,54.0,8
+"Psychoses Alcoholic",75.0,1967.0,64.0,9
+"Anorexia Nervosa",73.0,1967.0,51.0,10
+"Delirium",59.0,1967.0,44.0,11
+"Stuttering",58.0,1967.0,37.0,12
+"Amnesia",51.0,1967.0,54.0,13
+"Hypochondriasis",46.0,1967.0,28.0,14
+"Dyslexia",45.0,1967.0,39.0,15
+"Autistic Disorder",42.0,1967.0,38.0,16
+"Depersonalization",30.0,1967.0,21.0,17
+"Post-Traumatic Stress Disorder",25.0,1967.0,21.0,18
+"Apraxias",25.0,1967.0,14.0,19
+"Agnosia",25.0,1967.0,15.0,20
+"Neurocirculatory Asthenia",20.0,1967.0,32.0,21
+"Pellagra",19.0,1967.0,13.0,22
+"Morphine Dependence",18.0,1967.0,14.0,23
+"Bruxism",17.0,1967.0,18.0,24
+"Mutism",17.0,1967.0,6.0,25
+"Masochism",15.0,1967.0,15.0,26
+"Conversion Disorder",14.0,1967.0,24.0,27
+"Transvestism",14.0,1967.0,11.0,28
+"Agraphia",12.0,1967.0,7.0,29
+"Transsexualism",12.0,1967.0,1.0,30
+"Sexual Dysfunctions",10.0,1967.0,10.0,31
+"Acquired Dyslexia",8.0,1967.0,9.0,32
+"Echolalia",7.0,1967.0,1.0,33
+"Sadism",7.0,1967.0,6.0,34
+"Histrionic Personality Disorder",6.0,1967.0,1.0,35
+"Gambling",5.0,1967.0,1.0,36
+"Tay-Sachs Disease",2.0,1967.0,25.0,37
+"Gerstmann Syndrome",2.0,1967.0,1.0,38
+"Heroin Dependence",1.0,1967.0,3.0,39
+"Pedophilia",1.0,1967.0,1.0,40
+"Disorders of Excessive Somnolence",1.0,1967.0,1.0,41
+"Bulimia",1.0,1967.0,1.0,42
+"Pica",1.0,1967.0,2.0,43
+"Attention Deficit Disorder with Hyperactivity",1.0,1967.0,1.0,44
+"Schizophrenia",886.0,1968.0,805.0,1
+"Alcoholism",769.0,1968.0,705.0,2
+"Depression",668.0,1968.0,633.0,3
+"Bipolar Disorder",257.0,1968.0,172.0,4
+"Dementia",147.0,1968.0,154.0,5
+"Psychoses Substance-Induced",137.0,1968.0,79.0,6
+"Aphasia",107.0,1968.0,99.0,7
+"Anorexia Nervosa",88.0,1968.0,73.0,8
+"Dyslexia",87.0,1968.0,45.0,9
+"Amnesia",85.0,1968.0,51.0,10
+"Psychoses Alcoholic",79.0,1968.0,75.0,11
+"Obsessive-Compulsive Disorder",76.0,1968.0,113.0,12
+"Stuttering",70.0,1968.0,58.0,13
+"Autistic Disorder",70.0,1968.0,42.0,14
+"Hypochondriasis",51.0,1968.0,46.0,15
+"Delirium",49.0,1968.0,59.0,16
+"Bruxism",33.0,1968.0,17.0,17
+"Gambling",33.0,1968.0,5.0,18
+"Depersonalization",32.0,1968.0,30.0,19
+"Transsexualism",31.0,1968.0,12.0,20
+"Morphine Dependence",29.0,1968.0,18.0,21
+"Pellagra",25.0,1968.0,19.0,22
+"Agnosia",23.0,1968.0,25.0,23
+"Sexual Dysfunctions",22.0,1968.0,10.0,24
+"Sadism",20.0,1968.0,7.0,25
+"Masochism",19.0,1968.0,15.0,26
+"Mutism",18.0,1968.0,17.0,27
+"Neurocirculatory Asthenia",18.0,1968.0,20.0,28
+"Transvestism",18.0,1968.0,14.0,29
+"Apraxias",16.0,1968.0,25.0,30
+"Post-Traumatic Stress Disorder",14.0,1968.0,25.0,31
+"Histrionic Personality Disorder",9.0,1968.0,6.0,32
+"Conversion Disorder",9.0,1968.0,14.0,33
+"Echolalia",9.0,1968.0,7.0,34
+"Pica",8.0,1968.0,1.0,35
+"Agraphia",7.0,1968.0,12.0,36
+"Attention Deficit Disorder with Hyperactivity",7.0,1968.0,1.0,37
+"Gerstmann Syndrome",4.0,1968.0,2.0,38
+"Acquired Dyslexia",4.0,1968.0,8.0,39
+"Schizotypal Personality Disorder",1.0,1968.0,1.0,40
+"Schizophrenia",928.0,1969.0,886.0,1
+"Alcoholism",817.0,1969.0,769.0,2
+"Depression",681.0,1969.0,668.0,3
+"Bipolar Disorder",221.0,1969.0,257.0,4
+"Dementia",151.0,1969.0,147.0,5
+"Aphasia",124.0,1969.0,107.0,6
+"Psychoses Substance-Induced",109.0,1969.0,137.0,7
+"Psychoses Alcoholic",88.0,1969.0,79.0,8
+"Obsessive-Compulsive Disorder",86.0,1969.0,76.0,9
+"Anorexia Nervosa",82.0,1969.0,88.0,10
+"Amnesia",69.0,1969.0,85.0,11
+"Dyslexia",69.0,1969.0,87.0,12
+"Stuttering",68.0,1969.0,70.0,13
+"Autistic Disorder",66.0,1969.0,70.0,14
+"Hypochondriasis",49.0,1969.0,51.0,15
+"Delirium",49.0,1969.0,49.0,16
+"Agnosia",44.0,1969.0,23.0,17
+"Depersonalization",41.0,1969.0,32.0,18
+"Morphine Dependence",39.0,1969.0,29.0,19
+"Conversion Disorder",33.0,1969.0,9.0,20
+"Bruxism",30.0,1969.0,33.0,21
+"Apraxias",27.0,1969.0,16.0,22
+"Masochism",27.0,1969.0,19.0,23
+"Neurocirculatory Asthenia",22.0,1969.0,18.0,24
+"Transsexualism",21.0,1969.0,31.0,25
+"Gambling",21.0,1969.0,33.0,26
+"Histrionic Personality Disorder",21.0,1969.0,9.0,27
+"Sexual Dysfunctions",20.0,1969.0,22.0,28
+"Pellagra",20.0,1969.0,25.0,29
+"Pica",19.0,1969.0,8.0,30
+"Mutism",17.0,1969.0,18.0,31
+"Sadism",17.0,1969.0,20.0,32
+"Post-Traumatic Stress Disorder",17.0,1969.0,14.0,33
+"Transvestism",8.0,1969.0,18.0,34
+"Acquired Dyslexia",8.0,1969.0,4.0,35
+"Agraphia",7.0,1969.0,7.0,36
+"Creutzfeldt-Jakob Syndrome",6.0,1969.0,2.0,37
+"Attention Deficit Disorder with Hyperactivity",3.0,1969.0,7.0,38
+"Gerstmann Syndrome",2.0,1969.0,4.0,39
+"Alzheimer Disease",1.0,1969.0,1.0,40
+"Dissociative Identity Disorder",1.0,1969.0,1.0,41
+"Echolalia",1.0,1969.0,9.0,42
+"Schizophrenia",929.0,1970.0,928.0,1
+"Depression",775.0,1970.0,681.0,2
+"Alcoholism",770.0,1970.0,817.0,3
+"Bipolar Disorder",284.0,1970.0,221.0,4
+"Dementia",168.0,1970.0,151.0,5
+"Psychoses Substance-Induced",103.0,1970.0,109.0,6
+"Aphasia",103.0,1970.0,124.0,7
+"Obsessive-Compulsive Disorder",95.0,1970.0,86.0,8
+"Anorexia Nervosa",86.0,1970.0,82.0,9
+"Amnesia",85.0,1970.0,69.0,10
+"Autistic Disorder",78.0,1970.0,66.0,11
+"Psychoses Alcoholic",78.0,1970.0,88.0,12
+"Morphine Dependence",71.0,1970.0,39.0,13
+"Dyslexia",65.0,1970.0,69.0,14
+"Delirium",62.0,1970.0,49.0,15
+"Stuttering",61.0,1970.0,68.0,16
+"Hypochondriasis",44.0,1970.0,49.0,17
+"Depersonalization",35.0,1970.0,41.0,18
+"Transsexualism",34.0,1970.0,21.0,19
+"Apraxias",33.0,1970.0,27.0,20
+"Conversion Disorder",33.0,1970.0,33.0,21
+"Agnosia",27.0,1970.0,44.0,22
+"Gambling",25.0,1970.0,21.0,23
+"Neurocirculatory Asthenia",24.0,1970.0,22.0,24
+"Sexual Dysfunctions",24.0,1970.0,20.0,25
+"Post-Traumatic Stress Disorder",23.0,1970.0,17.0,26
+"Pica",22.0,1970.0,19.0,27
+"Bruxism",21.0,1970.0,30.0,28
+"Mutism",20.0,1970.0,17.0,29
+"Pellagra",18.0,1970.0,20.0,30
+"Creutzfeldt-Jakob Syndrome",16.0,1970.0,6.0,31
+"Transvestism",14.0,1970.0,8.0,32
+"Masochism",14.0,1970.0,27.0,33
+"Attention Deficit Disorder with Hyperactivity",13.0,1970.0,3.0,34
+"Histrionic Personality Disorder",11.0,1970.0,21.0,35
+"Acquired Dyslexia",11.0,1970.0,8.0,36
+"Agraphia",11.0,1970.0,7.0,37
+"Sadism",7.0,1970.0,17.0,38
+"Gerstmann Syndrome",5.0,1970.0,2.0,39
+"Echolalia",5.0,1970.0,1.0,40
+"Leukoencephalopathy",2.0,1970.0,6.0,41
+"Pedophilia",2.0,1970.0,1.0,42
+"Heroin Dependence",2.0,1970.0,1.0,43
+"Akinetic Mutism",1.0,1970.0,1.0,44
+"Fetishism (Psychiatric)",1.0,1970.0,3.0,45
+"Exhibitionism",1.0,1970.0,5.0,46
+"Marijuana Abuse",1.0,1970.0,1.0,47
+"Alcoholism",898.0,1971.0,770.0,1
+"Depression",860.0,1971.0,775.0,2
+"Schizophrenia",849.0,1971.0,929.0,3
+"Bipolar Disorder",277.0,1971.0,284.0,4
+"Dementia",174.0,1971.0,168.0,5
+"Aphasia",139.0,1971.0,103.0,6
+"Psychoses Substance-Induced",134.0,1971.0,103.0,7
+"Amnesia",123.0,1971.0,85.0,8
+"Anorexia Nervosa",110.0,1971.0,86.0,9
+"Autistic Disorder",99.0,1971.0,78.0,10
+"Psychoses Alcoholic",92.0,1971.0,78.0,11
+"Morphine Dependence",90.0,1971.0,71.0,12
+"Obsessive-Compulsive Disorder",86.0,1971.0,95.0,13
+"Stuttering",74.0,1971.0,61.0,14
+"Dyslexia",71.0,1971.0,65.0,15
+"Attention Deficit Disorder with Hyperactivity",58.0,1971.0,13.0,16
+"Creutzfeldt-Jakob Syndrome",51.0,1971.0,16.0,17
+"Hypochondriasis",43.0,1971.0,44.0,18
+"Agnosia",43.0,1971.0,27.0,19
+"Delirium",39.0,1971.0,62.0,20
+"Bruxism",36.0,1971.0,21.0,21
+"Apraxias",35.0,1971.0,33.0,22
+"Depersonalization",35.0,1971.0,35.0,23
+"Conversion Disorder",33.0,1971.0,33.0,24
+"Pica",31.0,1971.0,22.0,25
+"Pellagra",27.0,1971.0,18.0,26
+"Post-Traumatic Stress Disorder",27.0,1971.0,23.0,27
+"Neurocirculatory Asthenia",25.0,1971.0,24.0,28
+"Masochism",24.0,1971.0,14.0,29
+"Histrionic Personality Disorder",22.0,1971.0,11.0,30
+"Transsexualism",21.0,1971.0,34.0,31
+"Sadism",20.0,1971.0,7.0,32
+"Transvestism",16.0,1971.0,14.0,33
+"Akinetic Mutism",14.0,1971.0,1.0,34
+"Mutism",14.0,1971.0,20.0,35
+"Sexual Dysfunctions",13.0,1971.0,24.0,36
+"Heroin Dependence",13.0,1971.0,2.0,37
+"Leukoencephalopathy",13.0,1971.0,2.0,38
+"Acquired Dyslexia",12.0,1971.0,11.0,39
+"Schizoid Personality Disorder",11.0,1971.0,1.0,40
+"Gambling",10.0,1971.0,25.0,41
+"Gerstmann Syndrome",8.0,1971.0,5.0,42
+"Agraphia",8.0,1971.0,11.0,43
+"Echolalia",7.0,1971.0,5.0,44
+"Alzheimer Disease",5.0,1971.0,1.0,45
+"Schizotypal Personality Disorder",3.0,1971.0,1.0,46
+"Marijuana Abuse",3.0,1971.0,1.0,47
+"Dissociative Identity Disorder",2.0,1971.0,1.0,48
+"Disorders of Excessive Somnolence",2.0,1971.0,1.0,49
+"Compulsive Personality Disorder",1.0,1971.0,1.0,50
+"Exhibitionism",1.0,1971.0,1.0,51
+"Alcoholism",974.0,1972.0,898.0,1
+"Schizophrenia",930.0,1972.0,849.0,2
+"Depression",922.0,1972.0,860.0,3
+"Bipolar Disorder",320.0,1972.0,277.0,4
+"Dementia",162.0,1972.0,174.0,5
+"Psychoses Substance-Induced",133.0,1972.0,134.0,6
+"Morphine Dependence",125.0,1972.0,90.0,7
+"Aphasia",125.0,1972.0,139.0,8
+"Anorexia Nervosa",110.0,1972.0,110.0,9
+"Amnesia",102.0,1972.0,123.0,10
+"Obsessive-Compulsive Disorder",97.0,1972.0,86.0,11
+"Autistic Disorder",84.0,1972.0,99.0,12
+"Psychoses Alcoholic",74.0,1972.0,92.0,13
+"Dyslexia",73.0,1972.0,71.0,14
+"Stuttering",68.0,1972.0,74.0,15
+"Attention Deficit Disorder with Hyperactivity",67.0,1972.0,58.0,16
+"Hypochondriasis",56.0,1972.0,43.0,17
+"Depersonalization",43.0,1972.0,35.0,18
+"Delirium",39.0,1972.0,39.0,19
+"Heroin Dependence",38.0,1972.0,13.0,20
+"Creutzfeldt-Jakob Syndrome",36.0,1972.0,51.0,21
+"Sexual Dysfunctions",31.0,1972.0,13.0,22
+"Conversion Disorder",29.0,1972.0,33.0,23
+"Agnosia",27.0,1972.0,43.0,24
+"Pellagra",27.0,1972.0,27.0,25
+"Gambling",27.0,1972.0,10.0,26
+"Post-Traumatic Stress Disorder",27.0,1972.0,27.0,27
+"Neurocirculatory Asthenia",25.0,1972.0,25.0,28
+"Apraxias",24.0,1972.0,35.0,29
+"Leukoencephalopathy",24.0,1972.0,13.0,30
+"Bruxism",23.0,1972.0,36.0,31
+"Schizoid Personality Disorder",22.0,1972.0,11.0,32
+"Sadism",20.0,1972.0,20.0,33
+"Pica",19.0,1972.0,31.0,34
+"Masochism",19.0,1972.0,24.0,35
+"Transsexualism",16.0,1972.0,21.0,36
+"Akinetic Mutism",14.0,1972.0,14.0,37
+"Histrionic Personality Disorder",14.0,1972.0,22.0,38
+"Agraphia",9.0,1972.0,8.0,39
+"Mutism",8.0,1972.0,14.0,40
+"Echolalia",8.0,1972.0,7.0,41
+"Schizotypal Personality Disorder",8.0,1972.0,3.0,42
+"Acquired Dyslexia",8.0,1972.0,12.0,43
+"Transvestism",7.0,1972.0,16.0,44
+"Compulsive Personality Disorder",4.0,1972.0,1.0,45
+"Dissociative Identity Disorder",2.0,1972.0,2.0,46
+"Disorders of Excessive Somnolence",1.0,1972.0,2.0,47
+"Fetishism (Psychiatric)",1.0,1972.0,1.0,48
+"Gerstmann Syndrome",1.0,1972.0,8.0,49
+"Pedophilia",1.0,1972.0,2.0,50
+"Alcoholism",1058.0,1973.0,974.0,1
+"Schizophrenia",1000.0,1973.0,930.0,2
+"Depression",943.0,1973.0,922.0,3
+"Heroin Dependence",461.0,1973.0,38.0,4
+"Bipolar Disorder",293.0,1973.0,320.0,5
+"Dementia",191.0,1973.0,162.0,6
+"Attention Deficit Disorder with Hyperactivity",128.0,1973.0,67.0,7
+"Aphasia",124.0,1973.0,125.0,8
+"Psychoses Substance-Induced",118.0,1973.0,133.0,9
+"Amnesia",116.0,1973.0,102.0,10
+"Anorexia Nervosa",108.0,1973.0,110.0,11
+"Obsessive-Compulsive Disorder",105.0,1973.0,97.0,12
+"Psychoses Alcoholic",91.0,1973.0,74.0,13
+"Morphine Dependence",88.0,1973.0,125.0,14
+"Autistic Disorder",83.0,1973.0,84.0,15
+"Stuttering",80.0,1973.0,68.0,16
+"Dyslexia",77.0,1973.0,73.0,17
+"Hypochondriasis",48.0,1973.0,56.0,18
+"Depersonalization",47.0,1973.0,43.0,19
+"Transsexualism",39.0,1973.0,16.0,20
+"Agnosia",36.0,1973.0,27.0,21
+"Conversion Disorder",36.0,1973.0,29.0,22
+"Creutzfeldt-Jakob Syndrome",34.0,1973.0,36.0,23
+"Bruxism",32.0,1973.0,23.0,24
+"Neurocirculatory Asthenia",31.0,1973.0,25.0,25
+"Histrionic Personality Disorder",28.0,1973.0,14.0,26
+"Leukoencephalopathy",27.0,1973.0,24.0,27
+"Schizoid Personality Disorder",26.0,1973.0,22.0,28
+"Apraxias",25.0,1973.0,24.0,29
+"Gambling",25.0,1973.0,27.0,30
+"Delirium",24.0,1973.0,39.0,31
+"Sexual Dysfunctions",23.0,1973.0,31.0,32
+"Mutism",22.0,1973.0,8.0,33
+"Post-Traumatic Stress Disorder",22.0,1973.0,27.0,34
+"Pica",19.0,1973.0,19.0,35
+"Masochism",19.0,1973.0,19.0,36
+"Sadism",18.0,1973.0,20.0,37
+"Pellagra",14.0,1973.0,27.0,38
+"Transvestism",13.0,1973.0,7.0,39
+"Akinetic Mutism",12.0,1973.0,14.0,40
+"Acquired Dyslexia",11.0,1973.0,8.0,41
+"Schizotypal Personality Disorder",9.0,1973.0,8.0,42
+"Echolalia",9.0,1973.0,8.0,43
+"Agraphia",7.0,1973.0,9.0,44
+"Tay-Sachs Disease",5.0,1973.0,2.0,45
+"Exhibitionism",3.0,1973.0,1.0,46
+"Dissociative Identity Disorder",2.0,1973.0,2.0,47
+"Disorders of Excessive Somnolence",1.0,1973.0,1.0,48
+"Alzheimer Disease",1.0,1973.0,5.0,49
+"Alcoholism",1125.0,1974.0,1058.0,1
+"Schizophrenia",1113.0,1974.0,1000.0,2
+"Depression",1008.0,1974.0,943.0,3
+"Bipolar Disorder",341.0,1974.0,293.0,4
+"Heroin Dependence",275.0,1974.0,461.0,5
+"Dementia",216.0,1974.0,191.0,6
+"Aphasia",156.0,1974.0,124.0,7
+"Amnesia",123.0,1974.0,116.0,8
+"Psychoses Substance-Induced",118.0,1974.0,118.0,9
+"Anorexia Nervosa",114.0,1974.0,108.0,10
+"Autistic Disorder",93.0,1974.0,83.0,11
+"Obsessive-Compulsive Disorder",84.0,1974.0,105.0,12
+"Morphine Dependence",82.0,1974.0,88.0,13
+"Attention Deficit Disorder with Hyperactivity",77.0,1974.0,128.0,14
+"Stuttering",71.0,1974.0,80.0,15
+"Hypochondriasis",68.0,1974.0,48.0,16
+"Dyslexia",67.0,1974.0,77.0,17
+"Psychoses Alcoholic",67.0,1974.0,91.0,18
+"Transsexualism",48.0,1974.0,39.0,19
+"Conversion Disorder",47.0,1974.0,36.0,20
+"Delirium",43.0,1974.0,24.0,21
+"Schizoid Personality Disorder",34.0,1974.0,26.0,22
+"Apraxias",31.0,1974.0,25.0,23
+"Neurocirculatory Asthenia",31.0,1974.0,31.0,24
+"Depersonalization",30.0,1974.0,47.0,25
+"Creutzfeldt-Jakob Syndrome",30.0,1974.0,34.0,26
+"Histrionic Personality Disorder",30.0,1974.0,28.0,27
+"Bruxism",28.0,1974.0,32.0,28
+"Agnosia",27.0,1974.0,36.0,29
+"Leukoencephalopathy",26.0,1974.0,27.0,30
+"Sexual Dysfunctions",25.0,1974.0,23.0,31
+"Mutism",24.0,1974.0,22.0,32
+"Pica",22.0,1974.0,19.0,33
+"Schizotypal Personality Disorder",21.0,1974.0,9.0,34
+"Compulsive Personality Disorder",20.0,1974.0,4.0,35
+"Pellagra",20.0,1974.0,14.0,36
+"Masochism",18.0,1974.0,19.0,37
+"Acquired Dyslexia",18.0,1974.0,11.0,38
+"Sadism",17.0,1974.0,18.0,39
+"Post-Traumatic Stress Disorder",16.0,1974.0,22.0,40
+"Agraphia",16.0,1974.0,7.0,41
+"Transvestism",15.0,1974.0,13.0,42
+"Alzheimer Disease",13.0,1974.0,1.0,43
+"Cyclothymic Disorder",13.0,1974.0,1.0,44
+"Gambling",12.0,1974.0,25.0,45
+"Exhibitionism",10.0,1974.0,3.0,46
+"Akinetic Mutism",9.0,1974.0,12.0,47
+"Echolalia",9.0,1974.0,9.0,48
+"Agoraphobia",8.0,1974.0,2.0,49
+"Tay-Sachs Disease",5.0,1974.0,5.0,50
+"Disorders of Excessive Somnolence",4.0,1974.0,1.0,51
+"Fetishism (Psychiatric)",3.0,1974.0,1.0,52
+"Dissociative Identity Disorder",3.0,1974.0,2.0,53
+"Pedophilia",1.0,1974.0,1.0,54
+"Borderline Personality Disorder",1.0,1974.0,1.0,55
+"Trichotillomania",1.0,1974.0,3.0,56
+"Gerstmann Syndrome",1.0,1974.0,1.0,57
+"Alcoholism",1120.0,1975.0,1125.0,1
+"Schizophrenia",1092.0,1975.0,1113.0,2
+"Depression",961.0,1975.0,1008.0,3
+"Bipolar Disorder",332.0,1975.0,341.0,4
+"Heroin Dependence",225.0,1975.0,275.0,5
+"Dementia",205.0,1975.0,216.0,6
+"Aphasia",145.0,1975.0,156.0,7
+"Autistic Disorder",126.0,1975.0,93.0,8
+"Anorexia Nervosa",108.0,1975.0,114.0,9
+"Psychoses Substance-Induced",104.0,1975.0,118.0,10
+"Amnesia",92.0,1975.0,123.0,11
+"Morphine Dependence",89.0,1975.0,82.0,12
+"Attention Deficit Disorder with Hyperactivity",86.0,1975.0,77.0,13
+"Dyslexia",65.0,1975.0,67.0,14
+"Obsessive-Compulsive Disorder",61.0,1975.0,84.0,15
+"Stuttering",58.0,1975.0,71.0,16
+"Psychoses Alcoholic",53.0,1975.0,67.0,17
+"Hypochondriasis",49.0,1975.0,68.0,18
+"Creutzfeldt-Jakob Syndrome",45.0,1975.0,30.0,19
+"Alzheimer Disease",42.0,1975.0,13.0,20
+"Schizoid Personality Disorder",40.0,1975.0,34.0,21
+"Conversion Disorder",40.0,1975.0,47.0,22
+"Depersonalization",38.0,1975.0,30.0,23
+"Bruxism",35.0,1975.0,28.0,24
+"Transsexualism",33.0,1975.0,48.0,25
+"Compulsive Personality Disorder",30.0,1975.0,20.0,26
+"Delirium",28.0,1975.0,43.0,27
+"Apraxias",28.0,1975.0,31.0,28
+"Pellagra",27.0,1975.0,20.0,29
+"Pica",24.0,1975.0,22.0,30
+"Agnosia",21.0,1975.0,27.0,31
+"Histrionic Personality Disorder",21.0,1975.0,30.0,32
+"Leukoencephalopathy",20.0,1975.0,26.0,33
+"Neurocirculatory Asthenia",20.0,1975.0,31.0,34
+"Disorders of Excessive Somnolence",18.0,1975.0,4.0,35
+"Mutism",18.0,1975.0,24.0,36
+"Masochism",16.0,1975.0,18.0,37
+"Agoraphobia",16.0,1975.0,8.0,38
+"Exhibitionism",16.0,1975.0,10.0,39
+"Schizotypal Personality Disorder",16.0,1975.0,21.0,40
+"Akinetic Mutism",15.0,1975.0,9.0,41
+"Agraphia",15.0,1975.0,16.0,42
+"Post-Traumatic Stress Disorder",14.0,1975.0,16.0,43
+"Transvestism",14.0,1975.0,15.0,44
+"Acquired Dyslexia",14.0,1975.0,18.0,45
+"Sadism",12.0,1975.0,17.0,46
+"Echolalia",11.0,1975.0,9.0,47
+"Sexual Dysfunctions",11.0,1975.0,25.0,48
+"Cyclothymic Disorder",9.0,1975.0,13.0,49
+"Pedophilia",9.0,1975.0,1.0,50
+"Fetishism (Psychiatric)",8.0,1975.0,3.0,51
+"Gambling",8.0,1975.0,12.0,52
+"Dissociative Identity Disorder",6.0,1975.0,3.0,53
+"Gerstmann Syndrome",4.0,1975.0,1.0,54
+"Trichotillomania",3.0,1975.0,1.0,55
+"Tay-Sachs Disease",3.0,1975.0,5.0,56
+"Borderline Personality Disorder",1.0,1975.0,1.0,57
+"Alcoholism",1246.0,1976.0,1120.0,1
+"Schizophrenia",1026.0,1976.0,1092.0,2
+"Depression",937.0,1976.0,961.0,3
+"Bipolar Disorder",306.0,1976.0,332.0,4
+"Heroin Dependence",230.0,1976.0,225.0,5
+"Dementia",226.0,1976.0,205.0,6
+"Aphasia",167.0,1976.0,145.0,7
+"Amnesia",125.0,1976.0,92.0,8
+"Morphine Dependence",100.0,1976.0,89.0,9
+"Autistic Disorder",97.0,1976.0,126.0,10
+"Attention Deficit Disorder with Hyperactivity",87.0,1976.0,86.0,11
+"Anorexia Nervosa",86.0,1976.0,108.0,12
+"Psychoses Substance-Induced",83.0,1976.0,104.0,13
+"Dyslexia",70.0,1976.0,65.0,14
+"Obsessive-Compulsive Disorder",59.0,1976.0,61.0,15
+"Stuttering",58.0,1976.0,58.0,16
+"Hypochondriasis",55.0,1976.0,49.0,17
+"Psychoses Alcoholic",47.0,1976.0,53.0,18
+"Transsexualism",44.0,1976.0,33.0,19
+"Alzheimer Disease",41.0,1976.0,42.0,20
+"Conversion Disorder",36.0,1976.0,40.0,21
+"Delirium",34.0,1976.0,28.0,22
+"Creutzfeldt-Jakob Syndrome",29.0,1976.0,45.0,23
+"Schizoid Personality Disorder",27.0,1976.0,40.0,24
+"Bruxism",27.0,1976.0,35.0,25
+"Leukoencephalopathy",23.0,1976.0,20.0,26
+"Sexual Dysfunctions",22.0,1976.0,11.0,27
+"Depersonalization",21.0,1976.0,38.0,28
+"Schizotypal Personality Disorder",21.0,1976.0,16.0,29
+"Apraxias",20.0,1976.0,28.0,30
+"Neurocirculatory Asthenia",20.0,1976.0,20.0,31
+"Masochism",20.0,1976.0,16.0,32
+"Compulsive Personality Disorder",19.0,1976.0,30.0,33
+"Pellagra",18.0,1976.0,27.0,34
+"Cyclothymic Disorder",17.0,1976.0,9.0,35
+"Agnosia",16.0,1976.0,21.0,36
+"Disorders of Excessive Somnolence",15.0,1976.0,18.0,37
+"Pica",15.0,1976.0,24.0,38
+"Akinetic Mutism",14.0,1976.0,15.0,39
+"Transvestism",14.0,1976.0,14.0,40
+"Acquired Dyslexia",14.0,1976.0,14.0,41
+"Histrionic Personality Disorder",14.0,1976.0,21.0,42
+"Mutism",14.0,1976.0,18.0,43
+"Agoraphobia",14.0,1976.0,16.0,44
+"Sadism",13.0,1976.0,12.0,45
+"Gambling",12.0,1976.0,8.0,46
+"Agraphia",12.0,1976.0,15.0,47
+"Exhibitionism",12.0,1976.0,16.0,48
+"Fetishism (Psychiatric)",11.0,1976.0,8.0,49
+"Post-Traumatic Stress Disorder",11.0,1976.0,14.0,50
+"Pedophilia",10.0,1976.0,9.0,51
+"Dissociative Identity Disorder",8.0,1976.0,6.0,52
+"Echolalia",5.0,1976.0,11.0,53
+"Gerstmann Syndrome",4.0,1976.0,4.0,54
+"Tay-Sachs Disease",3.0,1976.0,3.0,55
+"Firesetting Behavior",2.0,1976.0,1.0,56
+"Trichotillomania",1.0,1976.0,3.0,57
+"Alcoholism",1305.0,1977.0,1246.0,1
+"Schizophrenia",1012.0,1977.0,1026.0,2
+"Depression",943.0,1977.0,937.0,3
+"Bipolar Disorder",303.0,1977.0,306.0,4
+"Dementia",234.0,1977.0,226.0,5
+"Heroin Dependence",198.0,1977.0,230.0,6
+"Aphasia",189.0,1977.0,167.0,7
+"Anorexia Nervosa",136.0,1977.0,86.0,8
+"Autistic Disorder",118.0,1977.0,97.0,9
+"Morphine Dependence",95.0,1977.0,100.0,10
+"Amnesia",84.0,1977.0,125.0,11
+"Psychoses Substance-Induced",80.0,1977.0,83.0,12
+"Obsessive-Compulsive Disorder",80.0,1977.0,59.0,13
+"Attention Deficit Disorder with Hyperactivity",78.0,1977.0,87.0,14
+"Stuttering",68.0,1977.0,58.0,15
+"Dyslexia",66.0,1977.0,70.0,16
+"Psychoses Alcoholic",57.0,1977.0,47.0,17
+"Akinetic Mutism",53.0,1977.0,14.0,18
+"Transsexualism",53.0,1977.0,44.0,19
+"Creutzfeldt-Jakob Syndrome",50.0,1977.0,29.0,20
+"Alzheimer Disease",45.0,1977.0,41.0,21
+"Conversion Disorder",42.0,1977.0,36.0,22
+"Delirium",39.0,1977.0,34.0,23
+"Bruxism",38.0,1977.0,27.0,24
+"Hypochondriasis",35.0,1977.0,55.0,25
+"Schizotypal Personality Disorder",35.0,1977.0,21.0,26
+"Leukoencephalopathy",33.0,1977.0,23.0,27
+"Agnosia",31.0,1977.0,16.0,28
+"Depersonalization",30.0,1977.0,21.0,29
+"Apraxias",29.0,1977.0,20.0,30
+"Pica",27.0,1977.0,15.0,31
+"Compulsive Personality Disorder",26.0,1977.0,19.0,32
+"Schizoid Personality Disorder",26.0,1977.0,27.0,33
+"Disorders of Excessive Somnolence",23.0,1977.0,15.0,34
+"Neurocirculatory Asthenia",22.0,1977.0,20.0,35
+"Acquired Dyslexia",22.0,1977.0,14.0,36
+"Mutism",21.0,1977.0,14.0,37
+"Sexual Dysfunctions",21.0,1977.0,22.0,38
+"Cyclothymic Disorder",18.0,1977.0,17.0,39
+"Histrionic Personality Disorder",18.0,1977.0,14.0,40
+"Agraphia",17.0,1977.0,12.0,41
+"Pellagra",16.0,1977.0,18.0,42
+"Fetishism (Psychiatric)",15.0,1977.0,11.0,43
+"Post-Traumatic Stress Disorder",15.0,1977.0,11.0,44
+"Agoraphobia",14.0,1977.0,14.0,45
+"Transvestism",14.0,1977.0,14.0,46
+"Exhibitionism",14.0,1977.0,12.0,47
+"Masochism",12.0,1977.0,20.0,48
+"Gambling",9.0,1977.0,12.0,49
+"Firesetting Behavior",9.0,1977.0,2.0,50
+"Pedophilia",9.0,1977.0,10.0,51
+"Trichotillomania",8.0,1977.0,1.0,52
+"Sadism",8.0,1977.0,13.0,53
+"Echolalia",4.0,1977.0,5.0,54
+"Gerstmann Syndrome",4.0,1977.0,4.0,55
+"Dissociative Identity Disorder",3.0,1977.0,8.0,56
+"Tay-Sachs Disease",3.0,1977.0,3.0,57
+"Alcoholism",1196.0,1978.0,1305.0,1
+"Depression",1081.0,1978.0,943.0,2
+"Schizophrenia",1041.0,1978.0,1012.0,3
+"Bipolar Disorder",321.0,1978.0,303.0,4
+"Dementia",244.0,1978.0,234.0,5
+"Heroin Dependence",182.0,1978.0,198.0,6
+"Aphasia",161.0,1978.0,189.0,7
+"Anorexia Nervosa",131.0,1978.0,136.0,8
+"Autistic Disorder",128.0,1978.0,118.0,9
+"Amnesia",92.0,1978.0,84.0,10
+"Dyslexia",89.0,1978.0,66.0,11
+"Attention Deficit Disorder with Hyperactivity",89.0,1978.0,78.0,12
+"Psychoses Substance-Induced",87.0,1978.0,80.0,13
+"Morphine Dependence",79.0,1978.0,95.0,14
+"Transsexualism",62.0,1978.0,53.0,15
+"Alzheimer Disease",59.0,1978.0,45.0,16
+"Obsessive-Compulsive Disorder",53.0,1978.0,80.0,17
+"Hypochondriasis",53.0,1978.0,35.0,18
+"Psychoses Alcoholic",51.0,1978.0,57.0,19
+"Stuttering",47.0,1978.0,68.0,20
+"Creutzfeldt-Jakob Syndrome",46.0,1978.0,50.0,21
+"Bruxism",45.0,1978.0,38.0,22
+"Schizotypal Personality Disorder",37.0,1978.0,35.0,23
+"Conversion Disorder",37.0,1978.0,42.0,24
+"Delirium",34.0,1978.0,39.0,25
+"Agnosia",29.0,1978.0,31.0,26
+"Tay-Sachs Disease",28.0,1978.0,3.0,27
+"Disorders of Excessive Somnolence",27.0,1978.0,23.0,28
+"Apraxias",26.0,1978.0,29.0,29
+"Neurocirculatory Asthenia",25.0,1978.0,22.0,30
+"Leukoencephalopathy",22.0,1978.0,33.0,31
+"Histrionic Personality Disorder",22.0,1978.0,18.0,32
+"Depersonalization",21.0,1978.0,30.0,33
+"Transvestism",18.0,1978.0,14.0,34
+"Acquired Dyslexia",17.0,1978.0,22.0,35
+"Pedophilia",17.0,1978.0,9.0,36
+"Cyclothymic Disorder",16.0,1978.0,18.0,37
+"Agoraphobia",16.0,1978.0,14.0,38
+"Pica",15.0,1978.0,27.0,39
+"Mutism",14.0,1978.0,21.0,40
+"Schizoid Personality Disorder",14.0,1978.0,26.0,41
+"Sadism",13.0,1978.0,8.0,42
+"Trichotillomania",13.0,1978.0,8.0,43
+"Sexual Dysfunctions",13.0,1978.0,21.0,44
+"Post-Traumatic Stress Disorder",12.0,1978.0,15.0,45
+"Firesetting Behavior",10.0,1978.0,9.0,46
+"Pellagra",10.0,1978.0,16.0,47
+"Masochism",10.0,1978.0,12.0,48
+"Agraphia",9.0,1978.0,17.0,49
+"Compulsive Personality Disorder",9.0,1978.0,26.0,50
+"Echolalia",8.0,1978.0,4.0,51
+"Dissociative Identity Disorder",8.0,1978.0,3.0,52
+"Akinetic Mutism",8.0,1978.0,53.0,53
+"Gambling",7.0,1978.0,9.0,54
+"Fetishism (Psychiatric)",7.0,1978.0,15.0,55
+"Exhibitionism",7.0,1978.0,14.0,56
+"Gerstmann Syndrome",4.0,1978.0,4.0,57
+"Sleep Apnea",3.0,1978.0,3.0,58
+"Alcoholism",1379.0,1979.0,1196.0,1
+"Depression",1177.0,1979.0,1081.0,2
+"Schizophrenia",1029.0,1979.0,1041.0,3
+"Bipolar Disorder",451.0,1979.0,321.0,4
+"Dementia",276.0,1979.0,244.0,5
+"Heroin Dependence",204.0,1979.0,182.0,6
+"Aphasia",174.0,1979.0,161.0,7
+"Anorexia Nervosa",142.0,1979.0,131.0,8
+"Autistic Disorder",126.0,1979.0,128.0,9
+"Psychoses Substance-Induced",113.0,1979.0,87.0,10
+"Amnesia",103.0,1979.0,92.0,11
+"Dyslexia",103.0,1979.0,89.0,12
+"Morphine Dependence",94.0,1979.0,79.0,13
+"Alzheimer Disease",85.0,1979.0,59.0,14
+"Psychoses Alcoholic",66.0,1979.0,51.0,15
+"Creutzfeldt-Jakob Syndrome",59.0,1979.0,46.0,16
+"Attention Deficit Disorder with Hyperactivity",58.0,1979.0,89.0,17
+"Stuttering",49.0,1979.0,47.0,18
+"Transsexualism",48.0,1979.0,62.0,19
+"Hypochondriasis",45.0,1979.0,53.0,20
+"Schizotypal Personality Disorder",42.0,1979.0,37.0,21
+"Obsessive-Compulsive Disorder",40.0,1979.0,53.0,22
+"Tay-Sachs Disease",39.0,1979.0,28.0,23
+"Acquired Dyslexia",35.0,1979.0,17.0,24
+"Conversion Disorder",32.0,1979.0,37.0,25
+"Bruxism",30.0,1979.0,45.0,26
+"Delirium",30.0,1979.0,34.0,27
+"Sleep Apnea",29.0,1979.0,3.0,28
+"Apraxias",28.0,1979.0,26.0,29
+"Neurocirculatory Asthenia",27.0,1979.0,25.0,30
+"Agnosia",26.0,1979.0,29.0,31
+"Disorders of Excessive Somnolence",21.0,1979.0,27.0,32
+"Pica",21.0,1979.0,15.0,33
+"Leukoencephalopathy",20.0,1979.0,22.0,34
+"Agoraphobia",20.0,1979.0,16.0,35
+"Schizoid Personality Disorder",20.0,1979.0,14.0,36
+"Mutism",20.0,1979.0,14.0,37
+"Depersonalization",19.0,1979.0,21.0,38
+"Compulsive Personality Disorder",18.0,1979.0,9.0,39
+"Histrionic Personality Disorder",16.0,1979.0,22.0,40
+"Sexual Dysfunctions",14.0,1979.0,13.0,41
+"Post-Traumatic Stress Disorder",13.0,1979.0,12.0,42
+"Pedophilia",12.0,1979.0,17.0,43
+"Anomia",12.0,1979.0,1.0,44
+"Pellagra",12.0,1979.0,10.0,45
+"Exhibitionism",11.0,1979.0,7.0,46
+"Agraphia",10.0,1979.0,9.0,47
+"Transvestism",10.0,1979.0,18.0,48
+"Gambling",9.0,1979.0,7.0,49
+"Masochism",8.0,1979.0,10.0,50
+"Echolalia",8.0,1979.0,8.0,51
+"Firesetting Behavior",7.0,1979.0,10.0,52
+"Cyclothymic Disorder",6.0,1979.0,16.0,53
+"Fetishism (Psychiatric)",6.0,1979.0,7.0,54
+"Akinetic Mutism",5.0,1979.0,8.0,55
+"Dissociative Identity Disorder",5.0,1979.0,8.0,56
+"Trichotillomania",5.0,1979.0,13.0,57
+"Tobacco Use Disorder",4.0,1979.0,2.0,58
+"Gerstmann Syndrome",4.0,1979.0,4.0,59
+"Sadism",1.0,1979.0,13.0,60
+"Borderline Personality Disorder",1.0,1979.0,1.0,61
+"Alcoholism",1311.0,1980.0,1379.0,1
+"Depression",1198.0,1980.0,1177.0,2
+"Schizophrenia",1043.0,1980.0,1029.0,3
+"Bipolar Disorder",409.0,1980.0,451.0,4
+"Dementia",298.0,1980.0,276.0,5
+"Aphasia",186.0,1980.0,174.0,6
+"Heroin Dependence",171.0,1980.0,204.0,7
+"Anorexia Nervosa",140.0,1980.0,142.0,8
+"Sleep Apnea",112.0,1980.0,29.0,9
+"Autistic Disorder",111.0,1980.0,126.0,10
+"Amnesia",109.0,1980.0,103.0,11
+"Alzheimer Disease",104.0,1980.0,85.0,12
+"Dyslexia",95.0,1980.0,103.0,13
+"Attention Deficit Disorder with Hyperactivity",90.0,1980.0,58.0,14
+"Psychoses Substance-Induced",81.0,1980.0,113.0,15
+"Morphine Dependence",80.0,1980.0,94.0,16
+"Psychoses Alcoholic",64.0,1980.0,66.0,17
+"Creutzfeldt-Jakob Syndrome",63.0,1980.0,59.0,18
+"Obsessive-Compulsive Disorder",62.0,1980.0,40.0,19
+"Schizotypal Personality Disorder",59.0,1980.0,42.0,20
+"Tobacco Use Disorder",53.0,1980.0,4.0,21
+"Transsexualism",50.0,1980.0,48.0,22
+"Bruxism",45.0,1980.0,30.0,23
+"Tay-Sachs Disease",41.0,1980.0,39.0,24
+"Stuttering",41.0,1980.0,49.0,25
+"Hypochondriasis",38.0,1980.0,45.0,26
+"Sexual Dysfunctions",37.0,1980.0,14.0,27
+"Conversion Disorder",36.0,1980.0,32.0,28
+"Marijuana Abuse",36.0,1980.0,3.0,29
+"Borderline Personality Disorder",35.0,1980.0,1.0,30
+"Neurocirculatory Asthenia",32.0,1980.0,27.0,31
+"Apraxias",31.0,1980.0,28.0,32
+"Delirium",30.0,1980.0,30.0,33
+"Leukoencephalopathy",24.0,1980.0,20.0,34
+"Agnosia",22.0,1980.0,26.0,35
+"Acquired Dyslexia",21.0,1980.0,35.0,36
+"Pica",19.0,1980.0,21.0,37
+"Agoraphobia",19.0,1980.0,20.0,38
+"Disorders of Excessive Somnolence",17.0,1980.0,21.0,39
+"Pellagra",15.0,1980.0,12.0,40
+"Agraphia",14.0,1980.0,10.0,41
+"Histrionic Personality Disorder",14.0,1980.0,16.0,42
+"Post-Traumatic Stress Disorder",13.0,1980.0,13.0,43
+"Schizoid Personality Disorder",12.0,1980.0,20.0,44
+"Transvestism",12.0,1980.0,10.0,45
+"Masochism",12.0,1980.0,8.0,46
+"Pedophilia",11.0,1980.0,12.0,47
+"Fetishism (Psychiatric)",10.0,1980.0,6.0,48
+"Mutism",10.0,1980.0,20.0,49
+"Depersonalization",10.0,1980.0,19.0,50
+"Exhibitionism",10.0,1980.0,11.0,51
+"Compulsive Personality Disorder",10.0,1980.0,18.0,52
+"Trichotillomania",9.0,1980.0,5.0,53
+"Firesetting Behavior",9.0,1980.0,7.0,54
+"Dissociative Identity Disorder",9.0,1980.0,5.0,55
+"Cyclothymic Disorder",8.0,1980.0,6.0,56
+"Anomia",8.0,1980.0,12.0,57
+"Akinetic Mutism",6.0,1980.0,5.0,58
+"Sadism",6.0,1980.0,1.0,59
+"Gambling",5.0,1980.0,9.0,60
+"Echolalia",3.0,1980.0,8.0,61
+"Gerstmann Syndrome",2.0,1980.0,4.0,62
+"Depression",1423.0,1981.0,1198.0,1
+"Alcoholism",1353.0,1981.0,1311.0,2
+"Schizophrenia",1022.0,1981.0,1043.0,3
+"Bipolar Disorder",404.0,1981.0,409.0,4
+"Dementia",399.0,1981.0,298.0,5
+"Aphasia",196.0,1981.0,186.0,6
+"Anorexia Nervosa",175.0,1981.0,140.0,7
+"Alzheimer Disease",143.0,1981.0,104.0,8
+"Attention Deficit Disorder with Hyperactivity",138.0,1981.0,90.0,9
+"Sleep Apnea",132.0,1981.0,112.0,10
+"Amnesia",116.0,1981.0,109.0,11
+"Heroin Dependence",111.0,1981.0,171.0,12
+"Autistic Disorder",103.0,1981.0,111.0,13
+"Dyslexia",85.0,1981.0,95.0,14
+"Borderline Personality Disorder",81.0,1981.0,35.0,15
+"Tobacco Use Disorder",74.0,1981.0,53.0,16
+"Morphine Dependence",74.0,1981.0,80.0,17
+"Obsessive-Compulsive Disorder",70.0,1981.0,62.0,18
+"Psychoses Substance-Induced",66.0,1981.0,81.0,19
+"Transsexualism",55.0,1981.0,50.0,20
+"Stuttering",54.0,1981.0,41.0,21
+"Psychoses Alcoholic",54.0,1981.0,64.0,22
+"Creutzfeldt-Jakob Syndrome",53.0,1981.0,63.0,23
+"Sexual Dysfunctions",51.0,1981.0,37.0,24
+"Marijuana Abuse",47.0,1981.0,36.0,25
+"Hypochondriasis",43.0,1981.0,38.0,26
+"Post-Traumatic Stress Disorder",40.0,1981.0,13.0,27
+"Bruxism",40.0,1981.0,45.0,28
+"Neurocirculatory Asthenia",39.0,1981.0,32.0,29
+"Tay-Sachs Disease",36.0,1981.0,41.0,30
+"Agoraphobia",35.0,1981.0,19.0,31
+"Conversion Disorder",34.0,1981.0,36.0,32
+"Apraxias",33.0,1981.0,31.0,33
+"Delirium",31.0,1981.0,30.0,34
+"Disorders of Excessive Somnolence",26.0,1981.0,17.0,35
+"Acquired Dyslexia",23.0,1981.0,21.0,36
+"Anomia",20.0,1981.0,8.0,37
+"Leukoencephalopathy",18.0,1981.0,24.0,38
+"Pellagra",17.0,1981.0,15.0,39
+"Mutism",17.0,1981.0,10.0,40
+"Agnosia",17.0,1981.0,22.0,41
+"Masochism",13.0,1981.0,12.0,42
+"Transvestism",13.0,1981.0,12.0,43
+"Schizotypal Personality Disorder",13.0,1981.0,59.0,44
+"Pica",12.0,1981.0,19.0,45
+"Depersonalization",12.0,1981.0,10.0,46
+"Agraphia",12.0,1981.0,14.0,47
+"Histrionic Personality Disorder",12.0,1981.0,14.0,48
+"Trichotillomania",12.0,1981.0,9.0,49
+"Cyclothymic Disorder",11.0,1981.0,8.0,50
+"Dissociative Identity Disorder",11.0,1981.0,9.0,51
+"Firesetting Behavior",11.0,1981.0,9.0,52
+"Sadism",8.0,1981.0,6.0,53
+"Exhibitionism",7.0,1981.0,10.0,54
+"Schizoid Personality Disorder",7.0,1981.0,12.0,55
+"Akinetic Mutism",6.0,1981.0,6.0,56
+"Echolalia",6.0,1981.0,3.0,57
+"Fetishism (Psychiatric)",6.0,1981.0,10.0,58
+"Pedophilia",5.0,1981.0,11.0,59
+"Compulsive Personality Disorder",4.0,1981.0,10.0,60
+"Gambling",2.0,1981.0,5.0,61
+"Gerstmann Syndrome",2.0,1981.0,2.0,62
+"Depression",1769.0,1982.0,1423.0,1
+"Alcoholism",1258.0,1982.0,1353.0,2
+"Schizophrenia",1056.0,1982.0,1022.0,3
+"Dementia",546.0,1982.0,399.0,4
+"Bipolar Disorder",519.0,1982.0,404.0,5
+"Alzheimer Disease",244.0,1982.0,143.0,6
+"Aphasia",202.0,1982.0,196.0,7
+"Anorexia Nervosa",173.0,1982.0,175.0,8
+"Attention Deficit Disorder with Hyperactivity",167.0,1982.0,138.0,9
+"Sleep Apnea",156.0,1982.0,132.0,10
+"Heroin Dependence",130.0,1982.0,111.0,11
+"Autistic Disorder",126.0,1982.0,103.0,12
+"Dyslexia",110.0,1982.0,85.0,13
+"Amnesia",99.0,1982.0,116.0,14
+"Borderline Personality Disorder",92.0,1982.0,81.0,15
+"Psychoses Substance-Induced",92.0,1982.0,66.0,16
+"Obsessive-Compulsive Disorder",71.0,1982.0,70.0,17
+"Tobacco Use Disorder",71.0,1982.0,74.0,18
+"Psychoses Alcoholic",71.0,1982.0,54.0,19
+"Post-Traumatic Stress Disorder",70.0,1982.0,40.0,20
+"Sexual Dysfunctions",67.0,1982.0,51.0,21
+"Marijuana Abuse",55.0,1982.0,47.0,22
+"Stuttering",55.0,1982.0,54.0,23
+"Hypochondriasis",55.0,1982.0,43.0,24
+"Morphine Dependence",54.0,1982.0,74.0,25
+"Delirium",54.0,1982.0,31.0,26
+"Conversion Disorder",45.0,1982.0,34.0,27
+"Transsexualism",44.0,1982.0,55.0,28
+"Creutzfeldt-Jakob Syndrome",44.0,1982.0,53.0,29
+"Apraxias",44.0,1982.0,33.0,30
+"Agoraphobia",44.0,1982.0,35.0,31
+"Bruxism",41.0,1982.0,40.0,32
+"Acquired Dyslexia",35.0,1982.0,23.0,33
+"Agnosia",34.0,1982.0,17.0,34
+"Neurocirculatory Asthenia",34.0,1982.0,39.0,35
+"Disorders of Excessive Somnolence",30.0,1982.0,26.0,36
+"Tay-Sachs Disease",28.0,1982.0,36.0,37
+"Leukoencephalopathy",26.0,1982.0,18.0,38
+"Schizotypal Personality Disorder",25.0,1982.0,13.0,39
+"Pica",24.0,1982.0,12.0,40
+"Anomia",24.0,1982.0,20.0,41
+"Agraphia",19.0,1982.0,12.0,42
+"Schizoid Personality Disorder",16.0,1982.0,7.0,43
+"Histrionic Personality Disorder",16.0,1982.0,12.0,44
+"Mutism",16.0,1982.0,17.0,45
+"Cyclothymic Disorder",13.0,1982.0,11.0,46
+"Pellagra",13.0,1982.0,17.0,47
+"Depersonalization",11.0,1982.0,12.0,48
+"Masochism",10.0,1982.0,13.0,49
+"Compulsive Personality Disorder",10.0,1982.0,4.0,50
+"Dissociative Identity Disorder",9.0,1982.0,11.0,51
+"Firesetting Behavior",9.0,1982.0,11.0,52
+"Transvestism",8.0,1982.0,13.0,53
+"Gambling",8.0,1982.0,2.0,54
+"Echolalia",6.0,1982.0,6.0,55
+"Pedophilia",6.0,1982.0,5.0,56
+"Exhibitionism",6.0,1982.0,7.0,57
+"Sadism",6.0,1982.0,8.0,58
+"Fetishism (Psychiatric)",5.0,1982.0,6.0,59
+"Trichotillomania",5.0,1982.0,12.0,60
+"Akinetic Mutism",5.0,1982.0,6.0,61
+"Gerstmann Syndrome",4.0,1982.0,2.0,62
+"Bulimia",1.0,1982.0,1.0,63
+"Depression",1794.0,1983.0,1769.0,1
+"Alcoholism",1392.0,1983.0,1258.0,2
+"Schizophrenia",1028.0,1983.0,1056.0,3
+"Dementia",539.0,1983.0,546.0,4
+"Bipolar Disorder",480.0,1983.0,519.0,5
+"Alzheimer Disease",284.0,1983.0,244.0,6
+"Anorexia Nervosa",200.0,1983.0,173.0,7
+"Aphasia",188.0,1983.0,202.0,8
+"Sleep Apnea",173.0,1983.0,156.0,9
+"Attention Deficit Disorder with Hyperactivity",170.0,1983.0,167.0,10
+"Autistic Disorder",138.0,1983.0,126.0,11
+"Heroin Dependence",128.0,1983.0,130.0,12
+"Amnesia",118.0,1983.0,99.0,13
+"Borderline Personality Disorder",117.0,1983.0,92.0,14
+"Dyslexia",109.0,1983.0,110.0,15
+"Sexual Dysfunctions",89.0,1983.0,67.0,16
+"Psychoses Substance-Induced",79.0,1983.0,92.0,17
+"Obsessive-Compulsive Disorder",74.0,1983.0,71.0,18
+"Agoraphobia",66.0,1983.0,44.0,19
+"Post-Traumatic Stress Disorder",63.0,1983.0,70.0,20
+"Psychoses Alcoholic",59.0,1983.0,71.0,21
+"Marijuana Abuse",58.0,1983.0,55.0,22
+"Tobacco Use Disorder",57.0,1983.0,71.0,23
+"Stuttering",57.0,1983.0,55.0,24
+"Morphine Dependence",54.0,1983.0,54.0,25
+"Hypochondriasis",51.0,1983.0,55.0,26
+"Creutzfeldt-Jakob Syndrome",48.0,1983.0,44.0,27
+"Apraxias",43.0,1983.0,44.0,28
+"Conversion Disorder",42.0,1983.0,45.0,29
+"Delirium",38.0,1983.0,54.0,30
+"Tay-Sachs Disease",37.0,1983.0,28.0,31
+"Schizotypal Personality Disorder",36.0,1983.0,25.0,32
+"Leukoencephalopathy",35.0,1983.0,26.0,33
+"Transsexualism",34.0,1983.0,44.0,34
+"Neurocirculatory Asthenia",34.0,1983.0,34.0,35
+"Bruxism",33.0,1983.0,41.0,36
+"Acquired Dyslexia",28.0,1983.0,35.0,37
+"Disorders of Excessive Somnolence",23.0,1983.0,30.0,38
+"Agraphia",23.0,1983.0,19.0,39
+"Agnosia",22.0,1983.0,34.0,40
+"Histrionic Personality Disorder",19.0,1983.0,16.0,41
+"Dissociative Identity Disorder",19.0,1983.0,9.0,42
+"Cyclothymic Disorder",18.0,1983.0,13.0,43
+"Anomia",17.0,1983.0,24.0,44
+"Pellagra",16.0,1983.0,13.0,45
+"Pica",15.0,1983.0,24.0,46
+"Mutism",14.0,1983.0,16.0,47
+"Pedophilia",14.0,1983.0,6.0,48
+"Exhibitionism",11.0,1983.0,6.0,49
+"Schizoid Personality Disorder",10.0,1983.0,16.0,50
+"Gambling",9.0,1983.0,8.0,51
+"Depersonalization",8.0,1983.0,11.0,52
+"Akinetic Mutism",8.0,1983.0,5.0,53
+"Firesetting Behavior",8.0,1983.0,9.0,54
+"Echolalia",7.0,1983.0,6.0,55
+"Masochism",7.0,1983.0,10.0,56
+"Transvestism",6.0,1983.0,8.0,57
+"Trichotillomania",5.0,1983.0,5.0,58
+"Sadism",5.0,1983.0,6.0,59
+"Compulsive Personality Disorder",4.0,1983.0,10.0,60
+"Gerstmann Syndrome",4.0,1983.0,4.0,61
+"Fetishism (Psychiatric)",3.0,1983.0,5.0,62
+"Bulimia",1.0,1983.0,1.0,63
+"Depression",1907.0,1984.0,1794.0,1
+"Alcoholism",1414.0,1984.0,1392.0,2
+"Schizophrenia",1100.0,1984.0,1028.0,3
+"Bipolar Disorder",508.0,1984.0,480.0,4
+"Dementia",467.0,1984.0,539.0,5
+"Alzheimer Disease",374.0,1984.0,284.0,6
+"Anorexia Nervosa",254.0,1984.0,200.0,7
+"Aphasia",254.0,1984.0,188.0,8
+"Attention Deficit Disorder with Hyperactivity",197.0,1984.0,170.0,9
+"Sleep Apnea",188.0,1984.0,173.0,10
+"Heroin Dependence",162.0,1984.0,128.0,11
+"Autistic Disorder",160.0,1984.0,138.0,12
+"Dyslexia",130.0,1984.0,109.0,13
+"Amnesia",124.0,1984.0,118.0,14
+"Borderline Personality Disorder",111.0,1984.0,117.0,15
+"Post-Traumatic Stress Disorder",92.0,1984.0,63.0,16
+"Psychoses Substance-Induced",91.0,1984.0,79.0,17
+"Agoraphobia",86.0,1984.0,66.0,18
+"Obsessive-Compulsive Disorder",81.0,1984.0,74.0,19
+"Morphine Dependence",75.0,1984.0,54.0,20
+"Sexual Dysfunctions",62.0,1984.0,89.0,21
+"Marijuana Abuse",61.0,1984.0,58.0,22
+"Creutzfeldt-Jakob Syndrome",58.0,1984.0,48.0,23
+"Delirium",56.0,1984.0,38.0,24
+"Tobacco Use Disorder",50.0,1984.0,57.0,25
+"Psychoses Alcoholic",48.0,1984.0,59.0,26
+"Apraxias",47.0,1984.0,43.0,27
+"Neurocirculatory Asthenia",46.0,1984.0,34.0,28
+"Transsexualism",46.0,1984.0,34.0,29
+"Schizotypal Personality Disorder",44.0,1984.0,36.0,30
+"Anomia",42.0,1984.0,17.0,31
+"Hypochondriasis",40.0,1984.0,51.0,32
+"Acquired Dyslexia",40.0,1984.0,28.0,33
+"Dissociative Identity Disorder",39.0,1984.0,19.0,34
+"Bruxism",39.0,1984.0,33.0,35
+"Conversion Disorder",38.0,1984.0,42.0,36
+"Tay-Sachs Disease",38.0,1984.0,37.0,37
+"Stuttering",37.0,1984.0,57.0,38
+"Leukoencephalopathy",34.0,1984.0,35.0,39
+"Agnosia",23.0,1984.0,22.0,40
+"Histrionic Personality Disorder",22.0,1984.0,19.0,41
+"Agraphia",22.0,1984.0,23.0,42
+"Disorders of Excessive Somnolence",21.0,1984.0,23.0,43
+"Masochism",19.0,1984.0,7.0,44
+"Depersonalization",17.0,1984.0,8.0,45
+"Schizoid Personality Disorder",15.0,1984.0,10.0,46
+"Pica",15.0,1984.0,15.0,47
+"Pedophilia",14.0,1984.0,14.0,48
+"Firesetting Behavior",13.0,1984.0,8.0,49
+"Compulsive Personality Disorder",12.0,1984.0,4.0,50
+"Trichotillomania",11.0,1984.0,5.0,51
+"Cyclothymic Disorder",11.0,1984.0,18.0,52
+"Sadism",10.0,1984.0,5.0,53
+"Gerstmann Syndrome",9.0,1984.0,4.0,54
+"Transvestism",9.0,1984.0,6.0,55
+"Gambling",9.0,1984.0,9.0,56
+"Akinetic Mutism",8.0,1984.0,8.0,57
+"Pellagra",8.0,1984.0,16.0,58
+"Mutism",7.0,1984.0,14.0,59
+"Exhibitionism",6.0,1984.0,11.0,60
+"Fetishism (Psychiatric)",5.0,1984.0,3.0,61
+"Echolalia",3.0,1984.0,7.0,62
+"Bulimia",1.0,1984.0,1.0,63
+"Depression",2036.0,1985.0,1907.0,1
+"Alcoholism",1469.0,1985.0,1414.0,2
+"Schizophrenia",1167.0,1985.0,1100.0,3
+"Dementia",563.0,1985.0,467.0,4
+"Alzheimer Disease",552.0,1985.0,374.0,5
+"Bipolar Disorder",519.0,1985.0,508.0,6
+"Anorexia Nervosa",297.0,1985.0,254.0,7
+"Sleep Apnea",249.0,1985.0,188.0,8
+"Aphasia",206.0,1985.0,254.0,9
+"Attention Deficit Disorder with Hyperactivity",193.0,1985.0,197.0,10
+"Amnesia",158.0,1985.0,124.0,11
+"Autistic Disorder",158.0,1985.0,160.0,12
+"Heroin Dependence",143.0,1985.0,162.0,13
+"Borderline Personality Disorder",134.0,1985.0,111.0,14
+"Post-Traumatic Stress Disorder",111.0,1985.0,92.0,15
+"Creutzfeldt-Jakob Syndrome",93.0,1985.0,58.0,16
+"Dyslexia",92.0,1985.0,130.0,17
+"Obsessive-Compulsive Disorder",92.0,1985.0,81.0,18
+"Agoraphobia",86.0,1985.0,86.0,19
+"Psychoses Substance-Induced",74.0,1985.0,91.0,20
+"Marijuana Abuse",70.0,1985.0,61.0,21
+"Hypochondriasis",59.0,1985.0,40.0,22
+"Sexual Dysfunctions",59.0,1985.0,62.0,23
+"Tobacco Use Disorder",56.0,1985.0,50.0,24
+"Schizotypal Personality Disorder",51.0,1985.0,44.0,25
+"Conversion Disorder",47.0,1985.0,38.0,26
+"Morphine Dependence",45.0,1985.0,75.0,27
+"Apraxias",44.0,1985.0,47.0,28
+"Bruxism",42.0,1985.0,39.0,29
+"Psychoses Alcoholic",40.0,1985.0,48.0,30
+"Delirium",38.0,1985.0,56.0,31
+"Neurocirculatory Asthenia",35.0,1985.0,46.0,32
+"Tay-Sachs Disease",34.0,1985.0,38.0,33
+"Stuttering",33.0,1985.0,37.0,34
+"Transsexualism",31.0,1985.0,46.0,35
+"Leukoencephalopathy",27.0,1985.0,34.0,36
+"Agnosia",26.0,1985.0,23.0,37
+"Disorders of Excessive Somnolence",25.0,1985.0,21.0,38
+"Dissociative Identity Disorder",21.0,1985.0,39.0,39
+"Anomia",21.0,1985.0,42.0,40
+"Acquired Dyslexia",20.0,1985.0,40.0,41
+"Firesetting Behavior",18.0,1985.0,13.0,42
+"Pellagra",17.0,1985.0,8.0,43
+"Pedophilia",17.0,1985.0,14.0,44
+"Cyclothymic Disorder",16.0,1985.0,11.0,45
+"Pica",16.0,1985.0,15.0,46
+"Depersonalization",14.0,1985.0,17.0,47
+"Masochism",14.0,1985.0,19.0,48
+"Mutism",13.0,1985.0,7.0,49
+"Histrionic Personality Disorder",13.0,1985.0,22.0,50
+"Transvestism",13.0,1985.0,9.0,51
+"Agraphia",12.0,1985.0,22.0,52
+"Gambling",12.0,1985.0,9.0,53
+"Sadism",10.0,1985.0,10.0,54
+"Schizoid Personality Disorder",10.0,1985.0,15.0,55
+"Fetishism (Psychiatric)",8.0,1985.0,5.0,56
+"Compulsive Personality Disorder",8.0,1985.0,12.0,57
+"Akinetic Mutism",6.0,1985.0,8.0,58
+"Gerstmann Syndrome",4.0,1985.0,9.0,59
+"Exhibitionism",4.0,1985.0,6.0,60
+"Echolalia",3.0,1985.0,3.0,61
+"Trichotillomania",3.0,1985.0,11.0,62
+"Bulimia",1.0,1985.0,1.0,63
+"Depression",2146.0,1986.0,2036.0,1
+"Alcoholism",1505.0,1986.0,1469.0,2
+"Schizophrenia",1136.0,1986.0,1167.0,3
+"Alzheimer Disease",763.0,1986.0,552.0,4
+"Dementia",620.0,1986.0,563.0,5
+"Bipolar Disorder",518.0,1986.0,519.0,6
+"Sleep Apnea",242.0,1986.0,249.0,7
+"Anorexia Nervosa",241.0,1986.0,297.0,8
+"Aphasia",199.0,1986.0,206.0,9
+"Attention Deficit Disorder with Hyperactivity",182.0,1986.0,193.0,10
+"Autistic Disorder",168.0,1986.0,158.0,11
+"Heroin Dependence",167.0,1986.0,143.0,12
+"Amnesia",141.0,1986.0,158.0,13
+"Borderline Personality Disorder",118.0,1986.0,134.0,14
+"Agoraphobia",116.0,1986.0,86.0,15
+"Post-Traumatic Stress Disorder",115.0,1986.0,111.0,16
+"Obsessive-Compulsive Disorder",94.0,1986.0,92.0,17
+"Dyslexia",92.0,1986.0,92.0,18
+"Bulimia",92.0,1986.0,1.0,19
+"Creutzfeldt-Jakob Syndrome",88.0,1986.0,93.0,20
+"Tobacco Use Disorder",88.0,1986.0,56.0,21
+"Sexual Dysfunctions",86.0,1986.0,59.0,22
+"Psychoses Substance-Induced",82.0,1986.0,74.0,23
+"Marijuana Abuse",76.0,1986.0,70.0,24
+"Psychoses Alcoholic",55.0,1986.0,40.0,25
+"Morphine Dependence",52.0,1986.0,45.0,26
+"Hypochondriasis",48.0,1986.0,59.0,27
+"Transsexualism",48.0,1986.0,31.0,28
+"Delirium",47.0,1986.0,38.0,29
+"Apraxias",44.0,1986.0,44.0,30
+"Conversion Disorder",43.0,1986.0,47.0,31
+"Stuttering",43.0,1986.0,33.0,32
+"Bruxism",43.0,1986.0,42.0,33
+"Schizotypal Personality Disorder",43.0,1986.0,51.0,34
+"Leukoencephalopathy",38.0,1986.0,27.0,35
+"Agnosia",38.0,1986.0,26.0,36
+"Disorders of Excessive Somnolence",32.0,1986.0,25.0,37
+"Neurocirculatory Asthenia",32.0,1986.0,35.0,38
+"Anomia",25.0,1986.0,21.0,39
+"Dissociative Identity Disorder",24.0,1986.0,21.0,40
+"Depersonalization",23.0,1986.0,14.0,41
+"Acquired Dyslexia",23.0,1986.0,20.0,42
+"Tay-Sachs Disease",22.0,1986.0,34.0,43
+"Pica",20.0,1986.0,16.0,44
+"Histrionic Personality Disorder",18.0,1986.0,13.0,45
+"Pedophilia",17.0,1986.0,17.0,46
+"Masochism",17.0,1986.0,14.0,47
+"Agraphia",16.0,1986.0,12.0,48
+"Gambling",16.0,1986.0,12.0,49
+"Cyclothymic Disorder",14.0,1986.0,16.0,50
+"Pellagra",14.0,1986.0,17.0,51
+"Mutism",14.0,1986.0,13.0,52
+"Firesetting Behavior",13.0,1986.0,18.0,53
+"Schizoid Personality Disorder",13.0,1986.0,10.0,54
+"Sadism",11.0,1986.0,10.0,55
+"Exhibitionism",11.0,1986.0,4.0,56
+"Trichotillomania",6.0,1986.0,3.0,57
+"Transvestism",6.0,1986.0,13.0,58
+"Echolalia",6.0,1986.0,3.0,59
+"Compulsive Personality Disorder",5.0,1986.0,8.0,60
+"Akinetic Mutism",4.0,1986.0,6.0,61
+"Fetishism (Psychiatric)",3.0,1986.0,8.0,62
+"Gerstmann Syndrome",3.0,1986.0,4.0,63
+"Depression",2058.0,1987.0,2146.0,1
+"Alcoholism",1547.0,1987.0,1505.0,2
+"Schizophrenia",1105.0,1987.0,1136.0,3
+"Alzheimer Disease",752.0,1987.0,763.0,4
+"Dementia",629.0,1987.0,620.0,5
+"Bipolar Disorder",439.0,1987.0,518.0,6
+"Sleep Apnea",257.0,1987.0,242.0,7
+"Anorexia Nervosa",229.0,1987.0,241.0,8
+"Autistic Disorder",198.0,1987.0,168.0,9
+"Bulimia",184.0,1987.0,92.0,10
+"Aphasia",180.0,1987.0,199.0,11
+"Attention Deficit Disorder with Hyperactivity",174.0,1987.0,182.0,12
+"Post-Traumatic Stress Disorder",164.0,1987.0,115.0,13
+"Heroin Dependence",142.0,1987.0,167.0,14
+"Amnesia",133.0,1987.0,141.0,15
+"Borderline Personality Disorder",125.0,1987.0,118.0,16
+"Obsessive-Compulsive Disorder",105.0,1987.0,94.0,17
+"Agoraphobia",95.0,1987.0,116.0,18
+"Sexual Dysfunctions",81.0,1987.0,86.0,19
+"Dyslexia",73.0,1987.0,92.0,20
+"Psychoses Substance-Induced",64.0,1987.0,82.0,21
+"Creutzfeldt-Jakob Syndrome",57.0,1987.0,88.0,22
+"Delirium",50.0,1987.0,47.0,23
+"Tobacco Use Disorder",48.0,1987.0,88.0,24
+"Bruxism",46.0,1987.0,43.0,25
+"Stuttering",46.0,1987.0,43.0,26
+"Marijuana Abuse",44.0,1987.0,76.0,27
+"Morphine Dependence",44.0,1987.0,52.0,28
+"Psychoses Alcoholic",43.0,1987.0,55.0,29
+"Apraxias",42.0,1987.0,44.0,30
+"Neurocirculatory Asthenia",41.0,1987.0,32.0,31
+"Conversion Disorder",40.0,1987.0,43.0,32
+"Schizotypal Personality Disorder",39.0,1987.0,43.0,33
+"Transsexualism",38.0,1987.0,48.0,34
+"Hypochondriasis",38.0,1987.0,48.0,35
+"Leukoencephalopathy",35.0,1987.0,38.0,36
+"Acquired Dyslexia",29.0,1987.0,23.0,37
+"Agraphia",24.0,1987.0,16.0,38
+"Dissociative Identity Disorder",22.0,1987.0,24.0,39
+"Anomia",19.0,1987.0,25.0,40
+"Disorders of Excessive Somnolence",18.0,1987.0,32.0,41
+"Tay-Sachs Disease",17.0,1987.0,22.0,42
+"Gambling",16.0,1987.0,16.0,43
+"Pica",15.0,1987.0,20.0,44
+"Schizoid Personality Disorder",15.0,1987.0,13.0,45
+"Mutism",15.0,1987.0,14.0,46
+"Pellagra",13.0,1987.0,14.0,47
+"Masochism",12.0,1987.0,17.0,48
+"Pedophilia",12.0,1987.0,17.0,49
+"Agnosia",12.0,1987.0,38.0,50
+"Histrionic Personality Disorder",11.0,1987.0,18.0,51
+"Transvestism",10.0,1987.0,6.0,52
+"Compulsive Personality Disorder",9.0,1987.0,5.0,53
+"Firesetting Behavior",9.0,1987.0,13.0,54
+"Exhibitionism",9.0,1987.0,11.0,55
+"Sadism",9.0,1987.0,11.0,56
+"Cyclothymic Disorder",8.0,1987.0,14.0,57
+"Depersonalization",7.0,1987.0,23.0,58
+"Trichotillomania",6.0,1987.0,6.0,59
+"Fetishism (Psychiatric)",5.0,1987.0,3.0,60
+"Echolalia",3.0,1987.0,6.0,61
+"Gerstmann Syndrome",2.0,1987.0,3.0,62
+"Akinetic Mutism",2.0,1987.0,4.0,63
+"Depression",2215.0,1988.0,2058.0,1
+"Alcoholism",1611.0,1988.0,1547.0,2
+"Schizophrenia",1081.0,1988.0,1105.0,3
+"Alzheimer Disease",849.0,1988.0,752.0,4
+"Dementia",713.0,1988.0,629.0,5
+"Bipolar Disorder",500.0,1988.0,439.0,6
+"Sleep Apnea",275.0,1988.0,257.0,7
+"Anorexia Nervosa",234.0,1988.0,229.0,8
+"Autistic Disorder",219.0,1988.0,198.0,9
+"Attention Deficit Disorder with Hyperactivity",190.0,1988.0,174.0,10
+"Aphasia",188.0,1988.0,180.0,11
+"Bulimia",180.0,1988.0,184.0,12
+"Amnesia",178.0,1988.0,133.0,13
+"Post-Traumatic Stress Disorder",156.0,1988.0,164.0,14
+"Heroin Dependence",145.0,1988.0,142.0,15
+"Obsessive-Compulsive Disorder",127.0,1988.0,105.0,16
+"Borderline Personality Disorder",105.0,1988.0,125.0,17
+"Agoraphobia",91.0,1988.0,95.0,18
+"Tobacco Use Disorder",82.0,1988.0,48.0,19
+"Dyslexia",80.0,1988.0,73.0,20
+"Creutzfeldt-Jakob Syndrome",78.0,1988.0,57.0,21
+"Psychoses Substance-Induced",69.0,1988.0,64.0,22
+"Delirium",57.0,1988.0,50.0,23
+"Sexual Dysfunctions",56.0,1988.0,81.0,24
+"Neurocirculatory Asthenia",49.0,1988.0,41.0,25
+"Leukoencephalopathy",48.0,1988.0,35.0,26
+"Morphine Dependence",47.0,1988.0,44.0,27
+"Conversion Disorder",47.0,1988.0,40.0,28
+"Psychoses Alcoholic",46.0,1988.0,43.0,29
+"Stuttering",43.0,1988.0,46.0,30
+"Hypochondriasis",43.0,1988.0,38.0,31
+"Transsexualism",40.0,1988.0,38.0,32
+"Apraxias",37.0,1988.0,42.0,33
+"Marijuana Abuse",37.0,1988.0,44.0,34
+"Anomia",33.0,1988.0,19.0,35
+"Bruxism",33.0,1988.0,46.0,36
+"Schizotypal Personality Disorder",32.0,1988.0,39.0,37
+"Dissociative Identity Disorder",29.0,1988.0,22.0,38
+"Tay-Sachs Disease",28.0,1988.0,17.0,39
+"Agnosia",25.0,1988.0,12.0,40
+"Gambling",24.0,1988.0,16.0,41
+"Pica",21.0,1988.0,15.0,42
+"Disorders of Excessive Somnolence",20.0,1988.0,18.0,43
+"Pedophilia",19.0,1988.0,12.0,44
+"Cyclothymic Disorder",18.0,1988.0,8.0,45
+"Agraphia",18.0,1988.0,24.0,46
+"Acquired Dyslexia",17.0,1988.0,29.0,47
+"Schizoid Personality Disorder",16.0,1988.0,15.0,48
+"Firesetting Behavior",13.0,1988.0,9.0,49
+"Mutism",12.0,1988.0,15.0,50
+"Sadism",12.0,1988.0,9.0,51
+"Depersonalization",10.0,1988.0,7.0,52
+"Pellagra",9.0,1988.0,13.0,53
+"Histrionic Personality Disorder",8.0,1988.0,11.0,54
+"Transvestism",7.0,1988.0,10.0,55
+"Masochism",7.0,1988.0,12.0,56
+"Trichotillomania",7.0,1988.0,6.0,57
+"Echolalia",6.0,1988.0,3.0,58
+"Fetishism (Psychiatric)",5.0,1988.0,5.0,59
+"Compulsive Personality Disorder",5.0,1988.0,9.0,60
+"Akinetic Mutism",5.0,1988.0,2.0,61
+"Exhibitionism",4.0,1988.0,9.0,62
+"Gerstmann Syndrome",2.0,1988.0,2.0,63
+"Depression",2265.0,1989.0,2215.0,1
+"Alcoholism",1521.0,1989.0,1611.0,2
+"Schizophrenia",1213.0,1989.0,1081.0,3
+"Alzheimer Disease",1172.0,1989.0,849.0,4
+"Dementia",773.0,1989.0,713.0,5
+"Bipolar Disorder",450.0,1989.0,500.0,6
+"Sleep Apnea",346.0,1989.0,275.0,7
+"Anorexia Nervosa",272.0,1989.0,234.0,8
+"Bulimia",227.0,1989.0,180.0,9
+"Autistic Disorder",216.0,1989.0,219.0,10
+"Aphasia",210.0,1989.0,188.0,11
+"Post-Traumatic Stress Disorder",208.0,1989.0,156.0,12
+"Attention Deficit Disorder with Hyperactivity",185.0,1989.0,190.0,13
+"Obsessive-Compulsive Disorder",166.0,1989.0,127.0,14
+"Heroin Dependence",158.0,1989.0,145.0,15
+"Amnesia",140.0,1989.0,178.0,16
+"Borderline Personality Disorder",139.0,1989.0,105.0,17
+"Agoraphobia",121.0,1989.0,91.0,18
+"Dyslexia",97.0,1989.0,80.0,19
+"Psychoses Substance-Induced",88.0,1989.0,69.0,20
+"Tobacco Use Disorder",86.0,1989.0,82.0,21
+"Delirium",73.0,1989.0,57.0,22
+"Creutzfeldt-Jakob Syndrome",71.0,1989.0,78.0,23
+"Marijuana Abuse",66.0,1989.0,37.0,24
+"Morphine Dependence",58.0,1989.0,47.0,25
+"Apraxias",49.0,1989.0,37.0,26
+"Sexual Dysfunctions",48.0,1989.0,56.0,27
+"Schizotypal Personality Disorder",46.0,1989.0,32.0,28
+"Psychoses Alcoholic",45.0,1989.0,46.0,29
+"Conversion Disorder",42.0,1989.0,47.0,30
+"Anomia",42.0,1989.0,33.0,31
+"Stuttering",41.0,1989.0,43.0,32
+"Neurocirculatory Asthenia",39.0,1989.0,49.0,33
+"Leukoencephalopathy",38.0,1989.0,48.0,34
+"Hypochondriasis",38.0,1989.0,43.0,35
+"Bruxism",34.0,1989.0,33.0,36
+"Transsexualism",32.0,1989.0,40.0,37
+"Dissociative Identity Disorder",29.0,1989.0,29.0,38
+"Agnosia",28.0,1989.0,25.0,39
+"Rett Syndrome",22.0,1989.0,0,40
+"Masochism",21.0,1989.0,7.0,41
+"Tay-Sachs Disease",19.0,1989.0,28.0,42
+"Agraphia",19.0,1989.0,18.0,43
+"Gambling",19.0,1989.0,24.0,44
+"Acquired Dyslexia",17.0,1989.0,17.0,45
+"Firesetting Behavior",17.0,1989.0,13.0,46
+"Cyclothymic Disorder",16.0,1989.0,18.0,47
+"Schizoid Personality Disorder",15.0,1989.0,16.0,48
+"Disorders of Excessive Somnolence",15.0,1989.0,20.0,49
+"Depersonalization",15.0,1989.0,10.0,50
+"Pedophilia",14.0,1989.0,19.0,51
+"Pica",12.0,1989.0,21.0,52
+"Histrionic Personality Disorder",8.0,1989.0,8.0,53
+"Compulsive Personality Disorder",8.0,1989.0,5.0,54
+"Mutism",7.0,1989.0,12.0,55
+"Trichotillomania",7.0,1989.0,7.0,56
+"Fetishism (Psychiatric)",7.0,1989.0,5.0,57
+"Transvestism",6.0,1989.0,7.0,58
+"Sadism",6.0,1989.0,12.0,59
+"Pellagra",6.0,1989.0,9.0,60
+"Panic Disorder",4.0,1989.0,0,61
+"Echolalia",4.0,1989.0,6.0,62
+"Akinetic Mutism",3.0,1989.0,5.0,63
+"Gerstmann Syndrome",3.0,1989.0,2.0,64
+"Exhibitionism",2.0,1989.0,4.0,65
+"Depression",2479.0,1990.0,2265.0,1
+"Alcoholism",1673.0,1990.0,1521.0,2
+"Schizophrenia",1337.0,1990.0,1213.0,3
+"Alzheimer Disease",1150.0,1990.0,1172.0,4
+"Dementia",810.0,1990.0,773.0,5
+"Bipolar Disorder",529.0,1990.0,450.0,6
+"Sleep Apnea",364.0,1990.0,346.0,7
+"Anorexia Nervosa",243.0,1990.0,272.0,8
+"Obsessive-Compulsive Disorder",218.0,1990.0,166.0,9
+"Bulimia",203.0,1990.0,227.0,10
+"Attention Deficit Disorder with Hyperactivity",202.0,1990.0,185.0,11
+"Autistic Disorder",188.0,1990.0,216.0,12
+"Post-Traumatic Stress Disorder",186.0,1990.0,208.0,13
+"Aphasia",155.0,1990.0,210.0,14
+"Heroin Dependence",149.0,1990.0,158.0,15
+"Amnesia",147.0,1990.0,140.0,16
+"Borderline Personality Disorder",142.0,1990.0,139.0,17
+"Dyslexia",110.0,1990.0,97.0,18
+"Agoraphobia",104.0,1990.0,121.0,19
+"Creutzfeldt-Jakob Syndrome",93.0,1990.0,71.0,20
+"Marijuana Abuse",88.0,1990.0,66.0,21
+"Rett Syndrome",84.0,1990.0,22.0,22
+"Psychoses Substance-Induced",83.0,1990.0,88.0,23
+"Tobacco Use Disorder",68.0,1990.0,86.0,24
+"Delirium",57.0,1990.0,73.0,25
+"Morphine Dependence",56.0,1990.0,58.0,26
+"Stuttering",56.0,1990.0,41.0,27
+"Dissociative Identity Disorder",52.0,1990.0,29.0,28
+"Hypochondriasis",47.0,1990.0,38.0,29
+"Bruxism",47.0,1990.0,34.0,30
+"Sexual Dysfunctions",45.0,1990.0,48.0,31
+"Conversion Disorder",43.0,1990.0,42.0,32
+"Transsexualism",42.0,1990.0,32.0,33
+"Anomia",40.0,1990.0,42.0,34
+"Neurocirculatory Asthenia",40.0,1990.0,39.0,35
+"Schizotypal Personality Disorder",38.0,1990.0,46.0,36
+"Tay-Sachs Disease",37.0,1990.0,19.0,37
+"Pedophilia",35.0,1990.0,14.0,38
+"Apraxias",32.0,1990.0,49.0,39
+"Leukoencephalopathy",32.0,1990.0,38.0,40
+"Agnosia",31.0,1990.0,28.0,41
+"Acquired Dyslexia",30.0,1990.0,17.0,42
+"Disorders of Excessive Somnolence",26.0,1990.0,15.0,43
+"Pica",22.0,1990.0,12.0,44
+"Agraphia",21.0,1990.0,19.0,45
+"Psychoses Alcoholic",19.0,1990.0,45.0,46
+"Depersonalization",18.0,1990.0,15.0,47
+"Gambling",14.0,1990.0,19.0,48
+"Mutism",14.0,1990.0,7.0,49
+"Cyclothymic Disorder",13.0,1990.0,16.0,50
+"Firesetting Behavior",12.0,1990.0,17.0,51
+"Schizoid Personality Disorder",11.0,1990.0,15.0,52
+"Compulsive Personality Disorder",10.0,1990.0,8.0,53
+"Histrionic Personality Disorder",10.0,1990.0,8.0,54
+"Pellagra",9.0,1990.0,6.0,55
+"Trichotillomania",9.0,1990.0,7.0,56
+"Akinetic Mutism",9.0,1990.0,3.0,57
+"Exhibitionism",7.0,1990.0,2.0,58
+"Transvestism",7.0,1990.0,6.0,59
+"Sadism",6.0,1990.0,6.0,60
+"Fetishism (Psychiatric)",4.0,1990.0,7.0,61
+"Masochism",4.0,1990.0,21.0,62
+"Echolalia",4.0,1990.0,4.0,63
+"Panic Disorder",4.0,1990.0,4.0,64
+"Gerstmann Syndrome",2.0,1990.0,3.0,65
+"Depression",2431.0,1991.0,2479.0,1
+"Alcoholism",1457.0,1991.0,1673.0,2
+"Schizophrenia",1302.0,1991.0,1337.0,3
+"Alzheimer Disease",1266.0,1991.0,1150.0,4
+"Dementia",778.0,1991.0,810.0,5
+"Bipolar Disorder",428.0,1991.0,529.0,6
+"Sleep Apnea",353.0,1991.0,364.0,7
+"Anorexia Nervosa",224.0,1991.0,243.0,8
+"Attention Deficit Disorder with Hyperactivity",219.0,1991.0,202.0,9
+"Autistic Disorder",202.0,1991.0,188.0,10
+"Post-Traumatic Stress Disorder",194.0,1991.0,186.0,11
+"Bulimia",192.0,1991.0,203.0,12
+"Obsessive-Compulsive Disorder",190.0,1991.0,218.0,13
+"Heroin Dependence",145.0,1991.0,149.0,14
+"Creutzfeldt-Jakob Syndrome",138.0,1991.0,93.0,15
+"Amnesia",136.0,1991.0,147.0,16
+"Borderline Personality Disorder",126.0,1991.0,142.0,17
+"Aphasia",119.0,1991.0,155.0,18
+"Delirium",104.0,1991.0,57.0,19
+"Panic Disorder",86.0,1991.0,4.0,20
+"Psychoses Substance-Induced",77.0,1991.0,83.0,21
+"Dyslexia",68.0,1991.0,110.0,22
+"Agoraphobia",66.0,1991.0,104.0,23
+"Bruxism",60.0,1991.0,47.0,24
+"Sexual Dysfunctions",58.0,1991.0,45.0,25
+"Marijuana Abuse",57.0,1991.0,88.0,26
+"Conversion Disorder",42.0,1991.0,43.0,27
+"Stuttering",41.0,1991.0,56.0,28
+"Agnosia",41.0,1991.0,31.0,29
+"Hypochondriasis",41.0,1991.0,47.0,30
+"Rett Syndrome",40.0,1991.0,84.0,31
+"Tobacco Use Disorder",37.0,1991.0,68.0,32
+"Dissociative Identity Disorder",35.0,1991.0,52.0,33
+"Leukoencephalopathy",34.0,1991.0,32.0,34
+"Schizotypal Personality Disorder",33.0,1991.0,38.0,35
+"Morphine Dependence",33.0,1991.0,56.0,36
+"Tay-Sachs Disease",33.0,1991.0,37.0,37
+"Apraxias",31.0,1991.0,32.0,38
+"Neurocirculatory Asthenia",30.0,1991.0,40.0,39
+"Anomia",27.0,1991.0,40.0,40
+"Transsexualism",27.0,1991.0,42.0,41
+"Disorders of Excessive Somnolence",27.0,1991.0,26.0,42
+"Gambling",26.0,1991.0,14.0,43
+"Trichotillomania",25.0,1991.0,9.0,44
+"Acquired Dyslexia",22.0,1991.0,30.0,45
+"Masochism",22.0,1991.0,4.0,46
+"Sadism",21.0,1991.0,6.0,47
+"Pellagra",20.0,1991.0,9.0,48
+"Schizoid Personality Disorder",20.0,1991.0,11.0,49
+"Pica",19.0,1991.0,22.0,50
+"Pedophilia",18.0,1991.0,35.0,51
+"Psychoses Alcoholic",18.0,1991.0,19.0,52
+"Agraphia",14.0,1991.0,21.0,53
+"Mutism",12.0,1991.0,14.0,54
+"Exhibitionism",11.0,1991.0,7.0,55
+"Firesetting Behavior",10.0,1991.0,12.0,56
+"Compulsive Personality Disorder",9.0,1991.0,10.0,57
+"Transvestism",9.0,1991.0,7.0,58
+"Histrionic Personality Disorder",8.0,1991.0,10.0,59
+"Depersonalization",7.0,1991.0,18.0,60
+"Fetishism (Psychiatric)",7.0,1991.0,4.0,61
+"Cyclothymic Disorder",7.0,1991.0,13.0,62
+"Akinetic Mutism",3.0,1991.0,9.0,63
+"Gerstmann Syndrome",3.0,1991.0,2.0,64
+"Echolalia",2.0,1991.0,4.0,65
+"Depression",2517.0,1992.0,2431.0,1
+"Schizophrenia",1477.0,1992.0,1302.0,2
+"Alcoholism",1418.0,1992.0,1457.0,3
+"Alzheimer Disease",1245.0,1992.0,1266.0,4
+"Dementia",791.0,1992.0,778.0,5
+"Bipolar Disorder",424.0,1992.0,428.0,6
+"Sleep Apnea",357.0,1992.0,353.0,7
+"Panic Disorder",279.0,1992.0,86.0,8
+"Obsessive-Compulsive Disorder",236.0,1992.0,190.0,9
+"Autistic Disorder",228.0,1992.0,202.0,10
+"Post-Traumatic Stress Disorder",224.0,1992.0,194.0,11
+"Anorexia Nervosa",213.0,1992.0,224.0,12
+"Attention Deficit Disorder with Hyperactivity",207.0,1992.0,219.0,13
+"Bulimia",187.0,1992.0,192.0,14
+"Amnesia",158.0,1992.0,136.0,15
+"Aphasia",131.0,1992.0,119.0,16
+"Heroin Dependence",130.0,1992.0,145.0,17
+"Borderline Personality Disorder",103.0,1992.0,126.0,18
+"Dyslexia",100.0,1992.0,68.0,19
+"Creutzfeldt-Jakob Syndrome",99.0,1992.0,138.0,20
+"Agoraphobia",85.0,1992.0,66.0,21
+"Psychoses Substance-Induced",82.0,1992.0,77.0,22
+"Delirium",72.0,1992.0,104.0,23
+"Sexual Dysfunctions",63.0,1992.0,58.0,24
+"Leukoencephalopathy",60.0,1992.0,34.0,25
+"Stuttering",56.0,1992.0,41.0,26
+"Rett Syndrome",52.0,1992.0,40.0,27
+"Tobacco Use Disorder",52.0,1992.0,37.0,28
+"Morphine Dependence",51.0,1992.0,33.0,29
+"Apraxias",51.0,1992.0,31.0,30
+"Agnosia",48.0,1992.0,41.0,31
+"Schizotypal Personality Disorder",47.0,1992.0,33.0,32
+"Dissociative Identity Disorder",45.0,1992.0,35.0,33
+"Marijuana Abuse",44.0,1992.0,57.0,34
+"Bruxism",44.0,1992.0,60.0,35
+"Transsexualism",41.0,1992.0,27.0,36
+"Anomia",40.0,1992.0,27.0,37
+"Hypochondriasis",38.0,1992.0,41.0,38
+"Trichotillomania",36.0,1992.0,25.0,39
+"Tay-Sachs Disease",33.0,1992.0,33.0,40
+"Conversion Disorder",33.0,1992.0,42.0,41
+"Neurocirculatory Asthenia",31.0,1992.0,30.0,42
+"Agraphia",26.0,1992.0,14.0,43
+"Disorders of Excessive Somnolence",23.0,1992.0,27.0,44
+"Depersonalization",23.0,1992.0,7.0,45
+"Acquired Dyslexia",23.0,1992.0,22.0,46
+"Pica",22.0,1992.0,19.0,47
+"Firesetting Behavior",17.0,1992.0,10.0,48
+"Pedophilia",17.0,1992.0,18.0,49
+"Gambling",17.0,1992.0,26.0,50
+"Psychoses Alcoholic",14.0,1992.0,18.0,51
+"Mutism",12.0,1992.0,12.0,52
+"Histrionic Personality Disorder",11.0,1992.0,8.0,53
+"Transvestism",10.0,1992.0,9.0,54
+"Cyclothymic Disorder",9.0,1992.0,7.0,55
+"Fetishism (Psychiatric)",8.0,1992.0,7.0,56
+"Sadism",7.0,1992.0,21.0,57
+"Masochism",7.0,1992.0,22.0,58
+"Pellagra",6.0,1992.0,20.0,59
+"Schizoid Personality Disorder",5.0,1992.0,20.0,60
+"Compulsive Personality Disorder",5.0,1992.0,9.0,61
+"Akinetic Mutism",5.0,1992.0,3.0,62
+"Exhibitionism",4.0,1992.0,11.0,63
+"Gerstmann Syndrome",2.0,1992.0,3.0,64
+"Echolalia",2.0,1992.0,2.0,65
+"Depression",2579.0,1993.0,2517.0,1
+"Alcoholism",1481.0,1993.0,1418.0,2
+"Schizophrenia",1440.0,1993.0,1477.0,3
+"Alzheimer Disease",1293.0,1993.0,1245.0,4
+"Dementia",842.0,1993.0,791.0,5
+"Sleep Apnea",452.0,1993.0,357.0,6
+"Bipolar Disorder",446.0,1993.0,424.0,7
+"Post-Traumatic Stress Disorder",308.0,1993.0,224.0,8
+"Panic Disorder",292.0,1993.0,279.0,9
+"Attention Deficit Disorder with Hyperactivity",247.0,1993.0,207.0,10
+"Anorexia Nervosa",246.0,1993.0,213.0,11
+"Bulimia",228.0,1993.0,187.0,12
+"Autistic Disorder",215.0,1993.0,228.0,13
+"Obsessive-Compulsive Disorder",192.0,1993.0,236.0,14
+"Amnesia",167.0,1993.0,158.0,15
+"Heroin Dependence",163.0,1993.0,130.0,16
+"Borderline Personality Disorder",153.0,1993.0,103.0,17
+"Aphasia",142.0,1993.0,131.0,18
+"Creutzfeldt-Jakob Syndrome",123.0,1993.0,99.0,19
+"Dyslexia",108.0,1993.0,100.0,20
+"Agoraphobia",100.0,1993.0,85.0,21
+"Psychoses Substance-Induced",71.0,1993.0,82.0,22
+"Transsexualism",67.0,1993.0,41.0,23
+"Delirium",64.0,1993.0,72.0,24
+"Leukoencephalopathy",61.0,1993.0,60.0,25
+"Morphine Dependence",61.0,1993.0,51.0,26
+"Sexual Dysfunctions",60.0,1993.0,63.0,27
+"Marijuana Abuse",57.0,1993.0,44.0,28
+"Dissociative Identity Disorder",55.0,1993.0,45.0,29
+"Stuttering",47.0,1993.0,56.0,30
+"Schizotypal Personality Disorder",43.0,1993.0,47.0,31
+"Tobacco Use Disorder",41.0,1993.0,52.0,32
+"Apraxias",38.0,1993.0,51.0,33
+"Conversion Disorder",37.0,1993.0,33.0,34
+"Rett Syndrome",36.0,1993.0,52.0,35
+"Bruxism",34.0,1993.0,44.0,36
+"Tay-Sachs Disease",33.0,1993.0,33.0,37
+"Hypochondriasis",30.0,1993.0,38.0,38
+"Trichotillomania",26.0,1993.0,36.0,39
+"Agnosia",26.0,1993.0,48.0,40
+"Depersonalization",24.0,1993.0,23.0,41
+"Disorders of Excessive Somnolence",22.0,1993.0,23.0,42
+"Gambling",22.0,1993.0,17.0,43
+"Pedophilia",20.0,1993.0,17.0,44
+"Anomia",18.0,1993.0,40.0,45
+"Mutism",18.0,1993.0,12.0,46
+"Psychoses Alcoholic",16.0,1993.0,14.0,47
+"Acquired Dyslexia",16.0,1993.0,23.0,48
+"Cyclothymic Disorder",13.0,1993.0,9.0,49
+"Schizoid Personality Disorder",13.0,1993.0,5.0,50
+"Agraphia",13.0,1993.0,26.0,51
+"Neurocirculatory Asthenia",12.0,1993.0,31.0,52
+"Pica",12.0,1993.0,22.0,53
+"Transvestism",12.0,1993.0,10.0,54
+"Masochism",11.0,1993.0,7.0,55
+"Pellagra",9.0,1993.0,6.0,56
+"Fetishism (Psychiatric)",7.0,1993.0,8.0,57
+"Akinetic Mutism",6.0,1993.0,5.0,58
+"Compulsive Personality Disorder",6.0,1993.0,5.0,59
+"Sadism",5.0,1993.0,7.0,60
+"Exhibitionism",5.0,1993.0,4.0,61
+"Firesetting Behavior",5.0,1993.0,17.0,62
+"Kleine-Levin Syndrome",4.0,1993.0,1.0,63
+"Histrionic Personality Disorder",4.0,1993.0,11.0,64
+"Echolalia",2.0,1993.0,2.0,65
+"Gerstmann Syndrome",1.0,1993.0,2.0,66
+"Depression",2809.0,1994.0,2579.0,1
+"Alzheimer Disease",1655.0,1994.0,1293.0,2
+"Schizophrenia",1620.0,1994.0,1440.0,3
+"Alcoholism",1555.0,1994.0,1481.0,4
+"Dementia",950.0,1994.0,842.0,5
+"Bipolar Disorder",474.0,1994.0,446.0,6
+"Sleep Apnea",377.0,1994.0,452.0,7
+"Post-Traumatic Stress Disorder",311.0,1994.0,308.0,8
+"Panic Disorder",290.0,1994.0,292.0,9
+"Attention Deficit Disorder with Hyperactivity",244.0,1994.0,247.0,10
+"Anorexia Nervosa",237.0,1994.0,246.0,11
+"Obsessive-Compulsive Disorder",230.0,1994.0,192.0,12
+"Autistic Disorder",227.0,1994.0,215.0,13
+"Heroin Dependence",181.0,1994.0,163.0,14
+"Bulimia",179.0,1994.0,228.0,15
+"Amnesia",152.0,1994.0,167.0,16
+"Aphasia",143.0,1994.0,142.0,17
+"Borderline Personality Disorder",121.0,1994.0,153.0,18
+"Creutzfeldt-Jakob Syndrome",112.0,1994.0,123.0,19
+"Dyslexia",92.0,1994.0,108.0,20
+"Delirium",90.0,1994.0,64.0,21
+"Schizotypal Personality Disorder",75.0,1994.0,43.0,22
+"Psychoses Substance-Induced",73.0,1994.0,71.0,23
+"Agoraphobia",68.0,1994.0,100.0,24
+"Marijuana Abuse",59.0,1994.0,57.0,25
+"Tobacco Use Disorder",59.0,1994.0,41.0,26
+"Apraxias",57.0,1994.0,38.0,27
+"Stuttering",56.0,1994.0,47.0,28
+"Leukoencephalopathy",55.0,1994.0,61.0,29
+"Agnosia",51.0,1994.0,26.0,30
+"Conversion Disorder",50.0,1994.0,37.0,31
+"Sexual Dysfunctions",49.0,1994.0,60.0,32
+"Morphine Dependence",46.0,1994.0,61.0,33
+"Dissociative Identity Disorder",43.0,1994.0,55.0,34
+"Transsexualism",39.0,1994.0,67.0,35
+"Anomia",39.0,1994.0,18.0,36
+"Bruxism",38.0,1994.0,34.0,37
+"Hypochondriasis",37.0,1994.0,30.0,38
+"Rett Syndrome",31.0,1994.0,36.0,39
+"Mutism",27.0,1994.0,18.0,40
+"Agraphia",23.0,1994.0,13.0,41
+"Acquired Dyslexia",23.0,1994.0,16.0,42
+"Tay-Sachs Disease",21.0,1994.0,33.0,43
+"Pedophilia",21.0,1994.0,20.0,44
+"Gambling",20.0,1994.0,22.0,45
+"Psychoses Alcoholic",18.0,1994.0,16.0,46
+"Disorders of Excessive Somnolence",18.0,1994.0,22.0,47
+"Trichotillomania",16.0,1994.0,26.0,48
+"Pica",13.0,1994.0,12.0,49
+"Firesetting Behavior",13.0,1994.0,5.0,50
+"Neurocirculatory Asthenia",12.0,1994.0,12.0,51
+"Depersonalization",11.0,1994.0,24.0,52
+"Cyclothymic Disorder",11.0,1994.0,13.0,53
+"Schizoid Personality Disorder",11.0,1994.0,13.0,54
+"Masochism",10.0,1994.0,11.0,55
+"Transvestism",9.0,1994.0,12.0,56
+"Sadism",9.0,1994.0,5.0,57
+"Pellagra",6.0,1994.0,9.0,58
+"Fetishism (Psychiatric)",5.0,1994.0,7.0,59
+"Histrionic Personality Disorder",5.0,1994.0,4.0,60
+"Gerstmann Syndrome",5.0,1994.0,1.0,61
+"Kleine-Levin Syndrome",4.0,1994.0,4.0,62
+"Exhibitionism",4.0,1994.0,5.0,63
+"Akinetic Mutism",4.0,1994.0,6.0,64
+"Compulsive Personality Disorder",3.0,1994.0,6.0,65
+"Echolalia",2.0,1994.0,2.0,66
+"Postpartum Depression",2.0,1994.0,1.0,67
+"Depression",2776.0,1995.0,2809.0,1
+"Alzheimer Disease",1648.0,1995.0,1655.0,2
+"Schizophrenia",1616.0,1995.0,1620.0,3
+"Alcoholism",1469.0,1995.0,1555.0,4
+"Dementia",944.0,1995.0,950.0,5
+"Sleep Apnea",532.0,1995.0,377.0,6
+"Bipolar Disorder",521.0,1995.0,474.0,7
+"Post-Traumatic Stress Disorder",373.0,1995.0,311.0,8
+"Obsessive-Compulsive Disorder",277.0,1995.0,230.0,9
+"Attention Deficit Disorder with Hyperactivity",267.0,1995.0,244.0,10
+"Panic Disorder",249.0,1995.0,290.0,11
+"Anorexia Nervosa",214.0,1995.0,237.0,12
+"Bulimia",199.0,1995.0,179.0,13
+"Autistic Disorder",191.0,1995.0,227.0,14
+"Amnesia",160.0,1995.0,152.0,15
+"Heroin Dependence",133.0,1995.0,181.0,16
+"Aphasia",115.0,1995.0,143.0,17
+"Borderline Personality Disorder",111.0,1995.0,121.0,18
+"Creutzfeldt-Jakob Syndrome",104.0,1995.0,112.0,19
+"Delirium",96.0,1995.0,90.0,20
+"Agoraphobia",86.0,1995.0,68.0,21
+"Dyslexia",83.0,1995.0,92.0,22
+"Psychoses Substance-Induced",80.0,1995.0,73.0,23
+"Sexual Dysfunctions",74.0,1995.0,49.0,24
+"Tobacco Use Disorder",74.0,1995.0,59.0,25
+"Marijuana Abuse",65.0,1995.0,59.0,26
+"Transsexualism",62.0,1995.0,39.0,27
+"Morphine Dependence",60.0,1995.0,46.0,28
+"Leukoencephalopathy",57.0,1995.0,55.0,29
+"Apraxias",53.0,1995.0,57.0,30
+"Schizotypal Personality Disorder",50.0,1995.0,75.0,31
+"Stuttering",49.0,1995.0,56.0,32
+"Rett Syndrome",49.0,1995.0,31.0,33
+"Agnosia",47.0,1995.0,51.0,34
+"Bruxism",46.0,1995.0,38.0,35
+"Conversion Disorder",45.0,1995.0,50.0,36
+"Anomia",41.0,1995.0,39.0,37
+"Tay-Sachs Disease",36.0,1995.0,21.0,38
+"Dissociative Identity Disorder",33.0,1995.0,43.0,39
+"Mutism",27.0,1995.0,27.0,40
+"Hypochondriasis",26.0,1995.0,37.0,41
+"Gambling",24.0,1995.0,20.0,42
+"Trichotillomania",24.0,1995.0,16.0,43
+"Acquired Dyslexia",24.0,1995.0,23.0,44
+"Postpartum Depression",23.0,1995.0,2.0,45
+"Neurocirculatory Asthenia",19.0,1995.0,12.0,46
+"Pedophilia",17.0,1995.0,21.0,47
+"Firesetting Behavior",17.0,1995.0,13.0,48
+"Agraphia",15.0,1995.0,23.0,49
+"Disorders of Excessive Somnolence",14.0,1995.0,18.0,50
+"Pica",14.0,1995.0,13.0,51
+"Psychoses Alcoholic",11.0,1995.0,18.0,52
+"Depersonalization",10.0,1995.0,11.0,53
+"Schizoid Personality Disorder",10.0,1995.0,11.0,54
+"Masochism",9.0,1995.0,10.0,55
+"Histrionic Personality Disorder",9.0,1995.0,5.0,56
+"Cyclothymic Disorder",8.0,1995.0,11.0,57
+"Pellagra",7.0,1995.0,6.0,58
+"Akinetic Mutism",7.0,1995.0,4.0,59
+"Sadism",6.0,1995.0,9.0,60
+"Transvestism",5.0,1995.0,9.0,61
+"Fetishism (Psychiatric)",5.0,1995.0,5.0,62
+"Compulsive Personality Disorder",4.0,1995.0,3.0,63
+"Gerstmann Syndrome",4.0,1995.0,5.0,64
+"Echolalia",3.0,1995.0,2.0,65
+"Kleine-Levin Syndrome",1.0,1995.0,4.0,66
+"Depression",2862.0,1996.0,2776.0,1
+"Alzheimer Disease",1921.0,1996.0,1648.0,2
+"Schizophrenia",1730.0,1996.0,1616.0,3
+"Alcoholism",1423.0,1996.0,1469.0,4
+"Dementia",1015.0,1996.0,944.0,5
+"Sleep Apnea",554.0,1996.0,532.0,6
+"Bipolar Disorder",495.0,1996.0,521.0,7
+"Post-Traumatic Stress Disorder",406.0,1996.0,373.0,8
+"Attention Deficit Disorder with Hyperactivity",327.0,1996.0,267.0,9
+"Panic Disorder",284.0,1996.0,249.0,10
+"Obsessive-Compulsive Disorder",273.0,1996.0,277.0,11
+"Creutzfeldt-Jakob Syndrome",254.0,1996.0,104.0,12
+"Autistic Disorder",236.0,1996.0,191.0,13
+"Anorexia Nervosa",235.0,1996.0,214.0,14
+"Bulimia",213.0,1996.0,199.0,15
+"Amnesia",161.0,1996.0,160.0,16
+"Heroin Dependence",123.0,1996.0,133.0,17
+"Aphasia",115.0,1996.0,115.0,18
+"Tobacco Use Disorder",112.0,1996.0,74.0,19
+"Borderline Personality Disorder",99.0,1996.0,111.0,20
+"Delirium",88.0,1996.0,96.0,21
+"Agoraphobia",79.0,1996.0,86.0,22
+"Psychoses Substance-Induced",77.0,1996.0,80.0,23
+"Dyslexia",76.0,1996.0,83.0,24
+"Sexual Dysfunctions",65.0,1996.0,74.0,25
+"Morphine Dependence",61.0,1996.0,60.0,26
+"Postpartum Depression",54.0,1996.0,23.0,27
+"Marijuana Abuse",54.0,1996.0,65.0,28
+"Leukoencephalopathy",53.0,1996.0,57.0,29
+"Transsexualism",52.0,1996.0,62.0,30
+"Apraxias",48.0,1996.0,53.0,31
+"Schizotypal Personality Disorder",48.0,1996.0,50.0,32
+"Stuttering",45.0,1996.0,49.0,33
+"Hypochondriasis",44.0,1996.0,26.0,34
+"Disorders of Excessive Somnolence",41.0,1996.0,14.0,35
+"Conversion Disorder",39.0,1996.0,45.0,36
+"Gambling",38.0,1996.0,24.0,37
+"Bruxism",36.0,1996.0,46.0,38
+"Agnosia",33.0,1996.0,47.0,39
+"Rett Syndrome",27.0,1996.0,49.0,40
+"Neurocirculatory Asthenia",27.0,1996.0,19.0,41
+"Mutism",21.0,1996.0,27.0,42
+"Tay-Sachs Disease",20.0,1996.0,36.0,43
+"Dissociative Identity Disorder",18.0,1996.0,33.0,44
+"Pica",17.0,1996.0,14.0,45
+"Acquired Dyslexia",15.0,1996.0,24.0,46
+"Trichotillomania",14.0,1996.0,24.0,47
+"Pedophilia",13.0,1996.0,17.0,48
+"Anomia",12.0,1996.0,41.0,49
+"Schizoid Personality Disorder",11.0,1996.0,10.0,50
+"Firesetting Behavior",10.0,1996.0,17.0,51
+"Psychoses Alcoholic",9.0,1996.0,11.0,52
+"Transvestism",8.0,1996.0,5.0,53
+"Agraphia",7.0,1996.0,15.0,54
+"Histrionic Personality Disorder",7.0,1996.0,9.0,55
+"Sadism",6.0,1996.0,6.0,56
+"Cyclothymic Disorder",5.0,1996.0,8.0,57
+"Masochism",4.0,1996.0,9.0,58
+"Akinetic Mutism",4.0,1996.0,7.0,59
+"Pellagra",4.0,1996.0,7.0,60
+"Gerstmann Syndrome",4.0,1996.0,4.0,61
+"Exhibitionism",3.0,1996.0,4.0,62
+"Depersonalization",3.0,1996.0,10.0,63
+"Kleine-Levin Syndrome",3.0,1996.0,1.0,64
+"Compulsive Personality Disorder",2.0,1996.0,4.0,65
+"Fetishism (Psychiatric)",2.0,1996.0,5.0,66
+"Depression",2921.0,1997.0,2862.0,1
+"Alzheimer Disease",2032.0,1997.0,1921.0,2
+"Schizophrenia",1685.0,1997.0,1730.0,3
+"Alcoholism",1359.0,1997.0,1423.0,4
+"Dementia",1086.0,1997.0,1015.0,5
+"Sleep Apnea",542.0,1997.0,554.0,6
+"Bipolar Disorder",537.0,1997.0,495.0,7
+"Post-Traumatic Stress Disorder",486.0,1997.0,406.0,8
+"Attention Deficit Disorder with Hyperactivity",361.0,1997.0,327.0,9
+"Panic Disorder",318.0,1997.0,284.0,10
+"Obsessive-Compulsive Disorder",279.0,1997.0,273.0,11
+"Anorexia Nervosa",265.0,1997.0,235.0,12
+"Autistic Disorder",240.0,1997.0,236.0,13
+"Creutzfeldt-Jakob Syndrome",222.0,1997.0,254.0,14
+"Bulimia",209.0,1997.0,213.0,15
+"Amnesia",193.0,1997.0,161.0,16
+"Heroin Dependence",154.0,1997.0,123.0,17
+"Tobacco Use Disorder",149.0,1997.0,112.0,18
+"Aphasia",128.0,1997.0,115.0,19
+"Delirium",110.0,1997.0,88.0,20
+"Borderline Personality Disorder",92.0,1997.0,99.0,21
+"Postpartum Depression",89.0,1997.0,54.0,22
+"Sexual Dysfunctions",85.0,1997.0,65.0,23
+"Dyslexia",84.0,1997.0,76.0,24
+"Leukoencephalopathy",81.0,1997.0,53.0,25
+"Agoraphobia",75.0,1997.0,79.0,26
+"Psychoses Substance-Induced",70.0,1997.0,77.0,27
+"Marijuana Abuse",61.0,1997.0,54.0,28
+"Rett Syndrome",58.0,1997.0,27.0,29
+"Apraxias",56.0,1997.0,48.0,30
+"Stuttering",50.0,1997.0,45.0,31
+"Morphine Dependence",49.0,1997.0,61.0,32
+"Transsexualism",47.0,1997.0,52.0,33
+"Agnosia",44.0,1997.0,33.0,34
+"Conversion Disorder",42.0,1997.0,39.0,35
+"Disorders of Excessive Somnolence",41.0,1997.0,41.0,36
+"Bruxism",40.0,1997.0,36.0,37
+"Gambling",39.0,1997.0,38.0,38
+"Schizotypal Personality Disorder",31.0,1997.0,48.0,39
+"Anomia",29.0,1997.0,12.0,40
+"Mutism",28.0,1997.0,21.0,41
+"Trichotillomania",24.0,1997.0,14.0,42
+"Tay-Sachs Disease",23.0,1997.0,20.0,43
+"Conduct Disorder",21.0,1997.0,8.0,44
+"Hypochondriasis",20.0,1997.0,44.0,45
+"Acquired Dyslexia",19.0,1997.0,15.0,46
+"Pica",17.0,1997.0,17.0,47
+"Psychoses Alcoholic",16.0,1997.0,9.0,48
+"Agraphia",14.0,1997.0,7.0,49
+"Pedophilia",14.0,1997.0,13.0,50
+"Neurocirculatory Asthenia",12.0,1997.0,27.0,51
+"Firesetting Behavior",12.0,1997.0,10.0,52
+"Depersonalization",11.0,1997.0,3.0,53
+"Dissociative Identity Disorder",10.0,1997.0,18.0,54
+"Akinetic Mutism",9.0,1997.0,4.0,55
+"Transvestism",9.0,1997.0,8.0,56
+"Pellagra",9.0,1997.0,4.0,57
+"Stereotypic Movement Disorder",9.0,1997.0,1.0,58
+"Cyclothymic Disorder",8.0,1997.0,5.0,59
+"Fetishism (Psychiatric)",6.0,1997.0,2.0,60
+"Schizoid Personality Disorder",6.0,1997.0,11.0,61
+"Sadism",5.0,1997.0,6.0,62
+"Compulsive Personality Disorder",5.0,1997.0,2.0,63
+"Kleine-Levin Syndrome",5.0,1997.0,3.0,64
+"Masochism",4.0,1997.0,4.0,65
+"Gerstmann Syndrome",3.0,1997.0,4.0,66
+"Histrionic Personality Disorder",2.0,1997.0,7.0,67
+"Exhibitionism",1.0,1997.0,3.0,68
+"Echolalia",1.0,1997.0,3.0,69
+"Depression",2919.0,1998.0,2921.0,1
+"Alzheimer Disease",2066.0,1998.0,2032.0,2
+"Schizophrenia",1741.0,1998.0,1685.0,3
+"Alcoholism",1239.0,1998.0,1359.0,4
+"Dementia",1044.0,1998.0,1086.0,5
+"Sleep Apnea",575.0,1998.0,542.0,6
+"Bipolar Disorder",536.0,1998.0,537.0,7
+"Post-Traumatic Stress Disorder",467.0,1998.0,486.0,8
+"Attention Deficit Disorder with Hyperactivity",405.0,1998.0,361.0,9
+"Panic Disorder",301.0,1998.0,318.0,10
+"Autistic Disorder",290.0,1998.0,240.0,11
+"Obsessive-Compulsive Disorder",267.0,1998.0,279.0,12
+"Anorexia Nervosa",239.0,1998.0,265.0,13
+"Creutzfeldt-Jakob Syndrome",227.0,1998.0,222.0,14
+"Bulimia",197.0,1998.0,209.0,15
+"Amnesia",169.0,1998.0,193.0,16
+"Heroin Dependence",154.0,1998.0,154.0,17
+"Aphasia",129.0,1998.0,128.0,18
+"Tobacco Use Disorder",128.0,1998.0,149.0,19
+"Sexual Dysfunctions",109.0,1998.0,85.0,20
+"Delirium",99.0,1998.0,110.0,21
+"Dyslexia",95.0,1998.0,84.0,22
+"Leukoencephalopathy",86.0,1998.0,81.0,23
+"Postpartum Depression",84.0,1998.0,89.0,24
+"Borderline Personality Disorder",81.0,1998.0,92.0,25
+"Agoraphobia",69.0,1998.0,75.0,26
+"Marijuana Abuse",68.0,1998.0,61.0,27
+"Psychoses Substance-Induced",67.0,1998.0,70.0,28
+"Conduct Disorder",63.0,1998.0,21.0,29
+"Transsexualism",59.0,1998.0,47.0,30
+"Rett Syndrome",52.0,1998.0,58.0,31
+"Apraxias",51.0,1998.0,56.0,32
+"Morphine Dependence",49.0,1998.0,49.0,33
+"Bruxism",46.0,1998.0,40.0,34
+"Conversion Disorder",40.0,1998.0,42.0,35
+"Stuttering",40.0,1998.0,50.0,36
+"Disorders of Excessive Somnolence",38.0,1998.0,41.0,37
+"Anomia",37.0,1998.0,29.0,38
+"Agnosia",37.0,1998.0,44.0,39
+"Schizotypal Personality Disorder",34.0,1998.0,31.0,40
+"Gambling",32.0,1998.0,39.0,41
+"Acquired Dyslexia",31.0,1998.0,19.0,42
+"Pica",26.0,1998.0,17.0,43
+"Hypochondriasis",24.0,1998.0,20.0,44
+"Mutism",22.0,1998.0,28.0,45
+"Tay-Sachs Disease",22.0,1998.0,23.0,46
+"Stereotypic Movement Disorder",21.0,1998.0,9.0,47
+"Depersonalization",19.0,1998.0,11.0,48
+"Trichotillomania",17.0,1998.0,24.0,49
+"Dissociative Identity Disorder",17.0,1998.0,10.0,50
+"Agraphia",16.0,1998.0,14.0,51
+"Pellagra",12.0,1998.0,9.0,52
+"Compulsive Personality Disorder",10.0,1998.0,5.0,53
+"Pedophilia",10.0,1998.0,14.0,54
+"Neurocirculatory Asthenia",9.0,1998.0,12.0,55
+"Kleine-Levin Syndrome",9.0,1998.0,5.0,56
+"Schizoid Personality Disorder",9.0,1998.0,6.0,57
+"Psychoses Alcoholic",9.0,1998.0,16.0,58
+"Masochism",8.0,1998.0,4.0,59
+"Sadism",7.0,1998.0,5.0,60
+"Cyclothymic Disorder",7.0,1998.0,8.0,61
+"Akinetic Mutism",6.0,1998.0,9.0,62
+"Firesetting Behavior",5.0,1998.0,12.0,63
+"Gerstmann Syndrome",5.0,1998.0,3.0,64
+"Histrionic Personality Disorder",4.0,1998.0,2.0,65
+"Lewy Body Disease",4.0,1998.0,0,66
+"Exhibitionism",3.0,1998.0,1.0,67
+"Echolalia",3.0,1998.0,1.0,68
+"Transvestism",3.0,1998.0,9.0,69
+"Fetishism (Psychiatric)",2.0,1998.0,6.0,70
+"Depression",3039.0,1999.0,2919.0,1
+"Alzheimer Disease",2060.0,1999.0,2066.0,2
+"Schizophrenia",1994.0,1999.0,1741.0,3
+"Alcoholism",1241.0,1999.0,1239.0,4
+"Dementia",1089.0,1999.0,1044.0,5
+"Bipolar Disorder",692.0,1999.0,536.0,6
+"Sleep Apnea",593.0,1999.0,575.0,7
+"Post-Traumatic Stress Disorder",533.0,1999.0,467.0,8
+"Attention Deficit Disorder with Hyperactivity",462.0,1999.0,405.0,9
+"Autistic Disorder",288.0,1999.0,290.0,10
+"Obsessive-Compulsive Disorder",262.0,1999.0,267.0,11
+"Panic Disorder",237.0,1999.0,301.0,12
+"Tobacco Use Disorder",233.0,1999.0,128.0,13
+"Anorexia Nervosa",223.0,1999.0,239.0,14
+"Creutzfeldt-Jakob Syndrome",216.0,1999.0,227.0,15
+"Bulimia",172.0,1999.0,197.0,16
+"Heroin Dependence",166.0,1999.0,154.0,17
+"Amnesia",148.0,1999.0,169.0,18
+"Dyslexia",131.0,1999.0,95.0,19
+"Aphasia",130.0,1999.0,129.0,20
+"Delirium",119.0,1999.0,99.0,21
+"Sexual Dysfunctions",92.0,1999.0,109.0,22
+"Leukoencephalopathy",89.0,1999.0,86.0,23
+"Psychoses Substance-Induced",81.0,1999.0,67.0,24
+"Conduct Disorder",78.0,1999.0,63.0,25
+"Marijuana Abuse",78.0,1999.0,68.0,26
+"Borderline Personality Disorder",76.0,1999.0,81.0,27
+"Postpartum Depression",68.0,1999.0,84.0,28
+"Transsexualism",59.0,1999.0,59.0,29
+"Rett Syndrome",57.0,1999.0,52.0,30
+"Apraxias",48.0,1999.0,51.0,31
+"Bruxism",47.0,1999.0,46.0,32
+"Morphine Dependence",47.0,1999.0,49.0,33
+"Gambling",44.0,1999.0,32.0,34
+"Agoraphobia",44.0,1999.0,69.0,35
+"Disorders of Excessive Somnolence",42.0,1999.0,38.0,36
+"Stuttering",41.0,1999.0,40.0,37
+"Mutism",36.0,1999.0,22.0,38
+"Stereotypic Movement Disorder",35.0,1999.0,21.0,39
+"Hypochondriasis",34.0,1999.0,24.0,40
+"Agnosia",30.0,1999.0,37.0,41
+"Schizotypal Personality Disorder",29.0,1999.0,34.0,42
+"Conversion Disorder",29.0,1999.0,40.0,43
+"Lewy Body Disease",28.0,1999.0,4.0,44
+"Pica",27.0,1999.0,26.0,45
+"Trichotillomania",25.0,1999.0,17.0,46
+"Pedophilia",24.0,1999.0,10.0,47
+"Dissociative Identity Disorder",19.0,1999.0,17.0,48
+"Anomia",18.0,1999.0,37.0,49
+"Tay-Sachs Disease",18.0,1999.0,22.0,50
+"Asperger Syndrome",16.0,1999.0,1.0,51
+"Depersonalization",15.0,1999.0,19.0,52
+"Agraphia",14.0,1999.0,16.0,53
+"Transvestism",12.0,1999.0,3.0,54
+"Cyclothymic Disorder",11.0,1999.0,7.0,55
+"Sadism",11.0,1999.0,7.0,56
+"Psychoses Alcoholic",10.0,1999.0,9.0,57
+"Firesetting Behavior",8.0,1999.0,5.0,58
+"Neurocirculatory Asthenia",7.0,1999.0,9.0,59
+"Acquired Dyslexia",6.0,1999.0,31.0,60
+"Pellagra",6.0,1999.0,12.0,61
+"Compulsive Personality Disorder",5.0,1999.0,10.0,62
+"Akinetic Mutism",5.0,1999.0,6.0,63
+"Masochism",4.0,1999.0,8.0,64
+"Kleine-Levin Syndrome",3.0,1999.0,9.0,65
+"Histrionic Personality Disorder",3.0,1999.0,4.0,66
+"Exhibitionism",2.0,1999.0,3.0,67
+"Fetishism (Psychiatric)",2.0,1999.0,2.0,68
+"Gerstmann Syndrome",2.0,1999.0,5.0,69
+"Echolalia",1.0,1999.0,3.0,70
+"Schizoid Personality Disorder",1.0,1999.0,9.0,71
+"Depression",3092.0,2000.0,3039.0,1
+"Alzheimer Disease",2349.0,2000.0,2060.0,2
+"Schizophrenia",2025.0,2000.0,1994.0,3
+"Alcoholism",1260.0,2000.0,1241.0,4
+"Dementia",1102.0,2000.0,1089.0,5
+"Sleep Apnea",750.0,2000.0,593.0,6
+"Bipolar Disorder",691.0,2000.0,692.0,7
+"Post-Traumatic Stress Disorder",602.0,2000.0,533.0,8
+"Attention Deficit Disorder with Hyperactivity",541.0,2000.0,462.0,9
+"Autistic Disorder",351.0,2000.0,288.0,10
+"Obsessive-Compulsive Disorder",282.0,2000.0,262.0,11
+"Creutzfeldt-Jakob Syndrome",272.0,2000.0,216.0,12
+"Panic Disorder",238.0,2000.0,237.0,13
+"Anorexia Nervosa",220.0,2000.0,223.0,14
+"Tobacco Use Disorder",209.0,2000.0,233.0,15
+"Dyslexia",207.0,2000.0,131.0,16
+"Heroin Dependence",203.0,2000.0,166.0,17
+"Aphasia",191.0,2000.0,130.0,18
+"Bulimia",175.0,2000.0,172.0,19
+"Amnesia",173.0,2000.0,148.0,20
+"Delirium",137.0,2000.0,119.0,21
+"Borderline Personality Disorder",116.0,2000.0,76.0,22
+"Lewy Body Disease",113.0,2000.0,28.0,23
+"Postpartum Depression",101.0,2000.0,68.0,24
+"Marijuana Abuse",95.0,2000.0,78.0,25
+"Sexual Dysfunctions",86.0,2000.0,92.0,26
+"Conduct Disorder",78.0,2000.0,78.0,27
+"Psychoses Substance-Induced",75.0,2000.0,81.0,28
+"Morphine Dependence",73.0,2000.0,47.0,29
+"Transsexualism",73.0,2000.0,59.0,30
+"Schizotypal Personality Disorder",71.0,2000.0,29.0,31
+"Apraxias",71.0,2000.0,48.0,32
+"Gambling",65.0,2000.0,44.0,33
+"Leukoencephalopathy",65.0,2000.0,89.0,34
+"Disorders of Excessive Somnolence",63.0,2000.0,42.0,35
+"Bruxism",60.0,2000.0,47.0,36
+"Agnosia",59.0,2000.0,30.0,37
+"Rett Syndrome",58.0,2000.0,57.0,38
+"Agoraphobia",52.0,2000.0,44.0,39
+"Stuttering",51.0,2000.0,41.0,40
+"Asperger Syndrome",44.0,2000.0,16.0,41
+"Conversion Disorder",36.0,2000.0,29.0,42
+"Hypochondriasis",30.0,2000.0,34.0,43
+"Stereotypic Movement Disorder",26.0,2000.0,35.0,44
+"Pica",20.0,2000.0,27.0,45
+"Trichotillomania",19.0,2000.0,25.0,46
+"Pedophilia",18.0,2000.0,24.0,47
+"Agraphia",17.0,2000.0,14.0,48
+"Anomia",15.0,2000.0,18.0,49
+"Tay-Sachs Disease",14.0,2000.0,18.0,50
+"Depersonalization",14.0,2000.0,15.0,51
+"Acquired Dyslexia",13.0,2000.0,6.0,52
+"Transvestism",11.0,2000.0,12.0,53
+"Dissociative Identity Disorder",11.0,2000.0,19.0,54
+"Mutism",11.0,2000.0,36.0,55
+"Neurocirculatory Asthenia",11.0,2000.0,7.0,56
+"Pellagra",11.0,2000.0,6.0,57
+"Kleine-Levin Syndrome",9.0,2000.0,3.0,58
+"Sadism",8.0,2000.0,11.0,59
+"Akinetic Mutism",7.0,2000.0,5.0,60
+"Compulsive Personality Disorder",7.0,2000.0,5.0,61
+"Firesetting Behavior",7.0,2000.0,8.0,62
+"Masochism",6.0,2000.0,4.0,63
+"Histrionic Personality Disorder",4.0,2000.0,3.0,64
+"Schizoid Personality Disorder",4.0,2000.0,1.0,65
+"Gerstmann Syndrome",3.0,2000.0,2.0,66
+"Psychoses Alcoholic",3.0,2000.0,10.0,67
+"Exhibitionism",2.0,2000.0,2.0,68
+"Cyclothymic Disorder",2.0,2000.0,11.0,69
+"Echolalia",2.0,2000.0,1.0,70
+"Fetishism (Psychiatric)",1.0,2000.0,2.0,71
+"Depression",3314.0,2001.0,3092.0,1
+"Alzheimer Disease",2454.0,2001.0,2349.0,2
+"Schizophrenia",2012.0,2001.0,2025.0,3
+"Alcoholism",1141.0,2001.0,1260.0,4
+"Dementia",1133.0,2001.0,1102.0,5
+"Bipolar Disorder",730.0,2001.0,691.0,6
+"Post-Traumatic Stress Disorder",686.0,2001.0,602.0,7
+"Sleep Apnea",656.0,2001.0,750.0,8
+"Attention Deficit Disorder with Hyperactivity",616.0,2001.0,541.0,9
+"Autistic Disorder",465.0,2001.0,351.0,10
+"Creutzfeldt-Jakob Syndrome",328.0,2001.0,272.0,11
+"Obsessive-Compulsive Disorder",293.0,2001.0,282.0,12
+"Anorexia Nervosa",256.0,2001.0,220.0,13
+"Panic Disorder",246.0,2001.0,238.0,14
+"Bulimia",211.0,2001.0,175.0,15
+"Heroin Dependence",209.0,2001.0,203.0,16
+"Dyslexia",186.0,2001.0,207.0,17
+"Tobacco Use Disorder",185.0,2001.0,209.0,18
+"Aphasia",179.0,2001.0,191.0,19
+"Amnesia",161.0,2001.0,173.0,20
+"Sexual Dysfunctions",160.0,2001.0,86.0,21
+"Delirium",148.0,2001.0,137.0,22
+"Rett Syndrome",133.0,2001.0,58.0,23
+"Postpartum Depression",120.0,2001.0,101.0,24
+"Lewy Body Disease",106.0,2001.0,113.0,25
+"Marijuana Abuse",102.0,2001.0,95.0,26
+"Borderline Personality Disorder",99.0,2001.0,116.0,27
+"Gambling",95.0,2001.0,65.0,28
+"Conduct Disorder",90.0,2001.0,78.0,29
+"Morphine Dependence",76.0,2001.0,73.0,30
+"Leukoencephalopathy",70.0,2001.0,65.0,31
+"Psychoses Substance-Induced",69.0,2001.0,75.0,32
+"Disorders of Excessive Somnolence",68.0,2001.0,63.0,33
+"Transsexualism",65.0,2001.0,73.0,34
+"Bruxism",64.0,2001.0,60.0,35
+"Schizotypal Personality Disorder",64.0,2001.0,71.0,36
+"Apraxias",62.0,2001.0,71.0,37
+"Asperger Syndrome",56.0,2001.0,44.0,38
+"Agoraphobia",50.0,2001.0,52.0,39
+"Agnosia",49.0,2001.0,59.0,40
+"Stuttering",48.0,2001.0,51.0,41
+"Tay-Sachs Disease",36.0,2001.0,14.0,42
+"Conversion Disorder",31.0,2001.0,36.0,43
+"Depersonalization",29.0,2001.0,14.0,44
+"Pica",23.0,2001.0,20.0,45
+"Anomia",23.0,2001.0,15.0,46
+"Mutism",21.0,2001.0,11.0,47
+"Hypochondriasis",21.0,2001.0,30.0,48
+"Stereotypic Movement Disorder",19.0,2001.0,26.0,49
+"Trichotillomania",17.0,2001.0,19.0,50
+"Agraphia",17.0,2001.0,17.0,51
+"Pedophilia",15.0,2001.0,18.0,52
+"Neurocirculatory Asthenia",13.0,2001.0,11.0,53
+"Firesetting Behavior",13.0,2001.0,7.0,54
+"Acquired Dyslexia",11.0,2001.0,13.0,55
+"Dissociative Identity Disorder",10.0,2001.0,11.0,56
+"Transvestism",8.0,2001.0,11.0,57
+"Schizoid Personality Disorder",8.0,2001.0,4.0,58
+"Sadism",8.0,2001.0,8.0,59
+"Masochism",7.0,2001.0,6.0,60
+"Akinetic Mutism",5.0,2001.0,7.0,61
+"Pellagra",5.0,2001.0,11.0,62
+"Gerstmann Syndrome",5.0,2001.0,3.0,63
+"Compulsive Personality Disorder",4.0,2001.0,7.0,64
+"Kleine-Levin Syndrome",4.0,2001.0,9.0,65
+"Cyclothymic Disorder",4.0,2001.0,2.0,66
+"Histrionic Personality Disorder",3.0,2001.0,4.0,67
+"Fetishism (Psychiatric)",2.0,2001.0,1.0,68
+"Exhibitionism",2.0,2001.0,2.0,69
+"Echolalia",2.0,2001.0,2.0,70
+"Psychoses Alcoholic",1.0,2001.0,3.0,71
+"Depression",3262.0,2002.0,3314.0,1
+"Alzheimer Disease",2650.0,2002.0,2454.0,2
+"Schizophrenia",2025.0,2002.0,2012.0,3
+"Dementia",1251.0,2002.0,1133.0,4
+"Alcoholism",1183.0,2002.0,1141.0,5
+"Post-Traumatic Stress Disorder",786.0,2002.0,686.0,6
+"Bipolar Disorder",737.0,2002.0,730.0,7
+"Sleep Apnea",726.0,2002.0,656.0,8
+"Attention Deficit Disorder with Hyperactivity",659.0,2002.0,616.0,9
+"Autistic Disorder",510.0,2002.0,465.0,10
+"Tobacco Use Disorder",307.0,2002.0,185.0,11
+"Obsessive-Compulsive Disorder",285.0,2002.0,293.0,12
+"Creutzfeldt-Jakob Syndrome",280.0,2002.0,328.0,13
+"Panic Disorder",258.0,2002.0,246.0,14
+"Anorexia Nervosa",256.0,2002.0,256.0,15
+"Heroin Dependence",216.0,2002.0,209.0,16
+"Bulimia",214.0,2002.0,211.0,17
+"Dyslexia",193.0,2002.0,186.0,18
+"Sexual Dysfunctions",155.0,2002.0,160.0,19
+"Postpartum Depression",149.0,2002.0,120.0,20
+"Marijuana Abuse",136.0,2002.0,102.0,21
+"Delirium",134.0,2002.0,148.0,22
+"Lewy Body Disease",126.0,2002.0,106.0,23
+"Amnesia",126.0,2002.0,161.0,24
+"Aphasia",123.0,2002.0,179.0,25
+"Borderline Personality Disorder",106.0,2002.0,99.0,26
+"Gambling",97.0,2002.0,95.0,27
+"Disorders of Excessive Somnolence",90.0,2002.0,68.0,28
+"Conduct Disorder",80.0,2002.0,90.0,29
+"Rett Syndrome",80.0,2002.0,133.0,30
+"Psychoses Substance-Induced",75.0,2002.0,69.0,31
+"Schizotypal Personality Disorder",74.0,2002.0,64.0,32
+"Stuttering",73.0,2002.0,48.0,33
+"Apraxias",66.0,2002.0,62.0,34
+"Agoraphobia",61.0,2002.0,50.0,35
+"Asperger Syndrome",58.0,2002.0,56.0,36
+"Leukoencephalopathy",56.0,2002.0,70.0,37
+"Morphine Dependence",52.0,2002.0,76.0,38
+"Bruxism",51.0,2002.0,64.0,39
+"Agnosia",50.0,2002.0,49.0,40
+"Conversion Disorder",44.0,2002.0,31.0,41
+"Transsexualism",39.0,2002.0,65.0,42
+"Hypochondriasis",31.0,2002.0,21.0,43
+"Pedophilia",28.0,2002.0,15.0,44
+"Trichotillomania",26.0,2002.0,17.0,45
+"Stereotypic Movement Disorder",22.0,2002.0,19.0,46
+"Depersonalization",21.0,2002.0,29.0,47
+"Pica",19.0,2002.0,23.0,48
+"Mutism",19.0,2002.0,21.0,49
+"Anomia",19.0,2002.0,23.0,50
+"Tay-Sachs Disease",14.0,2002.0,36.0,51
+"Agraphia",13.0,2002.0,17.0,52
+"Compulsive Personality Disorder",11.0,2002.0,4.0,53
+"Neurocirculatory Asthenia",11.0,2002.0,13.0,54
+"Dissociative Identity Disorder",11.0,2002.0,10.0,55
+"Firesetting Behavior",10.0,2002.0,13.0,56
+"Pellagra",10.0,2002.0,5.0,57
+"Sadism",9.0,2002.0,8.0,58
+"Kleine-Levin Syndrome",8.0,2002.0,4.0,59
+"Schizoid Personality Disorder",7.0,2002.0,8.0,60
+"Transvestism",5.0,2002.0,8.0,61
+"Gerstmann Syndrome",5.0,2002.0,5.0,62
+"Acquired Dyslexia",5.0,2002.0,11.0,63
+"Psychoses Alcoholic",4.0,2002.0,1.0,64
+"Cyclothymic Disorder",4.0,2002.0,4.0,65
+"Masochism",4.0,2002.0,7.0,66
+"Akinetic Mutism",4.0,2002.0,5.0,67
+"Fetishism (Psychiatric)",3.0,2002.0,2.0,68
+"Exhibitionism",2.0,2002.0,2.0,69
+"Histrionic Personality Disorder",2.0,2002.0,3.0,70
+"Echolalia",1.0,2002.0,2.0,71
+"Depression",3855.0,2003.0,3262.0,1
+"Alzheimer Disease",2530.0,2003.0,2650.0,2
+"Schizophrenia",2369.0,2003.0,2025.0,3
+"Dementia",1447.0,2003.0,1251.0,4
+"Alcoholism",1232.0,2003.0,1183.0,5
+"Bipolar Disorder",928.0,2003.0,737.0,6
+"Sleep Apnea",871.0,2003.0,726.0,7
+"Post-Traumatic Stress Disorder",833.0,2003.0,786.0,8
+"Attention Deficit Disorder with Hyperactivity",674.0,2003.0,659.0,9
+"Autistic Disorder",516.0,2003.0,510.0,10
+"Obsessive-Compulsive Disorder",367.0,2003.0,285.0,11
+"Tobacco Use Disorder",326.0,2003.0,307.0,12
+"Anorexia Nervosa",306.0,2003.0,256.0,13
+"Creutzfeldt-Jakob Syndrome",286.0,2003.0,280.0,14
+"Bulimia",251.0,2003.0,214.0,15
+"Panic Disorder",249.0,2003.0,258.0,16
+"Heroin Dependence",224.0,2003.0,216.0,17
+"Dyslexia",182.0,2003.0,193.0,18
+"Delirium",164.0,2003.0,134.0,19
+"Aphasia",162.0,2003.0,123.0,20
+"Postpartum Depression",152.0,2003.0,149.0,21
+"Lewy Body Disease",146.0,2003.0,126.0,22
+"Amnesia",145.0,2003.0,126.0,23
+"Sexual Dysfunctions",143.0,2003.0,155.0,24
+"Marijuana Abuse",140.0,2003.0,136.0,25
+"Disorders of Excessive Somnolence",124.0,2003.0,90.0,26
+"Gambling",119.0,2003.0,97.0,27
+"Borderline Personality Disorder",118.0,2003.0,106.0,28
+"Conduct Disorder",101.0,2003.0,80.0,29
+"Asperger Syndrome",90.0,2003.0,58.0,30
+"Stuttering",89.0,2003.0,73.0,31
+"Morphine Dependence",85.0,2003.0,52.0,32
+"Rett Syndrome",84.0,2003.0,80.0,33
+"Schizotypal Personality Disorder",83.0,2003.0,74.0,34
+"Psychoses Substance-Induced",76.0,2003.0,75.0,35
+"Leukoencephalopathy",70.0,2003.0,56.0,36
+"Transsexualism",62.0,2003.0,39.0,37
+"Bruxism",56.0,2003.0,51.0,38
+"Apraxias",55.0,2003.0,66.0,39
+"Agnosia",53.0,2003.0,50.0,40
+"Agoraphobia",50.0,2003.0,61.0,41
+"Conversion Disorder",44.0,2003.0,44.0,42
+"Pica",30.0,2003.0,19.0,43
+"Trichotillomania",29.0,2003.0,26.0,44
+"Hypochondriasis",27.0,2003.0,31.0,45
+"Anomia",25.0,2003.0,19.0,46
+"Depersonalization",25.0,2003.0,21.0,47
+"Pedophilia",24.0,2003.0,28.0,48
+"Agraphia",23.0,2003.0,13.0,49
+"Mutism",22.0,2003.0,19.0,50
+"Tay-Sachs Disease",20.0,2003.0,14.0,51
+"Sadism",19.0,2003.0,9.0,52
+"Stereotypic Movement Disorder",19.0,2003.0,22.0,53
+"Acquired Dyslexia",12.0,2003.0,5.0,54
+"Compulsive Personality Disorder",12.0,2003.0,11.0,55
+"Cyclothymic Disorder",11.0,2003.0,4.0,56
+"Pellagra",11.0,2003.0,10.0,57
+"Masochism",11.0,2003.0,4.0,58
+"Transvestism",10.0,2003.0,5.0,59
+"Exhibitionism",8.0,2003.0,2.0,60
+"Akinetic Mutism",8.0,2003.0,4.0,61
+"Neurocirculatory Asthenia",7.0,2003.0,11.0,62
+"Schizoid Personality Disorder",7.0,2003.0,7.0,63
+"Histrionic Personality Disorder",7.0,2003.0,2.0,64
+"Kleine-Levin Syndrome",6.0,2003.0,8.0,65
+"Dissociative Identity Disorder",6.0,2003.0,11.0,66
+"Gerstmann Syndrome",5.0,2003.0,5.0,67
+"Psychoses Alcoholic",4.0,2003.0,4.0,68
+"Firesetting Behavior",4.0,2003.0,10.0,69
+"Echolalia",4.0,2003.0,1.0,70
+"Fetishism (Psychiatric)",4.0,2003.0,3.0,71
+"Depression",4244.0,2004.0,3855.0,1
+"Alzheimer Disease",2792.0,2004.0,2530.0,2
+"Schizophrenia",2581.0,2004.0,2369.0,3
+"Dementia",1636.0,2004.0,1447.0,4
+"Alcoholism",1243.0,2004.0,1232.0,5
+"Sleep Apnea",1023.0,2004.0,871.0,6
+"Bipolar Disorder",964.0,2004.0,928.0,7
+"Post-Traumatic Stress Disorder",956.0,2004.0,833.0,8
+"Attention Deficit Disorder with Hyperactivity",840.0,2004.0,674.0,9
+"Autistic Disorder",618.0,2004.0,516.0,10
+"Tobacco Use Disorder",392.0,2004.0,326.0,11
+"Obsessive-Compulsive Disorder",389.0,2004.0,367.0,12
+"Anorexia Nervosa",285.0,2004.0,306.0,13
+"Creutzfeldt-Jakob Syndrome",279.0,2004.0,286.0,14
+"Panic Disorder",271.0,2004.0,249.0,15
+"Bulimia",242.0,2004.0,251.0,16
+"Dyslexia",203.0,2004.0,182.0,17
+"Heroin Dependence",200.0,2004.0,224.0,18
+"Postpartum Depression",187.0,2004.0,152.0,19
+"Delirium",168.0,2004.0,164.0,20
+"Disorders of Excessive Somnolence",163.0,2004.0,124.0,21
+"Borderline Personality Disorder",163.0,2004.0,118.0,22
+"Amnesia",161.0,2004.0,145.0,23
+"Sexual Dysfunctions",159.0,2004.0,143.0,24
+"Lewy Body Disease",146.0,2004.0,146.0,25
+"Gambling",143.0,2004.0,119.0,26
+"Aphasia",142.0,2004.0,162.0,27
+"Marijuana Abuse",141.0,2004.0,140.0,28
+"Conduct Disorder",104.0,2004.0,101.0,29
+"Asperger Syndrome",87.0,2004.0,90.0,30
+"Stuttering",82.0,2004.0,89.0,31
+"Psychoses Substance-Induced",70.0,2004.0,76.0,32
+"Schizotypal Personality Disorder",66.0,2004.0,83.0,33
+"Transsexualism",64.0,2004.0,62.0,34
+"Morphine Dependence",57.0,2004.0,85.0,35
+"Agoraphobia",57.0,2004.0,50.0,36
+"Apraxias",57.0,2004.0,55.0,37
+"Rett Syndrome",56.0,2004.0,84.0,38
+"Leukoencephalopathy",47.0,2004.0,70.0,39
+"Agnosia",46.0,2004.0,53.0,40
+"Bruxism",44.0,2004.0,56.0,41
+"Conversion Disorder",42.0,2004.0,44.0,42
+"Hypochondriasis",39.0,2004.0,27.0,43
+"Anomia",34.0,2004.0,25.0,44
+"Pica",29.0,2004.0,30.0,45
+"Agraphia",26.0,2004.0,23.0,46
+"Depersonalization",23.0,2004.0,25.0,47
+"Pedophilia",22.0,2004.0,24.0,48
+"Trichotillomania",20.0,2004.0,29.0,49
+"Stereotypic Movement Disorder",19.0,2004.0,19.0,50
+"Tay-Sachs Disease",19.0,2004.0,20.0,51
+"Transvestism",18.0,2004.0,10.0,52
+"Schizoid Personality Disorder",17.0,2004.0,7.0,53
+"Mutism",14.0,2004.0,22.0,54
+"Firesetting Behavior",13.0,2004.0,4.0,55
+"Acquired Dyslexia",10.0,2004.0,12.0,56
+"Compulsive Personality Disorder",10.0,2004.0,12.0,57
+"Pellagra",9.0,2004.0,11.0,58
+"Cyclothymic Disorder",8.0,2004.0,11.0,59
+"Echolalia",8.0,2004.0,4.0,60
+"Dissociative Identity Disorder",7.0,2004.0,6.0,61
+"Sadism",6.0,2004.0,19.0,62
+"Akinetic Mutism",5.0,2004.0,8.0,63
+"Masochism",4.0,2004.0,11.0,64
+"Fetishism (Psychiatric)",3.0,2004.0,4.0,65
+"Neurocirculatory Asthenia",3.0,2004.0,7.0,66
+"Histrionic Personality Disorder",2.0,2004.0,7.0,67
+"Psychoses Alcoholic",2.0,2004.0,4.0,68
+"Gerstmann Syndrome",2.0,2004.0,5.0,69
+"Kleine-Levin Syndrome",1.0,2004.0,6.0,70
+"Depression",4350.0,2005.0,4244.0,1
+"Alzheimer Disease",2836.0,2005.0,2792.0,2
+"Schizophrenia",2597.0,2005.0,2581.0,3
+"Dementia",1553.0,2005.0,1636.0,4
+"Alcoholism",1388.0,2005.0,1243.0,5
+"Bipolar Disorder",1105.0,2005.0,964.0,6
+"Post-Traumatic Stress Disorder",1066.0,2005.0,956.0,7
+"Attention Deficit Disorder with Hyperactivity",1009.0,2005.0,840.0,8
+"Sleep Apnea",1002.0,2005.0,1023.0,9
+"Autistic Disorder",666.0,2005.0,618.0,10
+"Tobacco Use Disorder",461.0,2005.0,392.0,11
+"Obsessive-Compulsive Disorder",408.0,2005.0,389.0,12
+"Anorexia Nervosa",336.0,2005.0,285.0,13
+"Panic Disorder",275.0,2005.0,271.0,14
+"Bulimia",258.0,2005.0,242.0,15
+"Marijuana Abuse",219.0,2005.0,141.0,16
+"Creutzfeldt-Jakob Syndrome",217.0,2005.0,279.0,17
+"Heroin Dependence",213.0,2005.0,200.0,18
+"Delirium",209.0,2005.0,168.0,19
+"Sexual Dysfunctions",196.0,2005.0,159.0,20
+"Dyslexia",196.0,2005.0,203.0,21
+"Gambling",172.0,2005.0,143.0,22
+"Borderline Personality Disorder",167.0,2005.0,163.0,23
+"Aphasia",156.0,2005.0,142.0,24
+"Amnesia",155.0,2005.0,161.0,25
+"Postpartum Depression",153.0,2005.0,187.0,26
+"Disorders of Excessive Somnolence",152.0,2005.0,163.0,27
+"Lewy Body Disease",126.0,2005.0,146.0,28
+"Rett Syndrome",108.0,2005.0,56.0,29
+"Conduct Disorder",108.0,2005.0,104.0,30
+"Leukoencephalopathy",89.0,2005.0,47.0,31
+"Asperger Syndrome",84.0,2005.0,87.0,32
+"Morphine Dependence",82.0,2005.0,57.0,33
+"Schizotypal Personality Disorder",74.0,2005.0,66.0,34
+"Transsexualism",74.0,2005.0,64.0,35
+"Psychoses Substance-Induced",71.0,2005.0,70.0,36
+"Stuttering",61.0,2005.0,82.0,37
+"Bruxism",60.0,2005.0,44.0,38
+"Agoraphobia",49.0,2005.0,57.0,39
+"Apraxias",46.0,2005.0,57.0,40
+"Agnosia",42.0,2005.0,46.0,41
+"Conversion Disorder",37.0,2005.0,42.0,42
+"Anomia",35.0,2005.0,34.0,43
+"Pica",33.0,2005.0,29.0,44
+"Hypochondriasis",29.0,2005.0,39.0,45
+"Depersonalization",28.0,2005.0,23.0,46
+"Pedophilia",27.0,2005.0,22.0,47
+"Trichotillomania",26.0,2005.0,20.0,48
+"Agraphia",21.0,2005.0,26.0,49
+"Acquired Dyslexia",20.0,2005.0,10.0,50
+"Stereotypic Movement Disorder",18.0,2005.0,19.0,51
+"Tay-Sachs Disease",17.0,2005.0,19.0,52
+"Cyclothymic Disorder",17.0,2005.0,8.0,53
+"Mutism",15.0,2005.0,14.0,54
+"Dissociative Identity Disorder",13.0,2005.0,7.0,55
+"Akinetic Mutism",11.0,2005.0,5.0,56
+"Compulsive Personality Disorder",10.0,2005.0,10.0,57
+"Pellagra",9.0,2005.0,9.0,58
+"Transvestism",9.0,2005.0,18.0,59
+"Sadism",8.0,2005.0,6.0,60
+"Masochism",8.0,2005.0,4.0,61
+"Firesetting Behavior",8.0,2005.0,13.0,62
+"Fetishism (Psychiatric)",7.0,2005.0,3.0,63
+"Kleine-Levin Syndrome",6.0,2005.0,1.0,64
+"Histrionic Personality Disorder",6.0,2005.0,2.0,65
+"Psychoses Alcoholic",5.0,2005.0,2.0,66
+"Schizoid Personality Disorder",4.0,2005.0,17.0,67
+"Gerstmann Syndrome",3.0,2005.0,2.0,68
+"Echolalia",2.0,2005.0,8.0,69
+"Exhibitionism",2.0,2005.0,8.0,70
+"Neurocirculatory Asthenia",2.0,2005.0,3.0,71
+"Depression",4779.0,2006.0,4350.0,1
+"Alzheimer Disease",3015.0,2006.0,2836.0,2
+"Schizophrenia",2878.0,2006.0,2597.0,3
+"Dementia",1621.0,2006.0,1553.0,4
+"Alcoholism",1457.0,2006.0,1388.0,5
+"Post-Traumatic Stress Disorder",1179.0,2006.0,1066.0,6
+"Bipolar Disorder",1176.0,2006.0,1105.0,7
+"Sleep Apnea",1122.0,2006.0,1002.0,8
+"Attention Deficit Disorder with Hyperactivity",1002.0,2006.0,1009.0,9
+"Autistic Disorder",789.0,2006.0,666.0,10
+"Tobacco Use Disorder",455.0,2006.0,461.0,11
+"Obsessive-Compulsive Disorder",422.0,2006.0,408.0,12
+"Anorexia Nervosa",301.0,2006.0,336.0,13
+"Bulimia",297.0,2006.0,258.0,14
+"Heroin Dependence",269.0,2006.0,213.0,15
+"Panic Disorder",241.0,2006.0,275.0,16
+"Marijuana Abuse",234.0,2006.0,219.0,17
+"Dyslexia",232.0,2006.0,196.0,18
+"Postpartum Depression",227.0,2006.0,153.0,19
+"Creutzfeldt-Jakob Syndrome",226.0,2006.0,217.0,20
+"Gambling",215.0,2006.0,172.0,21
+"Delirium",204.0,2006.0,209.0,22
+"Sexual Dysfunctions",194.0,2006.0,196.0,23
+"Amnesia",193.0,2006.0,155.0,24
+"Disorders of Excessive Somnolence",183.0,2006.0,152.0,25
+"Borderline Personality Disorder",180.0,2006.0,167.0,26
+"Aphasia",174.0,2006.0,156.0,27
+"Conduct Disorder",145.0,2006.0,108.0,28
+"Lewy Body Disease",130.0,2006.0,126.0,29
+"Asperger Syndrome",128.0,2006.0,84.0,30
+"Rett Syndrome",104.0,2006.0,108.0,31
+"Transsexualism",98.0,2006.0,74.0,32
+"Leukoencephalopathy",90.0,2006.0,89.0,33
+"Schizotypal Personality Disorder",81.0,2006.0,74.0,34
+"Morphine Dependence",75.0,2006.0,82.0,35
+"Psychoses Substance-Induced",73.0,2006.0,71.0,36
+"Stuttering",70.0,2006.0,61.0,37
+"Apraxias",67.0,2006.0,46.0,38
+"Bruxism",66.0,2006.0,60.0,39
+"Agoraphobia",55.0,2006.0,49.0,40
+"Agnosia",47.0,2006.0,42.0,41
+"Conversion Disorder",39.0,2006.0,37.0,42
+"Hypochondriasis",38.0,2006.0,29.0,43
+"Trichotillomania",33.0,2006.0,26.0,44
+"Sadism",32.0,2006.0,8.0,45
+"Depersonalization",31.0,2006.0,28.0,46
+"Anomia",28.0,2006.0,35.0,47
+"Masochism",26.0,2006.0,8.0,48
+"Mutism",26.0,2006.0,15.0,49
+"Dissociative Identity Disorder",24.0,2006.0,13.0,50
+"Pica",22.0,2006.0,33.0,51
+"Agraphia",22.0,2006.0,21.0,52
+"Acquired Dyslexia",18.0,2006.0,20.0,53
+"Stereotypic Movement Disorder",18.0,2006.0,18.0,54
+"Pedophilia",17.0,2006.0,27.0,55
+"Cyclothymic Disorder",16.0,2006.0,17.0,56
+"Tay-Sachs Disease",15.0,2006.0,17.0,57
+"Compulsive Personality Disorder",14.0,2006.0,10.0,58
+"Pellagra",12.0,2006.0,9.0,59
+"Schizoid Personality Disorder",10.0,2006.0,4.0,60
+"Transvestism",10.0,2006.0,9.0,61
+"Firesetting Behavior",10.0,2006.0,8.0,62
+"Akinetic Mutism",9.0,2006.0,11.0,63
+"Psychoses Alcoholic",8.0,2006.0,5.0,64
+"Kleine-Levin Syndrome",4.0,2006.0,6.0,65
+"Fetishism (Psychiatric)",4.0,2006.0,7.0,66
+"Histrionic Personality Disorder",4.0,2006.0,6.0,67
+"Neurocirculatory Asthenia",3.0,2006.0,2.0,68
+"Echolalia",3.0,2006.0,2.0,69
+"Exhibitionism",2.0,2006.0,2.0,70
+"Frontotemporal Dementia",1.0,2006.0,1.0,71
+"Depression",5180.0,2007.0,4779.0,1
+"Schizophrenia",3078.0,2007.0,2878.0,2
+"Alzheimer Disease",2858.0,2007.0,3015.0,3
+"Dementia",1777.0,2007.0,1621.0,4
+"Alcoholism",1520.0,2007.0,1457.0,5
+"Bipolar Disorder",1306.0,2007.0,1176.0,6
+"Sleep Apnea",1234.0,2007.0,1122.0,7
+"Post-Traumatic Stress Disorder",1187.0,2007.0,1179.0,8
+"Attention Deficit Disorder with Hyperactivity",1165.0,2007.0,1002.0,9
+"Autistic Disorder",937.0,2007.0,789.0,10
+"Tobacco Use Disorder",502.0,2007.0,455.0,11
+"Obsessive-Compulsive Disorder",473.0,2007.0,422.0,12
+"Bulimia",365.0,2007.0,297.0,13
+"Anorexia Nervosa",337.0,2007.0,301.0,14
+"Panic Disorder",281.0,2007.0,241.0,15
+"Sexual Dysfunctions",263.0,2007.0,194.0,16
+"Delirium",258.0,2007.0,204.0,17
+"Marijuana Abuse",253.0,2007.0,234.0,18
+"Heroin Dependence",245.0,2007.0,269.0,19
+"Postpartum Depression",241.0,2007.0,227.0,20
+"Dyslexia",232.0,2007.0,232.0,21
+"Borderline Personality Disorder",226.0,2007.0,180.0,22
+"Aphasia",198.0,2007.0,174.0,23
+"Conduct Disorder",198.0,2007.0,145.0,24
+"Gambling",196.0,2007.0,215.0,25
+"Amnesia",193.0,2007.0,193.0,26
+"Lewy Body Disease",177.0,2007.0,130.0,27
+"Creutzfeldt-Jakob Syndrome",164.0,2007.0,226.0,28
+"Asperger Syndrome",157.0,2007.0,128.0,29
+"Disorders of Excessive Somnolence",146.0,2007.0,183.0,30
+"Schizotypal Personality Disorder",113.0,2007.0,81.0,31
+"Psychoses Substance-Induced",110.0,2007.0,73.0,32
+"Transsexualism",99.0,2007.0,98.0,33
+"Leukoencephalopathy",98.0,2007.0,90.0,34
+"Rett Syndrome",87.0,2007.0,104.0,35
+"Apraxias",78.0,2007.0,67.0,36
+"Agoraphobia",70.0,2007.0,55.0,37
+"Stuttering",62.0,2007.0,70.0,38
+"Bruxism",60.0,2007.0,66.0,39
+"Morphine Dependence",60.0,2007.0,75.0,40
+"Agnosia",56.0,2007.0,47.0,41
+"Conversion Disorder",50.0,2007.0,39.0,42
+"Anomia",33.0,2007.0,28.0,43
+"Depersonalization",33.0,2007.0,31.0,44
+"Trichotillomania",32.0,2007.0,33.0,45
+"Hypochondriasis",32.0,2007.0,38.0,46
+"Pica",25.0,2007.0,22.0,47
+"Pedophilia",25.0,2007.0,17.0,48
+"Mutism",23.0,2007.0,26.0,49
+"Stereotypic Movement Disorder",23.0,2007.0,18.0,50
+"Agraphia",17.0,2007.0,22.0,51
+"Firesetting Behavior",13.0,2007.0,10.0,52
+"Transvestism",13.0,2007.0,10.0,53
+"Tay-Sachs Disease",12.0,2007.0,15.0,54
+"Dissociative Identity Disorder",11.0,2007.0,24.0,55
+"Compulsive Personality Disorder",11.0,2007.0,14.0,56
+"Schizoid Personality Disorder",11.0,2007.0,10.0,57
+"Acquired Dyslexia",9.0,2007.0,18.0,58
+"Akinetic Mutism",8.0,2007.0,9.0,59
+"Pellagra",8.0,2007.0,12.0,60
+"Kleine-Levin Syndrome",7.0,2007.0,4.0,61
+"Cyclothymic Disorder",6.0,2007.0,16.0,62
+"Neurocirculatory Asthenia",6.0,2007.0,3.0,63
+"Sadism",6.0,2007.0,32.0,64
+"Fetishism (Psychiatric)",5.0,2007.0,4.0,65
+"Masochism",4.0,2007.0,26.0,66
+"Psychoses Alcoholic",3.0,2007.0,8.0,67
+"Echolalia",2.0,2007.0,3.0,68
+"Histrionic Personality Disorder",2.0,2007.0,4.0,69
+"Gerstmann Syndrome",1.0,2007.0,3.0,70
+"Exhibitionism",1.0,2007.0,2.0,71
+"Depression",5472.0,2008.0,5180.0,1
+"Alzheimer Disease",3137.0,2008.0,2858.0,2
+"Schizophrenia",3119.0,2008.0,3078.0,3
+"Dementia",1864.0,2008.0,1777.0,4
+"Alcoholism",1579.0,2008.0,1520.0,5
+"Bipolar Disorder",1364.0,2008.0,1306.0,6
+"Post-Traumatic Stress Disorder",1308.0,2008.0,1187.0,7
+"Sleep Apnea",1285.0,2008.0,1234.0,8
+"Attention Deficit Disorder with Hyperactivity",1247.0,2008.0,1165.0,9
+"Autistic Disorder",1096.0,2008.0,937.0,10
+"Tobacco Use Disorder",604.0,2008.0,502.0,11
+"Obsessive-Compulsive Disorder",538.0,2008.0,473.0,12
+"Anorexia Nervosa",337.0,2008.0,337.0,13
+"Marijuana Abuse",337.0,2008.0,253.0,14
+"Bulimia",323.0,2008.0,365.0,15
+"Panic Disorder",290.0,2008.0,281.0,16
+"Delirium",276.0,2008.0,258.0,17
+"Heroin Dependence",261.0,2008.0,245.0,18
+"Dyslexia",256.0,2008.0,232.0,19
+"Sexual Dysfunctions",255.0,2008.0,263.0,20
+"Postpartum Depression",248.0,2008.0,241.0,21
+"Amnesia",237.0,2008.0,193.0,22
+"Borderline Personality Disorder",231.0,2008.0,226.0,23
+"Gambling",224.0,2008.0,196.0,24
+"Conduct Disorder",196.0,2008.0,198.0,25
+"Disorders of Excessive Somnolence",188.0,2008.0,146.0,26
+"Aphasia",176.0,2008.0,198.0,27
+"Creutzfeldt-Jakob Syndrome",164.0,2008.0,164.0,28
+"Transsexualism",156.0,2008.0,99.0,29
+"Asperger Syndrome",155.0,2008.0,157.0,30
+"Lewy Body Disease",150.0,2008.0,177.0,31
+"Schizotypal Personality Disorder",109.0,2008.0,113.0,32
+"Psychoses Substance-Induced",108.0,2008.0,110.0,33
+"Leukoencephalopathy",89.0,2008.0,98.0,34
+"Stuttering",75.0,2008.0,62.0,35
+"Morphine Dependence",74.0,2008.0,60.0,36
+"Rett Syndrome",73.0,2008.0,87.0,37
+"Apraxias",70.0,2008.0,78.0,38
+"Bruxism",64.0,2008.0,60.0,39
+"Agoraphobia",60.0,2008.0,70.0,40
+"Agnosia",42.0,2008.0,56.0,41
+"Pedophilia",38.0,2008.0,25.0,42
+"Trichotillomania",37.0,2008.0,32.0,43
+"Depersonalization",34.0,2008.0,33.0,44
+"Hypochondriasis",33.0,2008.0,32.0,45
+"Anomia",33.0,2008.0,33.0,46
+"Mutism",30.0,2008.0,23.0,47
+"Conversion Disorder",30.0,2008.0,50.0,48
+"Pica",29.0,2008.0,25.0,49
+"Cyclothymic Disorder",25.0,2008.0,6.0,50
+"Agraphia",25.0,2008.0,17.0,51
+"Stereotypic Movement Disorder",20.0,2008.0,23.0,52
+"Tay-Sachs Disease",20.0,2008.0,12.0,53
+"Compulsive Personality Disorder",17.0,2008.0,11.0,54
+"Kleine-Levin Syndrome",13.0,2008.0,7.0,55
+"Transvestism",12.0,2008.0,13.0,56
+"Sadism",12.0,2008.0,6.0,57
+"Acquired Dyslexia",10.0,2008.0,9.0,58
+"Dissociative Identity Disorder",10.0,2008.0,11.0,59
+"Masochism",10.0,2008.0,4.0,60
+"Fetishism (Psychiatric)",10.0,2008.0,5.0,61
+"Pellagra",8.0,2008.0,8.0,62
+"Akinetic Mutism",8.0,2008.0,8.0,63
+"Histrionic Personality Disorder",7.0,2008.0,2.0,64
+"Schizoid Personality Disorder",6.0,2008.0,11.0,65
+"Firesetting Behavior",6.0,2008.0,13.0,66
+"Exhibitionism",6.0,2008.0,1.0,67
+"Frontotemporal Dementia",6.0,2008.0,1.0,68
+"Neurocirculatory Asthenia",5.0,2008.0,6.0,69
+"Gerstmann Syndrome",4.0,2008.0,1.0,70
+"Echolalia",3.0,2008.0,2.0,71
+"Psychoses Alcoholic",1.0,2008.0,3.0,72
+"Premature Ejaculation",1.0,2008.0,1.0,73
+"Depression",6007.0,2009.0,5472.0,1
+"Alzheimer Disease",3386.0,2009.0,3137.0,2
+"Schizophrenia",2945.0,2009.0,3119.0,3
+"Dementia",1852.0,2009.0,1864.0,4
+"Alcoholism",1477.0,2009.0,1579.0,5
+"Bipolar Disorder",1383.0,2009.0,1364.0,6
+"Sleep Apnea",1373.0,2009.0,1285.0,7
+"Post-Traumatic Stress Disorder",1325.0,2009.0,1308.0,8
+"Attention Deficit Disorder with Hyperactivity",1239.0,2009.0,1247.0,9
+"Autistic Disorder",1082.0,2009.0,1096.0,10
+"Tobacco Use Disorder",601.0,2009.0,604.0,11
+"Obsessive-Compulsive Disorder",483.0,2009.0,538.0,12
+"Anorexia Nervosa",318.0,2009.0,337.0,13
+"Bulimia",307.0,2009.0,323.0,14
+"Borderline Personality Disorder",291.0,2009.0,231.0,15
+"Sexual Dysfunctions",285.0,2009.0,255.0,16
+"Delirium",283.0,2009.0,276.0,17
+"Postpartum Depression",281.0,2009.0,248.0,18
+"Gambling",265.0,2009.0,224.0,19
+"Marijuana Abuse",258.0,2009.0,337.0,20
+"Panic Disorder",245.0,2009.0,290.0,21
+"Dyslexia",241.0,2009.0,256.0,22
+"Heroin Dependence",208.0,2009.0,261.0,23
+"Conduct Disorder",196.0,2009.0,196.0,24
+"Amnesia",195.0,2009.0,237.0,25
+"Creutzfeldt-Jakob Syndrome",189.0,2009.0,164.0,26
+"Aphasia",188.0,2009.0,176.0,27
+"Disorders of Excessive Somnolence",165.0,2009.0,188.0,28
+"Lewy Body Disease",161.0,2009.0,150.0,29
+"Transsexualism",137.0,2009.0,156.0,30
+"Asperger Syndrome",113.0,2009.0,155.0,31
+"Leukoencephalopathy",110.0,2009.0,89.0,32
+"Rett Syndrome",103.0,2009.0,73.0,33
+"Stuttering",84.0,2009.0,75.0,34
+"Schizotypal Personality Disorder",82.0,2009.0,109.0,35
+"Apraxias",70.0,2009.0,70.0,36
+"Psychoses Substance-Induced",68.0,2009.0,108.0,37
+"Bruxism",65.0,2009.0,64.0,38
+"Morphine Dependence",64.0,2009.0,74.0,39
+"Agnosia",53.0,2009.0,42.0,40
+"Conversion Disorder",51.0,2009.0,30.0,41
+"Agoraphobia",47.0,2009.0,60.0,42
+"Frontotemporal Dementia",46.0,2009.0,6.0,43
+"Trichotillomania",42.0,2009.0,37.0,44
+"Depersonalization",32.0,2009.0,34.0,45
+"Pedophilia",28.0,2009.0,38.0,46
+"Hypochondriasis",28.0,2009.0,33.0,47
+"Stereotypic Movement Disorder",22.0,2009.0,20.0,48
+"Pica",21.0,2009.0,29.0,49
+"Anomia",20.0,2009.0,33.0,50
+"Cyclothymic Disorder",20.0,2009.0,25.0,51
+"Mutism",15.0,2009.0,30.0,52
+"Agraphia",14.0,2009.0,25.0,53
+"Compulsive Personality Disorder",13.0,2009.0,17.0,54
+"Sadism",13.0,2009.0,12.0,55
+"Masochism",11.0,2009.0,10.0,56
+"Tay-Sachs Disease",11.0,2009.0,20.0,57
+"Kleine-Levin Syndrome",11.0,2009.0,13.0,58
+"Schizoid Personality Disorder",10.0,2009.0,6.0,59
+"Pellagra",9.0,2009.0,8.0,60
+"Akinetic Mutism",9.0,2009.0,8.0,61
+"Acquired Dyslexia",8.0,2009.0,10.0,62
+"Dissociative Identity Disorder",7.0,2009.0,10.0,63
+"Psychoses Alcoholic",7.0,2009.0,1.0,64
+"Transvestism",6.0,2009.0,12.0,65
+"Echolalia",5.0,2009.0,3.0,66
+"Gerstmann Syndrome",5.0,2009.0,4.0,67
+"Histrionic Personality Disorder",5.0,2009.0,7.0,68
+"Fetishism (Psychiatric)",4.0,2009.0,10.0,69
+"Exhibitionism",4.0,2009.0,6.0,70
+"Firesetting Behavior",4.0,2009.0,6.0,71
+"Neurocirculatory Asthenia",3.0,2009.0,5.0,72
+"Depression",6293.0,2010.0,6007.0,1
+"Alzheimer Disease",3687.0,2010.0,3386.0,2
+"Schizophrenia",3013.0,2010.0,2945.0,3
+"Dementia",1762.0,2010.0,1852.0,4
+"Alcoholism",1445.0,2010.0,1477.0,5
+"Post-Traumatic Stress Disorder",1430.0,2010.0,1325.0,6
+"Bipolar Disorder",1365.0,2010.0,1383.0,7
+"Sleep Apnea",1321.0,2010.0,1373.0,8
+"Attention Deficit Disorder with Hyperactivity",1294.0,2010.0,1239.0,9
+"Autistic Disorder",909.0,2010.0,1082.0,10
+"Tobacco Use Disorder",506.0,2010.0,601.0,11
+"Obsessive-Compulsive Disorder",492.0,2010.0,483.0,12
+"Delirium",322.0,2010.0,283.0,13
+"Sexual Dysfunctions",311.0,2010.0,285.0,14
+"Anorexia Nervosa",292.0,2010.0,318.0,15
+"Gambling",288.0,2010.0,265.0,16
+"Marijuana Abuse",283.0,2010.0,258.0,17
+"Panic Disorder",277.0,2010.0,245.0,18
+"Dyslexia",248.0,2010.0,241.0,19
+"Borderline Personality Disorder",248.0,2010.0,291.0,20
+"Postpartum Depression",247.0,2010.0,281.0,21
+"Bulimia",246.0,2010.0,307.0,22
+"Amnesia",220.0,2010.0,195.0,23
+"Heroin Dependence",200.0,2010.0,208.0,24
+"Aphasia",199.0,2010.0,188.0,25
+"Conduct Disorder",169.0,2010.0,196.0,26
+"Transsexualism",146.0,2010.0,137.0,27
+"Lewy Body Disease",145.0,2010.0,161.0,28
+"Creutzfeldt-Jakob Syndrome",143.0,2010.0,189.0,29
+"Frontotemporal Dementia",143.0,2010.0,46.0,30
+"Disorders of Excessive Somnolence",128.0,2010.0,165.0,31
+"Asperger Syndrome",127.0,2010.0,113.0,32
+"Rett Syndrome",99.0,2010.0,103.0,33
+"Stuttering",94.0,2010.0,84.0,34
+"Leukoencephalopathy",86.0,2010.0,110.0,35
+"Psychoses Substance-Induced",83.0,2010.0,68.0,36
+"Schizotypal Personality Disorder",67.0,2010.0,82.0,37
+"Apraxias",57.0,2010.0,70.0,38
+"Conversion Disorder",55.0,2010.0,51.0,39
+"Agnosia",55.0,2010.0,53.0,40
+"Agoraphobia",52.0,2010.0,47.0,41
+"Morphine Dependence",51.0,2010.0,64.0,42
+"Bruxism",48.0,2010.0,65.0,43
+"Hypochondriasis",33.0,2010.0,28.0,44
+"Pedophilia",32.0,2010.0,28.0,45
+"Depersonalization",31.0,2010.0,32.0,46
+"Trichotillomania",30.0,2010.0,42.0,47
+"Pica",30.0,2010.0,21.0,48
+"Stereotypic Movement Disorder",27.0,2010.0,22.0,49
+"Mutism",27.0,2010.0,15.0,50
+"Agraphia",27.0,2010.0,14.0,51
+"Cyclothymic Disorder",23.0,2010.0,20.0,52
+"Anomia",22.0,2010.0,20.0,53
+"Sadism",17.0,2010.0,13.0,54
+"Tay-Sachs Disease",14.0,2010.0,11.0,55
+"Firesetting Behavior",14.0,2010.0,4.0,56
+"Compulsive Personality Disorder",13.0,2010.0,13.0,57
+"Schizoid Personality Disorder",11.0,2010.0,10.0,58
+"Pellagra",10.0,2010.0,9.0,59
+"Kleine-Levin Syndrome",10.0,2010.0,11.0,60
+"Masochism",10.0,2010.0,11.0,61
+"Acquired Dyslexia",9.0,2010.0,8.0,62
+"Transvestism",9.0,2010.0,6.0,63
+"Fetishism (Psychiatric)",7.0,2010.0,4.0,64
+"Akinetic Mutism",6.0,2010.0,9.0,65
+"Histrionic Personality Disorder",6.0,2010.0,5.0,66
+"Exhibitionism",5.0,2010.0,4.0,67
+"Dissociative Identity Disorder",2.0,2010.0,7.0,68
+"Echolalia",2.0,2010.0,5.0,69
+"Premature Ejaculation",1.0,2010.0,1.0,70
+"Neurocirculatory Asthenia",1.0,2010.0,3.0,71
+"Psychoses Alcoholic",1.0,2010.0,7.0,72
+"Gerstmann Syndrome",1.0,2010.0,5.0,73
+"Depression",6949.0,2011.0,6293.0,1
+"Alzheimer Disease",3816.0,2011.0,3687.0,2
+"Schizophrenia",3114.0,2011.0,3013.0,3
+"Dementia",1970.0,2011.0,1762.0,4
+"Alcoholism",1452.0,2011.0,1445.0,5
+"Post-Traumatic Stress Disorder",1424.0,2011.0,1430.0,6
+"Sleep Apnea",1361.0,2011.0,1321.0,7
+"Bipolar Disorder",1333.0,2011.0,1365.0,8
+"Attention Deficit Disorder with Hyperactivity",1285.0,2011.0,1294.0,9
+"Autistic Disorder",869.0,2011.0,909.0,10
+"Tobacco Use Disorder",518.0,2011.0,506.0,11
+"Obsessive-Compulsive Disorder",494.0,2011.0,492.0,12
+"Delirium",357.0,2011.0,322.0,13
+"Anorexia Nervosa",323.0,2011.0,292.0,14
+"Marijuana Abuse",286.0,2011.0,283.0,15
+"Gambling",279.0,2011.0,288.0,16
+"Sexual Dysfunctions",279.0,2011.0,311.0,17
+"Dyslexia",277.0,2011.0,248.0,18
+"Postpartum Depression",261.0,2011.0,247.0,19
+"Aphasia",247.0,2011.0,199.0,20
+"Bulimia",236.0,2011.0,246.0,21
+"Borderline Personality Disorder",235.0,2011.0,248.0,22
+"Panic Disorder",220.0,2011.0,277.0,23
+"Heroin Dependence",197.0,2011.0,200.0,24
+"Amnesia",196.0,2011.0,220.0,25
+"Frontotemporal Dementia",185.0,2011.0,143.0,26
+"Transsexualism",184.0,2011.0,146.0,27
+"Conduct Disorder",155.0,2011.0,169.0,28
+"Lewy Body Disease",149.0,2011.0,145.0,29
+"Creutzfeldt-Jakob Syndrome",147.0,2011.0,143.0,30
+"Disorders of Excessive Somnolence",130.0,2011.0,128.0,31
+"Asperger Syndrome",121.0,2011.0,127.0,32
+"Rett Syndrome",113.0,2011.0,99.0,33
+"Stuttering",112.0,2011.0,94.0,34
+"Schizotypal Personality Disorder",107.0,2011.0,67.0,35
+"Leukoencephalopathy",102.0,2011.0,86.0,36
+"Psychoses Substance-Induced",75.0,2011.0,83.0,37
+"Apraxias",65.0,2011.0,57.0,38
+"Morphine Dependence",65.0,2011.0,51.0,39
+"Bruxism",61.0,2011.0,48.0,40
+"Agnosia",48.0,2011.0,55.0,41
+"Agoraphobia",43.0,2011.0,52.0,42
+"Conversion Disorder",43.0,2011.0,55.0,43
+"Mutism",35.0,2011.0,27.0,44
+"Hypochondriasis",33.0,2011.0,33.0,45
+"Depersonalization",32.0,2011.0,31.0,46
+"Cyclothymic Disorder",31.0,2011.0,23.0,47
+"Agraphia",31.0,2011.0,27.0,48
+"Pedophilia",30.0,2011.0,32.0,49
+"Trichotillomania",28.0,2011.0,30.0,50
+"Pica",28.0,2011.0,30.0,51
+"Stereotypic Movement Disorder",24.0,2011.0,27.0,52
+"Anomia",23.0,2011.0,22.0,53
+"Compulsive Personality Disorder",19.0,2011.0,13.0,54
+"Transvestism",17.0,2011.0,9.0,55
+"Dissociative Identity Disorder",15.0,2011.0,2.0,56
+"Dyscalculia",14.0,2011.0,1.0,57
+"Tay-Sachs Disease",13.0,2011.0,14.0,58
+"Masochism",12.0,2011.0,10.0,59
+"Sadism",12.0,2011.0,17.0,60
+"Pellagra",12.0,2011.0,10.0,61
+"Kleine-Levin Syndrome",8.0,2011.0,10.0,62
+"Akinetic Mutism",8.0,2011.0,6.0,63
+"Firesetting Behavior",7.0,2011.0,14.0,64
+"Histrionic Personality Disorder",7.0,2011.0,6.0,65
+"Acquired Dyslexia",7.0,2011.0,9.0,66
+"Schizoid Personality Disorder",5.0,2011.0,11.0,67
+"Psychoses Alcoholic",5.0,2011.0,1.0,68
+"Neurocirculatory Asthenia",4.0,2011.0,1.0,69
+"Gerstmann Syndrome",3.0,2011.0,1.0,70
+"Exhibitionism",3.0,2011.0,5.0,71
+"Fetishism (Psychiatric)",2.0,2011.0,7.0,72
+"Echolalia",1.0,2011.0,2.0,73
+"Premature Ejaculation",1.0,2011.0,1.0,74
+"Depression",7259.0,2012.0,6949.0,1
+"Alzheimer Disease",4112.0,2012.0,3816.0,2
+"Schizophrenia",3303.0,2012.0,3114.0,3
+"Dementia",1923.0,2012.0,1970.0,4
+"Post-Traumatic Stress Disorder",1572.0,2012.0,1424.0,5
+"Sleep Apnea",1563.0,2012.0,1361.0,6
+"Bipolar Disorder",1506.0,2012.0,1333.0,7
+"Alcoholism",1424.0,2012.0,1452.0,8
+"Attention Deficit Disorder with Hyperactivity",1356.0,2012.0,1285.0,9
+"Autistic Disorder",859.0,2012.0,869.0,10
+"Tobacco Use Disorder",546.0,2012.0,518.0,11
+"Obsessive-Compulsive Disorder",449.0,2012.0,494.0,12
+"Delirium",400.0,2012.0,357.0,13
+"Anorexia Nervosa",365.0,2012.0,323.0,14
+"Marijuana Abuse",310.0,2012.0,286.0,15
+"Borderline Personality Disorder",302.0,2012.0,235.0,16
+"Postpartum Depression",293.0,2012.0,261.0,17
+"Gambling",279.0,2012.0,279.0,18
+"Bulimia",264.0,2012.0,236.0,19
+"Sexual Dysfunctions",255.0,2012.0,279.0,20
+"Panic Disorder",229.0,2012.0,220.0,21
+"Dyslexia",225.0,2012.0,277.0,22
+"Heroin Dependence",223.0,2012.0,197.0,23
+"Aphasia",209.0,2012.0,247.0,24
+"Frontotemporal Dementia",204.0,2012.0,185.0,25
+"Amnesia",185.0,2012.0,196.0,26
+"Disorders of Excessive Somnolence",183.0,2012.0,130.0,27
+"Conduct Disorder",175.0,2012.0,155.0,28
+"Transsexualism",169.0,2012.0,184.0,29
+"Lewy Body Disease",169.0,2012.0,149.0,30
+"Creutzfeldt-Jakob Syndrome",137.0,2012.0,147.0,31
+"Leukoencephalopathy",124.0,2012.0,102.0,32
+"Psychoses Substance-Induced",121.0,2012.0,75.0,33
+"Asperger Syndrome",119.0,2012.0,121.0,34
+"Rett Syndrome",116.0,2012.0,113.0,35
+"Stuttering",105.0,2012.0,112.0,36
+"Schizotypal Personality Disorder",79.0,2012.0,107.0,37
+"Bruxism",74.0,2012.0,61.0,38
+"Apraxias",73.0,2012.0,65.0,39
+"Conversion Disorder",67.0,2012.0,43.0,40
+"Morphine Dependence",64.0,2012.0,65.0,41
+"Agoraphobia",52.0,2012.0,43.0,42
+"Depersonalization",48.0,2012.0,32.0,43
+"Agnosia",40.0,2012.0,48.0,44
+"Stereotypic Movement Disorder",33.0,2012.0,24.0,45
+"Premature Ejaculation",29.0,2012.0,1.0,46
+"Pica",28.0,2012.0,28.0,47
+"Pedophilia",27.0,2012.0,30.0,48
+"Hypochondriasis",27.0,2012.0,33.0,49
+"Mutism",26.0,2012.0,35.0,50
+"Dyscalculia",23.0,2012.0,14.0,51
+"Trichotillomania",23.0,2012.0,28.0,52
+"Anomia",22.0,2012.0,23.0,53
+"Agraphia",22.0,2012.0,31.0,54
+"Acquired Dyslexia",17.0,2012.0,7.0,55
+"Pellagra",16.0,2012.0,12.0,56
+"Cyclothymic Disorder",15.0,2012.0,31.0,57
+"Compulsive Personality Disorder",13.0,2012.0,19.0,58
+"Kleine-Levin Syndrome",12.0,2012.0,8.0,59
+"Sadism",11.0,2012.0,12.0,60
+"Schizoid Personality Disorder",10.0,2012.0,5.0,61
+"Akinetic Mutism",9.0,2012.0,8.0,62
+"Firesetting Behavior",8.0,2012.0,7.0,63
+"Dissociative Identity Disorder",8.0,2012.0,15.0,64
+"Tay-Sachs Disease",8.0,2012.0,13.0,65
+"Masochism",7.0,2012.0,12.0,66
+"Psychoses Alcoholic",5.0,2012.0,5.0,67
+"Histrionic Personality Disorder",4.0,2012.0,7.0,68
+"Transvestism",4.0,2012.0,17.0,69
+"Echolalia",3.0,2012.0,1.0,70
+"Fetishism (Psychiatric)",3.0,2012.0,2.0,71
+"Neurocirculatory Asthenia",3.0,2012.0,4.0,72
+"Gerstmann Syndrome",3.0,2012.0,3.0,73
+"Exhibitionism",2.0,2012.0,3.0,74
+"Depression",7991.0,2013.0,7259.0,1
+"Alzheimer Disease",4187.0,2013.0,4112.0,2
+"Schizophrenia",3420.0,2013.0,3303.0,3
+"Dementia",2026.0,2013.0,1923.0,4
+"Sleep Apnea",1854.0,2013.0,1563.0,5
+"Post-Traumatic Stress Disorder",1746.0,2013.0,1572.0,6
+"Bipolar Disorder",1542.0,2013.0,1506.0,7
+"Alcoholism",1516.0,2013.0,1424.0,8
+"Attention Deficit Disorder with Hyperactivity",1457.0,2013.0,1356.0,9
+"Autistic Disorder",906.0,2013.0,859.0,10
+"Tobacco Use Disorder",523.0,2013.0,546.0,11
+"Delirium",475.0,2013.0,400.0,12
+"Obsessive-Compulsive Disorder",472.0,2013.0,449.0,13
+"Anorexia Nervosa",384.0,2013.0,365.0,14
+"Postpartum Depression",341.0,2013.0,293.0,15
+"Marijuana Abuse",324.0,2013.0,310.0,16
+"Sexual Dysfunctions",313.0,2013.0,255.0,17
+"Borderline Personality Disorder",308.0,2013.0,302.0,18
+"Frontotemporal Dementia",281.0,2013.0,204.0,19
+"Gambling",281.0,2013.0,279.0,20
+"Bulimia",271.0,2013.0,264.0,21
+"Dyslexia",262.0,2013.0,225.0,22
+"Aphasia",260.0,2013.0,209.0,23
+"Heroin Dependence",256.0,2013.0,223.0,24
+"Panic Disorder",245.0,2013.0,229.0,25
+"Disorders of Excessive Somnolence",201.0,2013.0,183.0,26
+"Amnesia",200.0,2013.0,185.0,27
+"Conduct Disorder",180.0,2013.0,175.0,28
+"Lewy Body Disease",176.0,2013.0,169.0,29
+"Creutzfeldt-Jakob Syndrome",153.0,2013.0,137.0,30
+"Leukoencephalopathy",126.0,2013.0,124.0,31
+"Asperger Syndrome",123.0,2013.0,119.0,32
+"Rett Syndrome",116.0,2013.0,116.0,33
+"Transsexualism",96.0,2013.0,169.0,34
+"Psychoses Substance-Induced",92.0,2013.0,121.0,35
+"Stuttering",89.0,2013.0,105.0,36
+"Schizotypal Personality Disorder",86.0,2013.0,79.0,37
+"Conversion Disorder",80.0,2013.0,67.0,38
+"Apraxias",78.0,2013.0,73.0,39
+"Bruxism",61.0,2013.0,74.0,40
+"Premature Ejaculation",59.0,2013.0,29.0,41
+"Agnosia",55.0,2013.0,40.0,42
+"Agoraphobia",45.0,2013.0,52.0,43
+"Morphine Dependence",42.0,2013.0,64.0,44
+"Depersonalization",37.0,2013.0,48.0,45
+"Pedophilia",36.0,2013.0,27.0,46
+"Pica",32.0,2013.0,28.0,47
+"Hypochondriasis",31.0,2013.0,27.0,48
+"Dyscalculia",30.0,2013.0,23.0,49
+"Agraphia",30.0,2013.0,22.0,50
+"Stereotypic Movement Disorder",29.0,2013.0,33.0,51
+"Cyclothymic Disorder",24.0,2013.0,15.0,52
+"Mutism",24.0,2013.0,26.0,53
+"Trichotillomania",21.0,2013.0,23.0,54
+"Dissociative Identity Disorder",20.0,2013.0,8.0,55
+"Anomia",18.0,2013.0,22.0,56
+"Sadism",13.0,2013.0,11.0,57
+"Masochism",13.0,2013.0,7.0,58
+"Kleine-Levin Syndrome",11.0,2013.0,12.0,59
+"Firesetting Behavior",10.0,2013.0,8.0,60
+"Akinetic Mutism",9.0,2013.0,9.0,61
+"Pellagra",9.0,2013.0,16.0,62
+"Schizoid Personality Disorder",8.0,2013.0,10.0,63
+"Compulsive Personality Disorder",7.0,2013.0,13.0,64
+"Fetishism (Psychiatric)",6.0,2013.0,3.0,65
+"Histrionic Personality Disorder",5.0,2013.0,4.0,66
+"Echolalia",5.0,2013.0,3.0,67
+"Tay-Sachs Disease",4.0,2013.0,8.0,68
+"Acquired Dyslexia",4.0,2013.0,17.0,69
+"Transvestism",3.0,2013.0,4.0,70
+"Psychoses Alcoholic",3.0,2013.0,5.0,71
+"Gerstmann Syndrome",3.0,2013.0,3.0,72
+"Neurocirculatory Asthenia",1.0,2013.0,3.0,73
+"Exhibitionism",1.0,2013.0,2.0,74
+"Depression",8241.0,2014.0,7991.0,1
+"Alzheimer Disease",4355.0,2014.0,4187.0,2
+"Schizophrenia",3201.0,2014.0,3420.0,3
+"Dementia",2189.0,2014.0,2026.0,4
+"Sleep Apnea",1876.0,2014.0,1854.0,5
+"Post-Traumatic Stress Disorder",1762.0,2014.0,1746.0,6
+"Alcoholism",1567.0,2014.0,1516.0,7
+"Bipolar Disorder",1554.0,2014.0,1542.0,8
+"Attention Deficit Disorder with Hyperactivity",1542.0,2014.0,1457.0,9
+"Autistic Disorder",811.0,2014.0,906.0,10
+"Tobacco Use Disorder",714.0,2014.0,523.0,11
+"Obsessive-Compulsive Disorder",542.0,2014.0,472.0,12
+"Delirium",525.0,2014.0,475.0,13
+"Anorexia Nervosa",388.0,2014.0,384.0,14
+"Gambling",345.0,2014.0,281.0,15
+"Marijuana Abuse",325.0,2014.0,324.0,16
+"Postpartum Depression",313.0,2014.0,341.0,17
+"Borderline Personality Disorder",296.0,2014.0,308.0,18
+"Frontotemporal Dementia",282.0,2014.0,281.0,19
+"Bulimia",272.0,2014.0,271.0,20
+"Dyslexia",245.0,2014.0,262.0,21
+"Sexual Dysfunctions",233.0,2014.0,313.0,22
+"Panic Disorder",221.0,2014.0,245.0,23
+"Heroin Dependence",198.0,2014.0,256.0,24
+"Aphasia",192.0,2014.0,260.0,25
+"Conduct Disorder",178.0,2014.0,180.0,26
+"Amnesia",169.0,2014.0,200.0,27
+"Disorders of Excessive Somnolence",155.0,2014.0,201.0,28
+"Creutzfeldt-Jakob Syndrome",153.0,2014.0,153.0,29
+"Lewy Body Disease",146.0,2014.0,176.0,30
+"Transsexualism",131.0,2014.0,96.0,31
+"Rett Syndrome",116.0,2014.0,116.0,32
+"Leukoencephalopathy",115.0,2014.0,126.0,33
+"Apraxias",96.0,2014.0,78.0,34
+"Schizotypal Personality Disorder",81.0,2014.0,86.0,35
+"Psychoses Substance-Induced",75.0,2014.0,92.0,36
+"Premature Ejaculation",75.0,2014.0,59.0,37
+"Asperger Syndrome",75.0,2014.0,123.0,38
+"Stuttering",73.0,2014.0,89.0,39
+"Conversion Disorder",65.0,2014.0,80.0,40
+"Bruxism",61.0,2014.0,61.0,41
+"Morphine Dependence",54.0,2014.0,42.0,42
+"Agnosia",53.0,2014.0,55.0,43
+"Agoraphobia",47.0,2014.0,45.0,44
+"Depersonalization",43.0,2014.0,37.0,45
+"Hypochondriasis",40.0,2014.0,31.0,46
+"Trichotillomania",38.0,2014.0,21.0,47
+"Pica",33.0,2014.0,32.0,48
+"Pedophilia",30.0,2014.0,36.0,49
+"Agraphia",26.0,2014.0,30.0,50
+"Dyscalculia",25.0,2014.0,30.0,51
+"Stereotypic Movement Disorder",21.0,2014.0,29.0,52
+"Cyclothymic Disorder",19.0,2014.0,24.0,53
+"Anomia",19.0,2014.0,18.0,54
+"Compulsive Personality Disorder",18.0,2014.0,7.0,55
+"Acquired Dyslexia",15.0,2014.0,4.0,56
+"Pellagra",13.0,2014.0,9.0,57
+"Sadism",12.0,2014.0,13.0,58
+"Dissociative Identity Disorder",11.0,2014.0,20.0,59
+"Tay-Sachs Disease",11.0,2014.0,4.0,60
+"Mutism",9.0,2014.0,24.0,61
+"Masochism",9.0,2014.0,13.0,62
+"Kleine-Levin Syndrome",9.0,2014.0,11.0,63
+"Akinetic Mutism",5.0,2014.0,9.0,64
+"Fetishism (Psychiatric)",4.0,2014.0,6.0,65
+"Transvestism",4.0,2014.0,3.0,66
+"Gerstmann Syndrome",4.0,2014.0,3.0,67
+"Firesetting Behavior",4.0,2014.0,10.0,68
+"Schizoid Personality Disorder",4.0,2014.0,8.0,69
+"Neurocirculatory Asthenia",2.0,2014.0,1.0,70
+"Histrionic Personality Disorder",2.0,2014.0,5.0,71
+"Echolalia",2.0,2014.0,5.0,72
+"Exhibitionism",1.0,2014.0,1.0,73
+"Psychoses Alcoholic",1.0,2014.0,3.0,74
+"Depression",8693.0,2015.0,8241.0,1
+"Alzheimer Disease",4399.0,2015.0,4355.0,2
+"Schizophrenia",3241.0,2015.0,3201.0,3
+"Dementia",2323.0,2015.0,2189.0,4
+"Sleep Apnea",1912.0,2015.0,1876.0,5
+"Post-Traumatic Stress Disorder",1898.0,2015.0,1762.0,6
+"Bipolar Disorder",1598.0,2015.0,1554.0,7
+"Attention Deficit Disorder with Hyperactivity",1494.0,2015.0,1542.0,8
+"Alcoholism",1363.0,2015.0,1567.0,9
+"Autistic Disorder",820.0,2015.0,811.0,10
+"Tobacco Use Disorder",732.0,2015.0,714.0,11
+"Obsessive-Compulsive Disorder",564.0,2015.0,542.0,12
+"Delirium",498.0,2015.0,525.0,13
+"Anorexia Nervosa",409.0,2015.0,388.0,14
+"Gambling",393.0,2015.0,345.0,15
+"Marijuana Abuse",342.0,2015.0,325.0,16
+"Postpartum Depression",341.0,2015.0,313.0,17
+"Borderline Personality Disorder",330.0,2015.0,296.0,18
+"Bulimia",305.0,2015.0,272.0,19
+"Frontotemporal Dementia",294.0,2015.0,282.0,20
+"Sexual Dysfunctions",258.0,2015.0,233.0,21
+"Heroin Dependence",257.0,2015.0,198.0,22
+"Dyslexia",238.0,2015.0,245.0,23
+"Aphasia",221.0,2015.0,192.0,24
+"Lewy Body Disease",183.0,2015.0,146.0,25
+"Amnesia",170.0,2015.0,169.0,26
+"Panic Disorder",159.0,2015.0,221.0,27
+"Conduct Disorder",145.0,2015.0,178.0,28
+"Disorders of Excessive Somnolence",125.0,2015.0,155.0,29
+"Transsexualism",119.0,2015.0,131.0,30
+"Rett Syndrome",115.0,2015.0,116.0,31
+"Creutzfeldt-Jakob Syndrome",110.0,2015.0,153.0,32
+"Leukoencephalopathy",101.0,2015.0,115.0,33
+"Psychoses Substance-Induced",97.0,2015.0,75.0,34
+"Schizotypal Personality Disorder",87.0,2015.0,81.0,35
+"Stuttering",80.0,2015.0,73.0,36
+"Apraxias",77.0,2015.0,96.0,37
+"Premature Ejaculation",62.0,2015.0,75.0,38
+"Conversion Disorder",59.0,2015.0,65.0,39
+"Asperger Syndrome",55.0,2015.0,75.0,40
+"Bruxism",47.0,2015.0,61.0,41
+"Morphine Dependence",46.0,2015.0,54.0,42
+"Agnosia",43.0,2015.0,53.0,43
+"Trichotillomania",43.0,2015.0,38.0,44
+"Pedophilia",41.0,2015.0,30.0,45
+"Hypochondriasis",36.0,2015.0,40.0,46
+"Depersonalization",35.0,2015.0,43.0,47
+"Agoraphobia",32.0,2015.0,47.0,48
+"Agraphia",32.0,2015.0,26.0,49
+"Dyscalculia",28.0,2015.0,25.0,50
+"Cyclothymic Disorder",26.0,2015.0,19.0,51
+"Pica",25.0,2015.0,33.0,52
+"Compulsive Personality Disorder",22.0,2015.0,18.0,53
+"Anomia",20.0,2015.0,19.0,54
+"Mutism",16.0,2015.0,9.0,55
+"Tay-Sachs Disease",15.0,2015.0,11.0,56
+"Stereotypic Movement Disorder",14.0,2015.0,21.0,57
+"Firesetting Behavior",12.0,2015.0,4.0,58
+"Dissociative Identity Disorder",12.0,2015.0,11.0,59
+"Pellagra",12.0,2015.0,13.0,60
+"Masochism",11.0,2015.0,9.0,61
+"Kleine-Levin Syndrome",9.0,2015.0,9.0,62
+"Psychoses Alcoholic",8.0,2015.0,1.0,63
+"Acquired Dyslexia",8.0,2015.0,15.0,64
+"Transvestism",8.0,2015.0,4.0,65
+"Schizoid Personality Disorder",4.0,2015.0,4.0,66
+"Akinetic Mutism",4.0,2015.0,5.0,67
+"Sadism",4.0,2015.0,12.0,68
+"Echolalia",3.0,2015.0,2.0,69
+"Exhibitionism",2.0,2015.0,1.0,70
+"Fetishism (Psychiatric)",2.0,2015.0,4.0,71
+"Neurocirculatory Asthenia",2.0,2015.0,2.0,72
+"Gerstmann Syndrome",2.0,2015.0,4.0,73
+"Depression",9014.0,2016.0,8693.0,1
+"Alzheimer Disease",4542.0,2016.0,4399.0,2
+"Schizophrenia",3130.0,2016.0,3241.0,3
+"Dementia",2451.0,2016.0,2323.0,4
+"Sleep Apnea",2010.0,2016.0,1912.0,5
+"Post-Traumatic Stress Disorder",1919.0,2016.0,1898.0,6
+"Bipolar Disorder",1501.0,2016.0,1598.0,7
+"Attention Deficit Disorder with Hyperactivity",1474.0,2016.0,1494.0,8
+"Alcoholism",1193.0,2016.0,1363.0,9
+"Autistic Disorder",725.0,2016.0,820.0,10
+"Tobacco Use Disorder",660.0,2016.0,732.0,11
+"Delirium",532.0,2016.0,498.0,12
+"Obsessive-Compulsive Disorder",521.0,2016.0,564.0,13
+"Anorexia Nervosa",419.0,2016.0,409.0,14
+"Postpartum Depression",379.0,2016.0,341.0,15
+"Marijuana Abuse",373.0,2016.0,342.0,16
+"Gambling",358.0,2016.0,393.0,17
+"Frontotemporal Dementia",340.0,2016.0,294.0,18
+"Borderline Personality Disorder",305.0,2016.0,330.0,19
+"Sexual Dysfunctions",277.0,2016.0,258.0,20
+"Bulimia",267.0,2016.0,305.0,21
+"Lewy Body Disease",215.0,2016.0,183.0,22
+"Aphasia",209.0,2016.0,221.0,23
+"Dyslexia",206.0,2016.0,238.0,24
+"Heroin Dependence",192.0,2016.0,257.0,25
+"Amnesia",186.0,2016.0,170.0,26
+"Conduct Disorder",181.0,2016.0,145.0,27
+"Disorders of Excessive Somnolence",165.0,2016.0,125.0,28
+"Panic Disorder",158.0,2016.0,159.0,29
+"Rett Syndrome",148.0,2016.0,115.0,30
+"Transsexualism",136.0,2016.0,119.0,31
+"Creutzfeldt-Jakob Syndrome",131.0,2016.0,110.0,32
+"Leukoencephalopathy",106.0,2016.0,101.0,33
+"Stuttering",94.0,2016.0,80.0,34
+"Psychoses Substance-Induced",92.0,2016.0,97.0,35
+"Conversion Disorder",76.0,2016.0,59.0,36
+"Apraxias",71.0,2016.0,77.0,37
+"Schizotypal Personality Disorder",68.0,2016.0,87.0,38
+"Agnosia",65.0,2016.0,43.0,39
+"Premature Ejaculation",58.0,2016.0,62.0,40
+"Bruxism",57.0,2016.0,47.0,41
+"Asperger Syndrome",49.0,2016.0,55.0,42
+"Hypochondriasis",42.0,2016.0,36.0,43
+"Morphine Dependence",41.0,2016.0,46.0,44
+"Depersonalization",40.0,2016.0,35.0,45
+"Trichotillomania",39.0,2016.0,43.0,46
+"Cyclothymic Disorder",35.0,2016.0,26.0,47
+"Pedophilia",31.0,2016.0,41.0,48
+"Agoraphobia",30.0,2016.0,32.0,49
+"Pica",28.0,2016.0,25.0,50
+"Compulsive Personality Disorder",27.0,2016.0,22.0,51
+"Dyscalculia",27.0,2016.0,28.0,52
+"Anomia",17.0,2016.0,20.0,53
+"Kleine-Levin Syndrome",16.0,2016.0,9.0,54
+"Mutism",16.0,2016.0,16.0,55
+"Dissociative Identity Disorder",14.0,2016.0,12.0,56
+"Stereotypic Movement Disorder",13.0,2016.0,14.0,57
+"Agraphia",13.0,2016.0,32.0,58
+"Firesetting Behavior",12.0,2016.0,12.0,59
+"Tay-Sachs Disease",11.0,2016.0,15.0,60
+"Sadism",9.0,2016.0,4.0,61
+"Masochism",8.0,2016.0,11.0,62
+"Pellagra",7.0,2016.0,12.0,63
+"Transvestism",7.0,2016.0,8.0,64
+"Acquired Dyslexia",6.0,2016.0,8.0,65
+"Schizoid Personality Disorder",4.0,2016.0,4.0,66
+"Exhibitionism",3.0,2016.0,2.0,67
+"Echolalia",2.0,2016.0,3.0,68
+"Akinetic Mutism",2.0,2016.0,4.0,69
+"Fetishism (Psychiatric)",2.0,2016.0,2.0,70
+"Psychoses Alcoholic",2.0,2016.0,8.0,71
+"Neurocirculatory Asthenia",2.0,2016.0,2.0,72
+"Gerstmann Syndrome",2.0,2016.0,2.0,73
+"Depression",8449.0,2017.0,9014.0,1
+"Alzheimer Disease",4302.0,2017.0,4542.0,2
+"Schizophrenia",2685.0,2017.0,3130.0,3
+"Dementia",2391.0,2017.0,2451.0,4
+"Post-Traumatic Stress Disorder",1859.0,2017.0,1919.0,5
+"Sleep Apnea",1786.0,2017.0,2010.0,6
+"Bipolar Disorder",1370.0,2017.0,1501.0,7
+"Attention Deficit Disorder with Hyperactivity",1370.0,2017.0,1474.0,8
+"Alcoholism",1304.0,2017.0,1193.0,9
+"Autistic Disorder",615.0,2017.0,725.0,10
+"Delirium",517.0,2017.0,532.0,11
+"Tobacco Use Disorder",464.0,2017.0,660.0,12
+"Obsessive-Compulsive Disorder",452.0,2017.0,521.0,13
+"Postpartum Depression",341.0,2017.0,379.0,14
+"Anorexia Nervosa",332.0,2017.0,419.0,15
+"Gambling",330.0,2017.0,358.0,16
+"Marijuana Abuse",293.0,2017.0,373.0,17
+"Frontotemporal Dementia",288.0,2017.0,340.0,18
+"Borderline Personality Disorder",268.0,2017.0,305.0,19
+"Aphasia",225.0,2017.0,209.0,20
+"Sexual Dysfunctions",221.0,2017.0,277.0,21
+"Dyslexia",213.0,2017.0,206.0,22
+"Bulimia",210.0,2017.0,267.0,23
+"Lewy Body Disease",184.0,2017.0,215.0,24
+"Amnesia",167.0,2017.0,186.0,25
+"Heroin Dependence",161.0,2017.0,192.0,26
+"Conduct Disorder",155.0,2017.0,181.0,27
+"Disorders of Excessive Somnolence",154.0,2017.0,165.0,28
+"Panic Disorder",141.0,2017.0,158.0,29
+"Transsexualism",131.0,2017.0,136.0,30
+"Rett Syndrome",116.0,2017.0,148.0,31
+"Creutzfeldt-Jakob Syndrome",110.0,2017.0,131.0,32
+"Leukoencephalopathy",102.0,2017.0,106.0,33
+"Stuttering",98.0,2017.0,94.0,34
+"Apraxias",74.0,2017.0,71.0,35
+"Schizotypal Personality Disorder",67.0,2017.0,68.0,36
+"Psychoses Substance-Induced",59.0,2017.0,92.0,37
+"Depersonalization",53.0,2017.0,40.0,38
+"Bruxism",49.0,2017.0,57.0,39
+"Conversion Disorder",44.0,2017.0,76.0,40
+"Agnosia",40.0,2017.0,65.0,41
+"Morphine Dependence",39.0,2017.0,41.0,42
+"Trichotillomania",38.0,2017.0,39.0,43
+"Premature Ejaculation",38.0,2017.0,58.0,44
+"Asperger Syndrome",35.0,2017.0,49.0,45
+"Agoraphobia",32.0,2017.0,30.0,46
+"Hypochondriasis",28.0,2017.0,42.0,47
+"Pedophilia",27.0,2017.0,31.0,48
+"Pica",27.0,2017.0,28.0,49
+"Dyscalculia",25.0,2017.0,27.0,50
+"Cyclothymic Disorder",25.0,2017.0,35.0,51
+"Mutism",22.0,2017.0,16.0,52
+"Anomia",16.0,2017.0,17.0,53
+"Stereotypic Movement Disorder",16.0,2017.0,13.0,54
+"Agraphia",15.0,2017.0,13.0,55
+"Masochism",12.0,2017.0,8.0,56
+"Kleine-Levin Syndrome",11.0,2017.0,16.0,57
+"Compulsive Personality Disorder",11.0,2017.0,27.0,58
+"Sadism",10.0,2017.0,9.0,59
+"Pellagra",8.0,2017.0,7.0,60
+"Akinetic Mutism",8.0,2017.0,2.0,61
+"Firesetting Behavior",6.0,2017.0,12.0,62
+"Tay-Sachs Disease",6.0,2017.0,11.0,63
+"Dissociative Identity Disorder",6.0,2017.0,14.0,64
+"Acquired Dyslexia",5.0,2017.0,6.0,65
+"Exhibitionism",4.0,2017.0,3.0,66
+"Transvestism",3.0,2017.0,7.0,67
+"Schizoid Personality Disorder",3.0,2017.0,4.0,68
+"Psychoses Alcoholic",3.0,2017.0,2.0,69
+"Fetishism (Psychiatric)",2.0,2017.0,2.0,70
+"Echolalia",2.0,2017.0,2.0,71
+"Gerstmann Syndrome",1.0,2017.0,2.0,72
+"Neurocirculatory Asthenia",1.0,2017.0,2.0,73
+"Depression",2713.0,2018.0,8449.0,1
+"Alzheimer Disease",1184.0,2018.0,4302.0,2
+"Schizophrenia",837.0,2018.0,2685.0,3
+"Dementia",635.0,2018.0,2391.0,4
+"Sleep Apnea",505.0,2018.0,1786.0,5
+"Post-Traumatic Stress Disorder",486.0,2018.0,1859.0,6
+"Bipolar Disorder",415.0,2018.0,1370.0,7
+"Alcoholism",383.0,2018.0,1304.0,8
+"Attention Deficit Disorder with Hyperactivity",371.0,2018.0,1370.0,9
+"Delirium",188.0,2018.0,517.0,10
+"Autistic Disorder",146.0,2018.0,615.0,11
+"Gambling",131.0,2018.0,330.0,12
+"Obsessive-Compulsive Disorder",127.0,2018.0,452.0,13
+"Anorexia Nervosa",109.0,2018.0,332.0,14
+"Postpartum Depression",104.0,2018.0,341.0,15
+"Marijuana Abuse",102.0,2018.0,293.0,16
+"Tobacco Use Disorder",101.0,2018.0,464.0,17
+"Borderline Personality Disorder",98.0,2018.0,268.0,18
+"Frontotemporal Dementia",73.0,2018.0,288.0,19
+"Dyslexia",72.0,2018.0,213.0,20
+"Bulimia",68.0,2018.0,210.0,21
+"Aphasia",63.0,2018.0,225.0,22
+"Transsexualism",55.0,2018.0,131.0,23
+"Heroin Dependence",49.0,2018.0,161.0,24
+"Sexual Dysfunctions",45.0,2018.0,221.0,25
+"Lewy Body Disease",45.0,2018.0,184.0,26
+"Panic Disorder",42.0,2018.0,141.0,27
+"Amnesia",40.0,2018.0,167.0,28
+"Leukoencephalopathy",39.0,2018.0,102.0,29
+"Conduct Disorder",39.0,2018.0,155.0,30
+"Rett Syndrome",37.0,2018.0,116.0,31
+"Disorders of Excessive Somnolence",27.0,2018.0,154.0,32
+"Creutzfeldt-Jakob Syndrome",25.0,2018.0,110.0,33
+"Schizotypal Personality Disorder",22.0,2018.0,67.0,34
+"Depersonalization",21.0,2018.0,53.0,35
+"Psychoses Substance-Induced",17.0,2018.0,59.0,36
+"Premature Ejaculation",16.0,2018.0,38.0,37
+"Apraxias",16.0,2018.0,74.0,38
+"Bruxism",15.0,2018.0,49.0,39
+"Conversion Disorder",14.0,2018.0,44.0,40
+"Pedophilia",14.0,2018.0,27.0,41
+"Pica",13.0,2018.0,27.0,42
+"Stuttering",12.0,2018.0,98.0,43
+"Cyclothymic Disorder",12.0,2018.0,25.0,44
+"Trichotillomania",12.0,2018.0,38.0,45
+"Agoraphobia",11.0,2018.0,32.0,46
+"Morphine Dependence",11.0,2018.0,39.0,47
+"Mutism",10.0,2018.0,22.0,48
+"Dyscalculia",7.0,2018.0,25.0,49
+"Agnosia",7.0,2018.0,40.0,50
+"Agraphia",6.0,2018.0,15.0,51
+"Kleine-Levin Syndrome",6.0,2018.0,11.0,52
+"Dissociative Identity Disorder",6.0,2018.0,6.0,53
+"Stereotypic Movement Disorder",4.0,2018.0,16.0,54
+"Asperger Syndrome",4.0,2018.0,35.0,55
+"Pellagra",4.0,2018.0,8.0,56
+"Tay-Sachs Disease",4.0,2018.0,6.0,57
+"Masochism",4.0,2018.0,12.0,58
+"Transvestism",4.0,2018.0,3.0,59
+"Compulsive Personality Disorder",3.0,2018.0,11.0,60
+"Firesetting Behavior",3.0,2018.0,6.0,61
+"Sadism",3.0,2018.0,10.0,62
+"Hypochondriasis",2.0,2018.0,28.0,63
+"Akinetic Mutism",2.0,2018.0,8.0,64
+"Anomia",2.0,2018.0,16.0,65
+"Gerstmann Syndrome",2.0,2018.0,1.0,66
+"Fetishism (Psychiatric)",2.0,2018.0,2.0,67
+"Histrionic Personality Disorder",1.0,2018.0,2.0,68
+"Acquired Dyslexia",1.0,2018.0,5.0,69
+"Psychoses Alcoholic",1.0,2018.0,3.0,70
+"Schizoid Personality Disorder",1.0,2018.0,3.0,71
+"Stereotypic Movement Disorder",1.0,2019.0,4.0,1
